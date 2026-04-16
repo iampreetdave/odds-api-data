@@ -45,38 +45,58 @@ jobs:
       - name: Install dependencies
         run: pip install aiohttp aiofiles pandas numpy
 
+      - name: Git config
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Reset checkpoint
         if: ${{ github.event.inputs.reset_checkpoint == 'true' }}
         run: rm -f odds_data/checkpoint.json
 
-      - name: Run fetch.py
-        run: |
-          MODE="${{ github.event.inputs.mode }}"
-          MODE="${MODE:-both}"
-          RESET_FLAG=""
-          if [ "${{ github.event.inputs.reset_checkpoint }}" = "true" ]; then
-            RESET_FLAG="--reset"
-          fi
-          case "$MODE" in
-            current-only)    python odds.py --current-only    $RESET_FLAG ;;
-            historical-only) python odds.py --historical-only $RESET_FLAG ;;
-            *)               python odds.py                   $RESET_FLAG ;;
-          esac
+      - name: Fetch current odds
+        if: ${{ github.event.inputs.mode != 'historical-only' }}
+        run: python odds.py --current-only
+        continue-on-error: true
 
-      - name: Commit and push
+      - name: Commit current odds
+        if: ${{ github.event.inputs.mode != 'historical-only' }}
+        continue-on-error: true
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add odds_data/
-          if git diff --cached --quiet; then
-            echo "No new data."
-            exit 0
-          fi
+          git diff --cached --quiet && exit 0
+          git commit -m "data: current odds $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Fetch historical odds
+        if: ${{ github.event.inputs.mode != 'current-only' }}
+        run: python odds.py --historical-only
+        continue-on-error: true
+
+      - name: Commit historical + ML
+        continue-on-error: true
+        run: |
+          git pull --rebase origin main
+          git add odds_data/
+          git diff --cached --quiet && echo "No new data." && exit 0
           TASKS=$(python -c "
           import json
           from pathlib import Path
           cp = Path('odds_data/checkpoint.json')
           print(len(json.loads(cp.read_text()).get('done', [])) if cp.exists() else 0)
           ")
-          git commit -m "data: $(date -u '+%Y-%m-%d %H:%M UTC') | ${TASKS} tasks done"
+          git commit -m "data: historical $(date -u '+%Y-%m-%d %H:%M UTC') | ${TASKS} tasks done"
+          git push
+
+      - name: Build ML tables
+        run: python odds.py --ml-only
+        continue-on-error: true
+
+      - name: Commit ML tables
+        continue-on-error: true
+        run: |
+          git pull --rebase origin main
+          git add odds_data/
+          git diff --cached --quiet && echo "No new ML data." && exit 0
+          git commit -m "ml: tables rebuilt $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
