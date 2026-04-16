@@ -2,8 +2,8 @@ name: Fetch Sports Odds Data
 
 on:
   schedule:
-    - cron: "0 6 * * *"       # runs daily at 6 AM UTC
-  workflow_dispatch:           # manual trigger from GitHub UI
+    - cron: "0 6 * * *"
+  workflow_dispatch:
     inputs:
       mode:
         description: "Fetch mode"
@@ -24,16 +24,13 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     timeout-minutes: 340
-
     permissions:
       contents: write
-
     env:
       ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
       PYTHONIOENCODING: utf-8
 
     steps:
-
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -46,54 +43,40 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install aiohttp aiofiles pandas numpy
 
       - name: Reset checkpoint
         if: ${{ github.event.inputs.reset_checkpoint == 'true' }}
         run: rm -f odds_data/checkpoint.json
 
-      - name: Fetch current odds
-        if: ${{ github.event.inputs.mode != 'historical-only' }}
-        run: python odd.py --current-only --concurrency 10 --rate 5
-        continue-on-error: true
-
-      - name: Fetch historical odds
-        if: ${{ github.event.inputs.mode != 'current-only' }}
+      - name: Run fetch.py
         run: |
-          python odd.py \
-            --historical-only \
-            --all-sports \
-            --date-start 2015-01-01 \
-            --date-end $(date +%Y-%m-%d) \
-            --step-days 1 \
-            --concurrency 10 \
-            --rate 5
-
-      - name: Build ML tables
-        run: python build_ml.py
-        continue-on-error: true
+          MODE="${{ github.event.inputs.mode }}"
+          MODE="${MODE:-both}"
+          RESET_FLAG=""
+          if [ "${{ github.event.inputs.reset_checkpoint }}" = "true" ]; then
+            RESET_FLAG="--reset"
+          fi
+          case "$MODE" in
+            current-only)    python odds.py --current-only    $RESET_FLAG ;;
+            historical-only) python odds.py --historical-only $RESET_FLAG ;;
+            *)               python odds.py                   $RESET_FLAG ;;
+          esac
 
       - name: Commit and push
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           git add odds_data/
-
           if git diff --cached --quiet; then
-            echo "No new data - nothing to commit."
+            echo "No new data."
             exit 0
           fi
-
           TASKS=$(python -c "
           import json
           from pathlib import Path
           cp = Path('odds_data/checkpoint.json')
-          if cp.exists():
-              print(len(json.loads(cp.read_text()).get('completed', [])))
-          else:
-              print(0)
+          print(len(json.loads(cp.read_text()).get('done', [])) if cp.exists() else 0)
           ")
-
-          git commit -m "data: $(date -u '+%Y-%m-%d %H:%M UTC') | ${TASKS} tasks completed"
+          git commit -m "data: $(date -u '+%Y-%m-%d %H:%M UTC') | ${TASKS} tasks done"
           git push
