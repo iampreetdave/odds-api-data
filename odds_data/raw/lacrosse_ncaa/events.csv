@@ -1,0 +1,38 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+baa63f7c76d0776d69876f715715db2e,lacrosse_ncaa,NCAA Lacrosse,Cleveland St Vikings,Le Moyne Dolphins,2026-04-17T22:00:00Z,2026-04-16T19:00:08.347711+00:00
+dca2f7469bad3d49f7fb272361f7e141,lacrosse_ncaa,NCAA Lacrosse,Ohio State Buckeyes,Michigan Wolverines,2026-04-17T22:00:00Z,2026-04-16T19:00:08.347711+00:00
+e0c071814d0bff79e119365ca26584ce,lacrosse_ncaa,NCAA Lacrosse,Rutgers Scarlet Knights,Penn State Nittany Lions,2026-04-18T00:00:00Z,2026-04-16T19:00:08.347711+00:00
+ed5794edb8fe311ce1e7287f16a9b36f,lacrosse_ncaa,NCAA Lacrosse,Bucknell Bison,Holy Cross Crusaders,2026-04-18T15:00:00Z,2026-04-16T19:00:08.347711+00:00
+d30cab825639d717e0ddc0ec7e612021,lacrosse_ncaa,NCAA Lacrosse,Manhattan Jaspers,Canisius Golden Griffins,2026-04-18T15:00:00Z,2026-04-16T19:00:08.347711+00:00
+2224835107a407f1d5ab7e5387392f41,lacrosse_ncaa,NCAA Lacrosse,Loyola (MD) Greyhounds,Army Knights,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+a1db0a55a8f0301804546da7f4f9a818,lacrosse_ncaa,NCAA Lacrosse,Bellarmine Knights,Jacksonville Dolphins,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+570020aa9ad756a18ae9d22ac2c7fc45,lacrosse_ncaa,NCAA Lacrosse,Binghamton Bearcats,Bryant Bulldogs,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+d55e9b7ae16591cb8c87a408a15135a1,lacrosse_ncaa,NCAA Lacrosse,Boston Univ. Terriers,Lafayette Leopards,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+d06446980e6b348fd96795f56029b385,lacrosse_ncaa,NCAA Lacrosse,Providence Friars,Denver Pioneers,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+407f21bad0bd1ec174193dca5fdf9684,lacrosse_ncaa,NCAA Lacrosse,Duke Blue Devils,Notre Dame Fighting Irish,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+ffd4cc356cfd872875c99c3e35376dfe,lacrosse_ncaa,NCAA Lacrosse,Fairfield Stags,Towson Tigers,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+04a920e903a56defe5727504aa4563e1,lacrosse_ncaa,NCAA Lacrosse,Hobart Statesmen,Massachusetts Minutemen,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+c212e1cbea4c2279946fe47db0d3a782,lacrosse_ncaa,NCAA Lacrosse,Robert Morris Colonials,LIU Sharks,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+1de7024591fb47af8f8e3dabb24c8221,lacrosse_ncaa,NCAA Lacrosse,Lehigh Mountain Hawks,Navy Midshipmen,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+f9102581a934057fdd768bf0073f3147,lacrosse_ncaa,NCAA Lacrosse,Marquette Golden Eagles,Villanova Wildcats,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+52e589ac0a616940f31be7ddc216040b,lacrosse_ncaa,NCAA Lacrosse,Mt. St. Mary's Mountaineers,Siena Saints,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+5140a602c397e28d23ff2ea88b2bbf2f,lacrosse_ncaa,NCAA Lacrosse,UMBC Retrievers,NJIT Highlanders,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+09104629d1c4d4e855ba4bf2584b389d,lacrosse_ncaa,NCAA Lacrosse,Virginia Cavaliers,North Carolina Tar Heels,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+95ae4824d1ac49b29a985856ab20d28e,lacrosse_ncaa,NCAA Lacrosse,Richmond Spiders,Saint Joseph's Hawks,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+65a5af6c47000389a0db62653bd7e579,lacrosse_ncaa,NCAA Lacrosse,VMI Keydets,Wagner Seahawks,2026-04-18T16:00:00Z,2026-04-16T19:00:08.347711+00:00
+74d78429ffaecef3f0608d1ed9980e95,lacrosse_ncaa,NCAA Lacrosse,Delaware Blue Hens,St. Bonaventure Bonnies,2026-04-18T17:00:00Z,2026-04-16T19:00:08.347711+00:00
+10af1c99824c4d3c79306084d81f8310,lacrosse_ncaa,NCAA Lacrosse,Georgetown Hoyas,St. John's Red Storm,2026-04-18T17:00:00Z,2026-04-16T19:00:08.347711+00:00
+f6d8bb239c41dce0dac21bec5845ac89,lacrosse_ncaa,NCAA Lacrosse,Hofstra Pride,Hampton Pirates,2026-04-18T17:00:00Z,2026-04-16T19:00:08.347711+00:00
+b6b737dc865c0bb40c800f70070eaf82,lacrosse_ncaa,NCAA Lacrosse,Harvard Crimson,Princeton Tigers,2026-04-18T17:00:00Z,2026-04-16T19:00:08.347711+00:00
+6b8eba58da03d22bc08bdf8920905851,lacrosse_ncaa,NCAA Lacrosse,Marist Red Foxes,Sacred Heart Pioneers,2026-04-18T17:00:00Z,2026-04-16T19:00:08.347711+00:00
+86f7e26fe2d62685a34cb57e7a6f1133,lacrosse_ncaa,NCAA Lacrosse,Air Force Falcons,Mercer Bears,2026-04-18T18:00:00Z,2026-04-16T19:00:08.347711+00:00
+bacde070bdb1730e1d0b4cdc7722feea,lacrosse_ncaa,NCAA Lacrosse,Iona Gaels,Quinnipiac Bobcats,2026-04-18T18:00:00Z,2026-04-16T19:00:08.347711+00:00
+f5c6d7dda253bf18c9a5fd53575848e4,lacrosse_ncaa,NCAA Lacrosse,Johns Hopkins Blue Jays,Maryland Terrapins,2026-04-18T18:00:00Z,2026-04-16T19:00:08.347711+00:00
+83ad0637bede6a0dee9073ea3358516f,lacrosse_ncaa,NCAA Lacrosse,Utah Utes,Queens University Royals,2026-04-18T18:00:00Z,2026-04-16T19:00:08.347711+00:00
+d8bfd6d6f5a89cdc08d2b3861141b94a,lacrosse_ncaa,NCAA Lacrosse,Stony Brook Seawolves,Drexel Dragons,2026-04-18T19:00:00Z,2026-04-16T19:00:08.347711+00:00
+49b56887a020ca8e53b9167c744985e7,lacrosse_ncaa,NCAA Lacrosse,Brown Bears,Pennsylvania Quakers,2026-04-18T19:30:00Z,2026-04-16T19:00:08.347711+00:00
+b5c054e24dd420568b525be2339ae661,lacrosse_ncaa,NCAA Lacrosse,Dartmouth Big Green,Cornell Big Red,2026-04-18T19:30:00Z,2026-04-16T19:00:08.347711+00:00
+5a4fb2952faaf5dcda5e017108f1506c,lacrosse_ncaa,NCAA Lacrosse,Yale Bulldogs,Albany Great Danes,2026-04-18T20:00:00Z,2026-04-16T19:00:08.347711+00:00
+e262f1f3bd1cbd3094fb6d51f2c59385,lacrosse_ncaa,NCAA Lacrosse,Mercyhurst Lakers,Detroit Mercy Titans,2026-04-18T20:00:00Z,2026-04-16T19:00:08.347711+00:00
+b890cb0afb0d39fca5eb045092d464b3,lacrosse_ncaa,NCAA Lacrosse,Syracuse Orange,Colgate Raiders,2026-04-18T21:00:00Z,2026-04-16T19:00:08.347711+00:00
+2a38643b109bc5847bb66417fee92eb3,lacrosse_ncaa,NCAA Lacrosse,UMass Lowell River Hawks,Vermont Catamounts,2026-04-18T22:00:00Z,2026-04-16T19:00:08.347711+00:00

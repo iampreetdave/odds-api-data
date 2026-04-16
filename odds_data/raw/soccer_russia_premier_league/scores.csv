@@ -1,0 +1,9 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+8f5458d2feb0b6cb7e5c80da9c6dd2dc,soccer_russia_premier_league,FK Rostov,FK Sochi,2026-04-17T16:30:00Z,False,,,
+10cd5b9e26175419ecec392b47dae34f,soccer_russia_premier_league,Gazovik Orenburg,Lokomotiv Moscow,2026-04-18T09:00:00Z,False,,,
+ee78fcfc62507c5230ad7e4889baae05,soccer_russia_premier_league,Kryliya Sovetov,CSKA Moscow,2026-04-18T11:30:00Z,False,,,
+7387a33b89060e60580713d537f55015,soccer_russia_premier_league,Rubin Kazan,FC Akron Tolyatti,2026-04-18T14:00:00Z,False,,,
+b73c3d6269767e8aedafa58aed9771fc,soccer_russia_premier_league,FC Nizhny Novgorod,Dinamo Moscow,2026-04-18T16:30:00Z,False,,,
+0931dcd3ead41914da0eb277380d7871,soccer_russia_premier_league,FC Dynamo Makhachkala,Zenit St Petersburg,2026-04-19T11:30:00Z,False,,,
+81845f02f6ce7adc8f98e7b3e64a9338,soccer_russia_premier_league,Spartak Moscow,FC Akhmat Grozny,2026-04-19T14:00:00Z,False,,,
+a9f0e89cabeb0715311af3b888340e9d,soccer_russia_premier_league,FC Krasnodar,FC Baltika Kaliningrad,2026-04-19T16:30:00Z,False,,,

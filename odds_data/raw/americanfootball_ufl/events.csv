@@ -1,0 +1,5 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+a3b4cdbf001cb581697ca0beab99dcde,americanfootball_ufl,UFL,Houston Gamblers,Louisville Kings,2026-04-17T00:00:00Z,2026-04-16T18:59:52.034944+00:00
+3f80ec797cb2539cb01965de6d3ed48e,americanfootball_ufl,UFL,Columbus Aviators,Dallas Renegades,2026-04-18T00:00:00Z,2026-04-16T18:59:52.034944+00:00
+08133a9aff4e94310fe3fb453bcf2617,americanfootball_ufl,UFL,DC Defenders,St. Louis Battlehawks,2026-04-18T16:30:00Z,2026-04-16T18:59:52.034944+00:00
+7ec3be1d33f330f86a8583122c54a6da,americanfootball_ufl,UFL,Birmingham Stallions,Orlando Storm,2026-04-18T20:00:00Z,2026-04-16T18:59:52.034944+00:00

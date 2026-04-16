@@ -1,0 +1,11 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+7863a37e7920f418cbe83588de8354d1,soccer_brazil_serie_b,América Mineiro,Sport Recife,2026-04-18T21:00:00Z,False,,,
+5701e8d97603b4413936a3bae8a5c766,soccer_brazil_serie_b,Nautico PE,São Bernardo,2026-04-18T21:00:00Z,False,,,
+e2a2eadddc2f48be629e8152d1c83ab4,soccer_brazil_serie_b,Vila Nova,Operario PR,2026-04-18T21:30:00Z,False,,,
+82b2eaa020b204c430c967b6e5f6b844,soccer_brazil_serie_b,Avai,Ponte Preta,2026-04-18T23:30:00Z,False,,,
+45c9c9bf38b249e17e5864d001b6c425,soccer_brazil_serie_b,Clube de Regatas Brasil,Juventude,2026-04-18T23:45:00Z,False,,,
+3217d6d161b6d49a9a8a8b42eeeb240d,soccer_brazil_serie_b,Botafogo,Atletico Goianiense,2026-04-19T19:00:00Z,False,,,
+1859d4cd418c529cc9aa6c0dd7b0986f,soccer_brazil_serie_b,Londrina,Ceará,2026-04-19T19:00:00Z,False,,,
+2d78d4ce49ae6e6bf1f18a989167c01e,soccer_brazil_serie_b,Goiás,Cuiabá,2026-04-19T21:00:00Z,False,,,
+3c961eee1fcc62c5ca059ca1e43bdc89,soccer_brazil_serie_b,Grêmio Novorizontino,Athletic Club (MG),2026-04-19T23:00:00Z,False,,,
+98201f7d3f913a28e4c5ddd0bc76243d,soccer_brazil_serie_b,Fortaleza,Criciuma,2026-04-19T23:00:00Z,False,,,

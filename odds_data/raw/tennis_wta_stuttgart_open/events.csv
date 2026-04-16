@@ -1,0 +1,4 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+453b7d1761f39a050c84fda2ba5abe19,tennis_wta_stuttgart_open,WTA Stuttgart Open,Leylah Fernandez,Zeynep Sonmez,2026-04-16T18:34:00Z,2026-04-16T19:00:38.956606+00:00
+7e9665018c1f8e1f220601f409c257d1,tennis_wta_stuttgart_open,WTA Stuttgart Open,Iga Swiatek,Mirra Andreeva,2026-04-17T08:00:00Z,2026-04-16T19:00:38.956606+00:00
+ea89e6af6c46404bc46d829b344050dd,tennis_wta_stuttgart_open,WTA Stuttgart Open,Linda Noskova,Elina Svitolina,2026-04-17T10:30:00Z,2026-04-16T19:00:38.956606+00:00

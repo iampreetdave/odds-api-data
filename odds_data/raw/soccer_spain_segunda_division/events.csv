@@ -1,0 +1,12 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+75add87eda8a54f8ef68de15204bf731,soccer_spain_segunda_division,La Liga 2 - Spain,Real Sociedad B,Real Racing Club de Santander,2026-04-17T18:30:00Z,2026-04-16T19:00:30.781913+00:00
+9549b05cb178f24e0a6c12ad7fbfb12e,soccer_spain_segunda_division,La Liga 2 - Spain,Las Palmas,Leganés,2026-04-17T19:00:00Z,2026-04-16T19:00:30.781913+00:00
+538eadd462b0cbec4b1b2d36f8949f40,soccer_spain_segunda_division,La Liga 2 - Spain,Zaragoza,AD Ceuta FC,2026-04-18T14:15:00Z,2026-04-16T19:00:30.781913+00:00
+0ffa1f9d239f8afc7540e5efd6d91fbd,soccer_spain_segunda_division,La Liga 2 - Spain,CD Castellón,Burgos CF,2026-04-18T16:30:00Z,2026-04-16T19:00:30.781913+00:00
+3fbf4e193fa9c576b8bcb5bc89ed28a4,soccer_spain_segunda_division,La Liga 2 - Spain,Cultural Leonesa,Córdoba,2026-04-18T16:30:00Z,2026-04-16T19:00:30.781913+00:00
+a94aaf3326a55cac2661a280fd9fc9f0,soccer_spain_segunda_division,La Liga 2 - Spain,Andorra CF,Real Valladolid CF,2026-04-19T12:00:00Z,2026-04-16T19:00:30.781913+00:00
+64b34cc8a81b1c75a63545aa13bb3936,soccer_spain_segunda_division,La Liga 2 - Spain,Sporting Gijón,Cádiz CF,2026-04-19T14:15:00Z,2026-04-16T19:00:30.781913+00:00
+037f95454878a7b8d08c5f0bba0e0555,soccer_spain_segunda_division,La Liga 2 - Spain,Albacete,Granada CF,2026-04-19T16:30:00Z,2026-04-16T19:00:30.781913+00:00
+672ef49387e39c7c2f38bd78c1b68c17,soccer_spain_segunda_division,La Liga 2 - Spain,SD Eibar,SD Huesca,2026-04-19T16:30:00Z,2026-04-16T19:00:30.781913+00:00
+4ca22a135e90bbff4ed8e0ca517de82d,soccer_spain_segunda_division,La Liga 2 - Spain,Almería,Málaga,2026-04-19T19:00:00Z,2026-04-16T19:00:30.781913+00:00
+ebdb7cdd8bdce8c908fec13fe28c1078,soccer_spain_segunda_division,La Liga 2 - Spain,Deportivo La Coruña,CD Mirandés,2026-04-20T18:30:00Z,2026-04-16T19:00:30.781913+00:00

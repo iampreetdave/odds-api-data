@@ -1,0 +1,6 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+27ae5c58519f117f191f1231939f2272,baseball_kbo,Doosan Bears,Kia Tigers,2026-04-17T09:30:00Z,False,,,
+0aef23990df0da2fde0a76820cf7e4a9,baseball_kbo,Lotte Giants,Hanwha Eagles,2026-04-17T09:30:00Z,False,,,
+614a82ccc15796d2f93f21e0708e342c,baseball_kbo,KT Wiz,Kiwoom Heroes,2026-04-17T09:30:00Z,False,,,
+22bddec8659eadc2524a68317d2670fd,baseball_kbo,Samsung Lions,LG Twins,2026-04-17T09:30:00Z,False,,,
+86075f153e765c62058d3d6b76d29cda,baseball_kbo,NC Dinos,SSG Landers,2026-04-17T09:30:00Z,False,,,

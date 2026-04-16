@@ -1,0 +1,5 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+c8f8ab68904be29fa5863f2d402f426f,baseball_ncaa,NCAA Baseball,BYU Cougars,Arizona St Sun Devils,2026-04-16T19:00:00Z,2026-04-16T18:59:54.252642+00:00
+e2edbdc42ec9ee699d86a96e290cd095,baseball_ncaa,NCAA Baseball,Florida Gators,Auburn Tigers,2026-04-16T23:00:00Z,2026-04-16T18:59:54.252642+00:00
+e49b4ae408df50057b8c5c9eab7af274,baseball_ncaa,NCAA Baseball,Virginia Cavaliers,Clemson Tigers,2026-04-16T23:00:00Z,2026-04-16T18:59:54.252642+00:00
+503ea888f95b98b19bca9111a2d54310,baseball_ncaa,NCAA Baseball,Arkansas Razorbacks,Georgia Bulldogs,2026-04-17T00:00:00Z,2026-04-16T18:59:54.252642+00:00

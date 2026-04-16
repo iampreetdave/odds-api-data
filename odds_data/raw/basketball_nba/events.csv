@@ -1,0 +1,9 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+fc16dfbe5b438857b93902fa811dd8f6,basketball_nba,NBA,Orlando Magic,Charlotte Hornets,2026-04-17T23:40:00Z,2026-04-16T18:59:55.140565+00:00
+c8d1b7fd06c21e259b9416daf596f023,basketball_nba,NBA,Phoenix Suns,Golden State Warriors,2026-04-18T02:10:00Z,2026-04-16T18:59:55.140565+00:00
+2a8e5a45f1bcb477a6f9cbd7739d005e,basketball_nba,NBA,Cleveland Cavaliers,Toronto Raptors,2026-04-18T17:10:00Z,2026-04-16T18:59:55.140565+00:00
+526f783434e5dabca25ee032d8fee612,basketball_nba,NBA,Denver Nuggets,Minnesota Timberwolves,2026-04-18T19:40:00Z,2026-04-16T18:59:55.140565+00:00
+bee2c9ea4bf8df373aa45af7005b583d,basketball_nba,NBA,New York Knicks,Atlanta Hawks,2026-04-18T22:10:00Z,2026-04-16T18:59:55.140565+00:00
+1a9383105929a09e5662227ad45554b8,basketball_nba,NBA,Los Angeles Lakers,Houston Rockets,2026-04-19T00:40:00Z,2026-04-16T18:59:55.140565+00:00
+00d1efd43d0790297fb68684a9171191,basketball_nba,NBA,Boston Celtics,Philadelphia 76ers,2026-04-19T17:10:00Z,2026-04-16T18:59:55.140565+00:00
+04e3ad1ccbad6419ac711ff120fd5cbe,basketball_nba,NBA,San Antonio Spurs,Portland Trail Blazers,2026-04-20T01:10:00Z,2026-04-16T18:59:55.140565+00:00

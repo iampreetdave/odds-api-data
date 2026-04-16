@@ -1,0 +1,11 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+a412b07445d8f58212ada64691b541ce,basketball_euroleague,Basketball Euroleague,ASVEL Lyon Villeurbanne,Fenerbahce SK,2026-04-16T18:03:00Z,2026-04-16T18:59:54.858625+00:00
+df6bfdc20f2551d40f463329f7333c6f,basketball_euroleague,Basketball Euroleague,Maccabi Tel Aviv,Virtus Segafredo Bologna,2026-04-16T18:06:00Z,2026-04-16T18:59:54.858625+00:00
+6c1f2808313e3cdccfa945bdc823a38c,basketball_euroleague,Basketball Euroleague,Olympiacos,Pallacanestro Olimpia Milano,2026-04-16T18:16:00Z,2026-04-16T18:59:54.858625+00:00
+83ac459bb23c6f4e33ae1611e7adc741,basketball_euroleague,Basketball Euroleague,KK Partizan NIS,Saski Baskonia,2026-04-16T18:30:00Z,2026-04-16T18:59:54.858625+00:00
+9083a48c26d16cf888cb030fd9dca638,basketball_euroleague,Basketball Euroleague,Real Madrid,KK Crvena zvezda,2026-04-16T18:45:00Z,2026-04-16T18:59:54.858625+00:00
+cedecc7ade1b8a4bc9d6c3c442426001,basketball_euroleague,Basketball Euroleague,Žalgiris,Paris Basketball,2026-04-17T17:00:00Z,2026-04-16T18:59:54.858625+00:00
+cf52295218315827d59cd415c126ef0f,basketball_euroleague,Basketball Euroleague,AS Monaco,Hapoel Tel Aviv,2026-04-17T17:30:00Z,2026-04-16T18:59:54.858625+00:00
+0aa632171aafec604f97c7c8f3857ee9,basketball_euroleague,Basketball Euroleague,Dubai Basketball,Valencia Basket,2026-04-17T18:00:00Z,2026-04-16T18:59:54.858625+00:00
+5e85425fc82ec0203a375e08fcb1e2a3,basketball_euroleague,Basketball Euroleague,Panathinaikos,Anadolu Efes,2026-04-17T18:15:00Z,2026-04-16T18:59:54.858625+00:00
+9904b0e94830aebb77250ad0b6d143ab,basketball_euroleague,Basketball Euroleague,FC Barcelona Bàsquet,FC Bayern München,2026-04-17T18:30:00Z,2026-04-16T18:59:54.858625+00:00

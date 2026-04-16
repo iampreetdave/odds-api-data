@@ -1,0 +1,20 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+74f39156689a078022ede0ab999cd304,baseball_mlb,MLB,Pittsburgh Pirates,Washington Nationals,2026-04-16T16:40:00Z,2026-04-16T18:59:53.249931+00:00
+58f0238587c37c6200e35bece1cdc6a2,baseball_mlb,MLB,Cincinnati Reds,San Francisco Giants,2026-04-16T16:43:00Z,2026-04-16T18:59:53.249931+00:00
+25ef39bccec531e95be4427ad60576d2,baseball_mlb,MLB,New York Yankees,Los Angeles Angels,2026-04-16T17:36:00Z,2026-04-16T18:59:53.249931+00:00
+d28f023fdea4d8299ebf509d22707293,baseball_mlb,MLB,Milwaukee Brewers,Toronto Blue Jays,2026-04-16T17:41:00Z,2026-04-16T18:59:53.249931+00:00
+99d0656dfdf7a804df87e510c4687f62,baseball_mlb,MLB,Chicago White Sox,Tampa Bay Rays,2026-04-16T18:11:00Z,2026-04-16T18:59:53.249931+00:00
+01461c715fdcb8321ca3e4ed2762e436,baseball_mlb,MLB,Detroit Tigers,Kansas City Royals,2026-04-16T18:16:00Z,2026-04-16T18:59:53.249931+00:00
+1be686414809592c870949866675b3f0,baseball_mlb,MLB,Athletics,Texas Rangers,2026-04-16T19:06:00Z,2026-04-16T18:59:53.249931+00:00
+50a6b335289549d2d3f41d9072e8d031,baseball_mlb,MLB,Cleveland Guardians,Baltimore Orioles,2026-04-16T22:11:00Z,2026-04-16T18:59:53.249931+00:00
+2813553c6a0cdab5c77497cf373aa7af,baseball_mlb,MLB,Houston Astros,Colorado Rockies,2026-04-17T00:11:00Z,2026-04-16T18:59:53.249931+00:00
+34fa181a3e06104ac8bb8d652bffbae7,baseball_mlb,MLB,San Diego Padres,Seattle Mariners,2026-04-17T00:41:00Z,2026-04-16T18:59:53.249931+00:00
+45655eea8b0523564f56d5ba45520388,baseball_mlb,MLB,Chicago Cubs,New York Mets,2026-04-17T18:21:00Z,2026-04-16T18:59:53.249931+00:00
+3eb605c9b25ccc2ad16334a2f4a4c17e,baseball_mlb,MLB,Cleveland Guardians,Baltimore Orioles,2026-04-17T22:11:00Z,2026-04-16T18:59:53.249931+00:00
+7067ff8b35400b4b9c0c1b2cf807fe58,baseball_mlb,MLB,Philadelphia Phillies,Atlanta Braves,2026-04-17T22:41:00Z,2026-04-16T18:59:53.249931+00:00
+72adcb72b594dcf90c1756f4f9358d4c,baseball_mlb,MLB,Washington Nationals,San Francisco Giants,2026-04-17T22:46:00Z,2026-04-16T18:59:53.249931+00:00
+a1ab635fdacdca4f7d8f471d141a873f,baseball_mlb,MLB,New York Yankees,Kansas City Royals,2026-04-17T23:06:00Z,2026-04-16T18:59:53.249931+00:00
+f396e7f6c0d265d701a8b7123bbcee83,baseball_mlb,MLB,Boston Red Sox,Detroit Tigers,2026-04-17T23:16:00Z,2026-04-16T18:59:53.249931+00:00
+7e51baba35f9e72d4028c265cbceb500,baseball_mlb,MLB,Minnesota Twins,Cincinnati Reds,2026-04-18T00:11:00Z,2026-04-16T18:59:53.249931+00:00
+ed205a37de8d35d5fe44ef82f8644637,baseball_mlb,MLB,Arizona Diamondbacks,Toronto Blue Jays,2026-04-18T01:41:00Z,2026-04-16T18:59:53.249931+00:00
+4dab71b3bef20d97c215141ed121a95b,baseball_mlb,MLB,Athletics,Chicago White Sox,2026-04-18T01:41:00Z,2026-04-16T18:59:53.249931+00:00

@@ -1,0 +1,21 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+a17893791f7a24ee56339cc3d0d4987c,soccer_germany_liga3,3. Liga - Germany,Jahn Regensburg,Alemannia Aachen,2026-04-17T17:00:00Z,2026-04-16T19:00:24.667793+00:00
+8e8e888958eaf2b502d56afb33dba311,soccer_germany_liga3,3. Liga - Germany,1. FC Saarbrücken,TSV 1860 München,2026-04-18T12:00:00Z,2026-04-16T19:00:24.667793+00:00
+c07039b1a8f05b2fc9f8fc2c42d0a21a,soccer_germany_liga3,3. Liga - Germany,FC Ingolstadt 04,VfL Osnabrück,2026-04-18T12:00:00Z,2026-04-16T19:00:24.667793+00:00
+01ab85ab77b314f7e3b6d49225819cad,soccer_germany_liga3,3. Liga - Germany,SC Verl,FC Viktoria Köln 1904,2026-04-18T12:00:00Z,2026-04-16T19:00:24.667793+00:00
+b941032f49ac7160545ce88edbd7bb28,soccer_germany_liga3,3. Liga - Germany,Schweinfurt,Hansa Rostock,2026-04-18T12:00:00Z,2026-04-16T19:00:24.667793+00:00
+a60bbd78479a8a8eda9b2375911d893a,soccer_germany_liga3,3. Liga - Germany,MSV Duisburg,TSG Hoffenheim II,2026-04-18T12:00:00Z,2026-04-16T19:00:24.667793+00:00
+06909fade724175d59b43dcf066bc683,soccer_germany_liga3,3. Liga - Germany,SSV Ulm 1846,TSV Havelse,2026-04-18T14:30:00Z,2026-04-16T19:00:24.667793+00:00
+83843c5e1086c1b53e3b617af094f281,soccer_germany_liga3,3. Liga - Germany,FC Energie Cottbus,Rot-Weiss Essen,2026-04-19T11:30:00Z,2026-04-16T19:00:24.667793+00:00
+63f4c27be53bbc4a9bdf580db22ee75d,soccer_germany_liga3,3. Liga - Germany,VfB Stuttgart II,Erzgebirge Aue,2026-04-19T14:30:00Z,2026-04-16T19:00:24.667793+00:00
+515d96a046668257c58f7a53244c4b0e,soccer_germany_liga3,3. Liga - Germany,Wehen Wiesbaden,Waldhof Mannheim,2026-04-19T17:30:00Z,2026-04-16T19:00:24.667793+00:00
+743f066804fdd7f5332daaf50d2287d8,soccer_germany_liga3,3. Liga - Germany,Alemannia Aachen,MSV Duisburg,2026-04-24T17:00:00Z,2026-04-16T19:00:24.667793+00:00
+2c1187c31ba503490c7cd720efd42a7c,soccer_germany_liga3,3. Liga - Germany,Erzgebirge Aue,Wehen Wiesbaden,2026-04-25T12:00:00Z,2026-04-16T19:00:24.667793+00:00
+abf91bb5c93d8ff9a8c552022f49b4fc,soccer_germany_liga3,3. Liga - Germany,TSG Hoffenheim II,FC Ingolstadt 04,2026-04-25T12:00:00Z,2026-04-16T19:00:24.667793+00:00
+bb26db6e5414ff5fddbf2e3662344d4a,soccer_germany_liga3,3. Liga - Germany,Hansa Rostock,Jahn Regensburg,2026-04-25T12:00:00Z,2026-04-16T19:00:24.667793+00:00
+8b2d00ec53bb16572a3baac534edce31,soccer_germany_liga3,3. Liga - Germany,VfL Osnabrück,SC Verl,2026-04-25T12:00:00Z,2026-04-16T19:00:24.667793+00:00
+72984e2801bfe8be2b7a92069c51c814,soccer_germany_liga3,3. Liga - Germany,TSV 1860 München,SSV Ulm 1846,2026-04-25T12:00:00Z,2026-04-16T19:00:24.667793+00:00
+ee2a6ee04458bef9fa3ce8d943645fcc,soccer_germany_liga3,3. Liga - Germany,Waldhof Mannheim,Schweinfurt,2026-04-25T14:30:00Z,2026-04-16T19:00:24.667793+00:00
+f5e775e670637e25822e342e3fea3341,soccer_germany_liga3,3. Liga - Germany,FC Viktoria Köln 1904,FC Energie Cottbus,2026-04-26T11:30:00Z,2026-04-16T19:00:24.667793+00:00
+1bc47e620e487b763944dbc2c9bade05,soccer_germany_liga3,3. Liga - Germany,Rot-Weiss Essen,1. FC Saarbrücken,2026-04-26T14:30:00Z,2026-04-16T19:00:24.667793+00:00
+07f064643604b03c72b3c3567f6e1d01,soccer_germany_liga3,3. Liga - Germany,TSV Havelse,VfB Stuttgart II,2026-04-26T17:30:00Z,2026-04-16T19:00:24.667793+00:00

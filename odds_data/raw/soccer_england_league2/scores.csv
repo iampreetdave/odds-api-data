@@ -1,0 +1,22 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+096aa6d2dade85787b845c023cb6159e,soccer_england_league2,Colchester United,Accrington Stanley,2026-04-14T18:45:00Z,True,2026-04-16T19:00:16Z,Colchester United,2
+096aa6d2dade85787b845c023cb6159e,soccer_england_league2,Colchester United,Accrington Stanley,2026-04-14T18:45:00Z,True,2026-04-16T19:00:16Z,Accrington Stanley,1
+185b5b127633a73ae3466fae8991e5b0,soccer_england_league2,Barrow,Oldham Athletic,2026-04-14T18:45:00Z,True,2026-04-16T19:00:16Z,Barrow,3
+185b5b127633a73ae3466fae8991e5b0,soccer_england_league2,Barrow,Oldham Athletic,2026-04-14T18:45:00Z,True,2026-04-16T19:00:16Z,Oldham Athletic,2
+9c5d87d749c9351d19794582c1cce0c6,soccer_england_league2,Cheltenham Town,Gillingham,2026-04-14T18:45:00Z,True,2026-04-16T19:00:16Z,Cheltenham Town,2
+9c5d87d749c9351d19794582c1cce0c6,soccer_england_league2,Cheltenham Town,Gillingham,2026-04-14T18:45:00Z,True,2026-04-16T19:00:16Z,Gillingham,1
+8c75e16f11f09746855bcef0c20db9da,soccer_england_league2,Chesterfield FC,Grimsby Town,2026-04-14T18:45:00Z,True,2026-04-16T19:00:16Z,Chesterfield FC,2
+8c75e16f11f09746855bcef0c20db9da,soccer_england_league2,Chesterfield FC,Grimsby Town,2026-04-14T18:45:00Z,True,2026-04-16T19:00:16Z,Grimsby Town,1
+5c3c3240bf04b7fa5015d3f71e28952e,soccer_england_league2,Bromley FC,Cambridge United,2026-04-16T19:00:00Z,False,,,
+b287dde66382cebf2f311e1dac9e66b7,soccer_england_league2,Swindon Town,Accrington Stanley,2026-04-18T11:30:00Z,False,,,
+8cee9d25ba9e5ce062918b0586aed789,soccer_england_league2,Barrow,Walsall,2026-04-18T11:30:00Z,False,,,
+7f2d3b0e14392267325dc89a6eeb31f4,soccer_england_league2,Notts County,Barnet,2026-04-18T14:00:00Z,False,,,
+bf28c7a0b63db621a9094243244635d1,soccer_england_league2,Tranmere Rovers,Bristol Rovers,2026-04-18T14:00:00Z,False,,,
+757101864b4fe44d46c0229d8a8e4c08,soccer_england_league2,Cheltenham Town,Newport County,2026-04-18T14:00:00Z,False,,,
+66dfe25c3db2a5fa196815facc4db660,soccer_england_league2,Fleetwood Town,Chesterfield FC,2026-04-18T14:00:00Z,False,,,
+6f1a1d53d1490ac7a592494011c29c2f,soccer_england_league2,Harrogate Town,Colchester United,2026-04-18T14:00:00Z,False,,,
+8933e054a84ea5115953c5e34457cded,soccer_england_league2,Crawley Town,Shrewsbury Town,2026-04-18T14:00:00Z,False,,,
+1bb7b3860f5720c114aa78ffa1c4e7d0,soccer_england_league2,Crewe Alexandra,Milton Keynes Dons,2026-04-18T14:00:00Z,False,,,
+c38d9918dc2540506f08659497e800fa,soccer_england_league2,Gillingham,Grimsby Town,2026-04-18T14:00:00Z,False,,,
+f53836016ae4b3c71d4e9f73e960a57c,soccer_england_league2,Oldham Athletic,Salford City,2026-04-18T14:00:00Z,False,,,
+8b1aba9d188fd70136f50c570d1630c7,soccer_england_league2,Cheltenham Town,Tranmere Rovers,2026-04-21T18:45:00Z,False,,,

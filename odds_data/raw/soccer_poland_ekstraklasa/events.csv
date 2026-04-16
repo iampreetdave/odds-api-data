@@ -1,0 +1,10 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+afeaf87b7431ddae5a92d3a73a449991,soccer_poland_ekstraklasa,Ekstraklasa - Poland,GKS Katowice,Motor Lublin,2026-04-17T16:00:00Z,2026-04-16T19:00:29.258397+00:00
+1606260a2dd1005ed4672b65be8eede2,soccer_poland_ekstraklasa,Ekstraklasa - Poland,Legia Warszawa,Zagłębie Lubin,2026-04-17T18:30:00Z,2026-04-16T19:00:29.258397+00:00
+621e6a054b32fefea245b28b40989aed,soccer_poland_ekstraklasa,Ekstraklasa - Poland,Radomiak Radom,Widzew Łódź,2026-04-18T12:45:00Z,2026-04-16T19:00:29.258397+00:00
+2d676f6237ab8c98a724fe45253553bf,soccer_poland_ekstraklasa,Ekstraklasa - Poland,Górnik Zabrze,Korona Kielce,2026-04-18T15:30:00Z,2026-04-16T19:00:29.258397+00:00
+bdf177c6906d5e875462b90014483bc2,soccer_poland_ekstraklasa,Ekstraklasa - Poland,Pogoń Szczecin,Lech Poznań,2026-04-18T18:15:00Z,2026-04-16T19:00:29.258397+00:00
+1dd49b068a477a22f805738f0d885498,soccer_poland_ekstraklasa,Ekstraklasa - Poland,Nieciecza,Wisła Płock,2026-04-19T10:15:00Z,2026-04-16T19:00:29.258397+00:00
+0bb1f169a818e978fa7c65c6bd8e52a2,soccer_poland_ekstraklasa,Ekstraklasa - Poland,Raków Częstochowa,Cracovia Kraków,2026-04-19T12:45:00Z,2026-04-16T19:00:29.258397+00:00
+b2eb0938b674b4e0784dcb158dc7a832,soccer_poland_ekstraklasa,Ekstraklasa - Poland,Arka Gdynia,Jagiellonia Białystok,2026-04-19T15:30:00Z,2026-04-16T19:00:29.258397+00:00
+dd20c757c94e719f4fa7bbd9abc91ccf,soccer_poland_ekstraklasa,Ekstraklasa - Poland,Lechia Gdańsk,Piast Gliwice,2026-04-20T17:00:00Z,2026-04-16T19:00:29.258397+00:00

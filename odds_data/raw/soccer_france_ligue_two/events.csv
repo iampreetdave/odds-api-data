@@ -1,0 +1,10 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+3338b811644f4157b02544f05c2d5b88,soccer_france_ligue_two,Ligue 2 - France,Rodez AF,Amiens,2026-04-17T18:00:00Z,2026-04-16T19:00:23.504160+00:00
+d9b5d8c35be8c57e3b97c82217787133,soccer_france_ligue_two,Ligue 2 - France,Nancy,Annecy FC,2026-04-17T18:00:00Z,2026-04-16T19:00:23.504160+00:00
+84bac5df098c84ba229d9525c75333bf,soccer_france_ligue_two,Ligue 2 - France,Le Mans FC,Clermont,2026-04-17T18:00:00Z,2026-04-16T19:00:23.504160+00:00
+8403fa70e4e9476998067737df4a3a7d,soccer_france_ligue_two,Ligue 2 - France,Montpellier,Grenoble,2026-04-17T18:00:00Z,2026-04-16T19:00:23.504160+00:00
+811131a5dcc57e4920c66a3d04da7375,soccer_france_ligue_two,Ligue 2 - France,Pau FC,Guingamp,2026-04-17T18:00:00Z,2026-04-16T19:00:23.504160+00:00
+69cb0d117c4587ee1c36747a3ff5eaed,soccer_france_ligue_two,Ligue 2 - France,Troyes,Boulogne,2026-04-18T12:00:00Z,2026-04-16T19:00:23.504160+00:00
+dd75a9ba7cd786c3b37e6aac99db5656,soccer_france_ligue_two,Ligue 2 - France,Stade de Reims,Red Star,2026-04-18T12:00:00Z,2026-04-16T19:00:23.504160+00:00
+18be251ed64c7d3296fad140bd15b41e,soccer_france_ligue_two,Ligue 2 - France,SC Bastia,Saint Etienne,2026-04-18T18:00:00Z,2026-04-16T19:00:23.504160+00:00
+67bade4bbafe604dffc28b594197db12,soccer_france_ligue_two,Ligue 2 - France,USL Dunkerque,Stade Lavallois,2026-04-20T18:45:00Z,2026-04-16T19:00:23.504160+00:00

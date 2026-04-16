@@ -1,0 +1,4 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+86a5680b360723d5700743677bcef9df,icehockey_sweden_allsvenskan,IF Björklöven,BIK Karlskoga,2026-04-15T17:01:00Z,True,2026-04-16T00:48:22Z,IF Björklöven,4
+86a5680b360723d5700743677bcef9df,icehockey_sweden_allsvenskan,IF Björklöven,BIK Karlskoga,2026-04-15T17:01:00Z,True,2026-04-16T00:48:22Z,BIK Karlskoga,2
+b04c36f8a6b12217d04e19b2f4f4886f,icehockey_sweden_allsvenskan,IF Björklöven,BIK Karlskoga,2026-04-17T17:00:00Z,False,,,

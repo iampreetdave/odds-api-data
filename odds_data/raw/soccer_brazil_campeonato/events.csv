@@ -1,0 +1,15 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+1b2e20364c3a0072b2204da3054a021d,soccer_brazil_campeonato,Brazil Série A,Chapecoense,Botafogo,2026-04-18T21:30:00Z,2026-04-16T19:00:12.518875+00:00
+4b449a38360a5460cbab25b435b8aa27,soccer_brazil_campeonato,Brazil Série A,Vasco da Gama,Sao Paulo,2026-04-18T21:30:00Z,2026-04-16T19:00:12.518875+00:00
+6817456edd050a0657d5bbd44562b996,soccer_brazil_campeonato,Brazil Série A,Vitoria,Corinthians,2026-04-18T23:00:00Z,2026-04-16T19:00:12.518875+00:00
+2b088fcf172e4a7ae4f43dc1299c2b56,soccer_brazil_campeonato,Brazil Série A,Cruzeiro,Grêmio,2026-04-18T23:30:00Z,2026-04-16T19:00:12.518875+00:00
+bbe770ab24f9e29c7880a1d358f567ad,soccer_brazil_campeonato,Brazil Série A,Internacional,Mirassol,2026-04-19T14:00:00Z,2026-04-16T19:00:12.518875+00:00
+920764e67405adaccff6a7f707b3ec0a,soccer_brazil_campeonato,Brazil Série A,Coritiba,Atletico Mineiro,2026-04-19T19:00:00Z,2026-04-16T19:00:12.518875+00:00
+3dada5a2bdda44c44cf27e35e8b6dde4,soccer_brazil_campeonato,Brazil Série A,Santos,Fluminense,2026-04-19T19:00:00Z,2026-04-16T19:00:12.518875+00:00
+7c57898b7feae3a2dce823c59063fdd0,soccer_brazil_campeonato,Brazil Série A,Palmeiras,Atletico Paranaense,2026-04-19T21:30:00Z,2026-04-16T19:00:12.518875+00:00
+856d8db7739f868d598981629829536d,soccer_brazil_campeonato,Brazil Série A,Bragantino-SP,Remo,2026-04-19T21:30:00Z,2026-04-16T19:00:12.518875+00:00
+66d817648d47c1ac9eb12084606d85dd,soccer_brazil_campeonato,Brazil Série A,Flamengo,Bahia,2026-04-19T22:30:00Z,2026-04-16T19:00:12.518875+00:00
+aecf04990bf43550561d8b7ea811590b,soccer_brazil_campeonato,Brazil Série A,Bahia,Santos,2026-04-25T21:30:00Z,2026-04-16T19:00:12.518875+00:00
+48bcddbccb3a01a3fb48c15b6e3824d9,soccer_brazil_campeonato,Brazil Série A,Botafogo,Internacional,2026-04-25T21:30:00Z,2026-04-16T19:00:12.518875+00:00
+4b4842caa386f6423b98763722299e22,soccer_brazil_campeonato,Brazil Série A,Remo,Cruzeiro,2026-04-25T21:30:00Z,2026-04-16T19:00:12.518875+00:00
+d934e9ad3b78b84954399c508e74b9ac,soccer_brazil_campeonato,Brazil Série A,Sao Paulo,Mirassol,2026-04-26T00:00:00Z,2026-04-16T19:00:12.518875+00:00

@@ -1,0 +1,11 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+de4e84d9341a071baa3457d072baab36,soccer_greece_super_league,Super League - Greece,AE Kifisia FC,Asteras Tripolis,2026-04-18T13:00:00Z,2026-04-16T19:00:24.926617+00:00
+862880ad6d57cc23216100f9a0d66d10,soccer_greece_super_league,Super League - Greece,Atromitos Athens,AEL,2026-04-18T14:00:00Z,2026-04-16T19:00:24.926617+00:00
+e36b3310641c5b4478b6313a12a98f5a,soccer_greece_super_league,Super League - Greece,OFI Crete,Levadiakos,2026-04-18T15:00:00Z,2026-04-16T19:00:24.926617+00:00
+b586e530fe4a976b6930926d30a911ee,soccer_greece_super_league,Super League - Greece,Aris Thessaloniki,Volos FC,2026-04-18T16:00:00Z,2026-04-16T19:00:24.926617+00:00
+06ec6dfb09a0bd324c67e1b52150b198,soccer_greece_super_league,Super League - Greece,Panetolikos Agrinio,Panserraikos FC,2026-04-18T17:00:00Z,2026-04-16T19:00:24.926617+00:00
+62b869c4bba3236f86b549001f32ba5c,soccer_greece_super_league,Super League - Greece,AEK Athens,PAOK Thessaloniki,2026-04-19T15:00:00Z,2026-04-16T19:00:24.926617+00:00
+928d3b98e52bc68d32e938c1e6d3e094,soccer_greece_super_league,Super League - Greece,Panathinaikos,Olympiakos Piraeus,2026-04-19T18:00:00Z,2026-04-16T19:00:24.926617+00:00
+62480ad9b3a49df456ed85ad1accb355,soccer_greece_super_league,Super League - Greece,Panserraikos FC,Atromitos Athens,2026-04-22T13:00:00Z,2026-04-16T19:00:24.926617+00:00
+c395525726a67c501a69516c621ec799,soccer_greece_super_league,Super League - Greece,AEL,AE Kifisia FC,2026-04-22T14:00:00Z,2026-04-16T19:00:24.926617+00:00
+9c7e083d2e06d4d47a5a3a34f9193d14,soccer_greece_super_league,Super League - Greece,Asteras Tripolis,Panetolikos Agrinio,2026-04-22T17:00:00Z,2026-04-16T19:00:24.926617+00:00

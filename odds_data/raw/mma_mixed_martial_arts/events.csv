@@ -1,0 +1,83 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+b8470a602e5fbe6370f597f2e9f31a72,mma_mixed_martial_arts,MMA,Andrea Vazquez,Chelsea Hackett,2026-04-16T19:10:00Z,2026-04-16T19:00:08.557902+00:00
+a6fb0a10001fe8155bc305380f60cfc8,mma_mixed_martial_arts,MMA,Eoghan Masoliver,Shane Mullen,2026-04-16T19:10:00Z,2026-04-16T19:00:08.557902+00:00
+2c11c09da31c46e1727203dac3211e7b,mma_mixed_martial_arts,MMA,Sean Gauci,Liam Gittins,2026-04-16T19:40:00Z,2026-04-16T19:00:08.557902+00:00
+19ca8e004497e4608fd49d98d6c55c7b,mma_mixed_martial_arts,MMA,David Martinez,Giannis Bachar,2026-04-16T20:10:00Z,2026-04-16T19:00:08.557902+00:00
+0bd0e7a2a24f93428c501abb10ea20c6,mma_mixed_martial_arts,MMA,Caolan Loughran,Alan Philpott,2026-04-16T20:40:00Z,2026-04-16T19:00:08.557902+00:00
+1fce50aab79c1981a30a2072bddb6c36,mma_mixed_martial_arts,MMA,Ciaran Clarke,Dean Garnett,2026-04-16T21:10:00Z,2026-04-16T19:00:08.557902+00:00
+3680992e30fc7799379981d21d662335,mma_mixed_martial_arts,MMA,Omran Chaaban,Chequina Noso Pedro,2026-04-16T21:40:00Z,2026-04-16T19:00:08.557902+00:00
+5cdb78fa7aa1475ada614c2425c20eed,mma_mixed_martial_arts,MMA,Sergio Cossio Dominguez,Pedro Carvalho,2026-04-16T22:10:00Z,2026-04-16T19:00:08.557902+00:00
+b771f861ca05996863cb8f6e759878f3,mma_mixed_martial_arts,MMA,Tyson Pedro,Dovletdzhan Yagshimuradov,2026-04-16T23:10:00Z,2026-04-16T19:00:08.557902+00:00
+06c9c3849afe25288db25090e3131a81,mma_mixed_martial_arts,MMA,Rhys McKee,Alex Lohore,2026-04-16T23:40:00Z,2026-04-16T19:00:08.557902+00:00
+6a7ea60942280e85f02f6c1abb16ea49,mma_mixed_martial_arts,MMA,Darragh Kelly,Jay Jay Wilson,2026-04-17T00:10:00Z,2026-04-16T19:00:08.557902+00:00
+1866287434085fb2fb4a2da3f44c312b,mma_mixed_martial_arts,MMA,Ernesto Ibarra,Devon Lozej,2026-04-18T01:00:00Z,2026-04-16T19:00:08.557902+00:00
+0f58e635269943a54aed9d0b3a6a1f8a,mma_mixed_martial_arts,MMA,Taner Trembley,Elijah Johns,2026-04-18T01:00:00Z,2026-04-16T19:00:08.557902+00:00
+82f653d4ac7662f7da86bc0f1b427200,mma_mixed_martial_arts,MMA,Albert Odzimkowski,Andi Vrtacic,2026-04-18T15:00:00Z,2026-04-16T19:00:08.557902+00:00
+cde19bcb8181d276835f365af3295ae4,mma_mixed_martial_arts,MMA,Oleksii Polischuk,Daniel Rutkowski,2026-04-18T15:00:00Z,2026-04-16T19:00:08.557902+00:00
+f08aa4617ffafba6acf1d6a041a9d833,mma_mixed_martial_arts,MMA,Hugo Deux,Welisson Paiva,2026-04-18T15:00:00Z,2026-04-16T19:00:08.557902+00:00
+586e93150dbe2d18cc2ccf18b76c01a4,mma_mixed_martial_arts,MMA,Jan Masek,Nacim Belhouachi,2026-04-18T15:00:00Z,2026-04-16T19:00:08.557902+00:00
+d94fef2756688dbe2aacb21f439e2a83,mma_mixed_martial_arts,MMA,Pawel Pawlak,Mamed Khalidov,2026-04-18T15:00:00Z,2026-04-16T19:00:08.557902+00:00
+a87dad126c3474c6a8db623527b16f97,mma_mixed_martial_arts,MMA,Werlleson Martins,Marcelo Morrelli,2026-04-18T15:00:00Z,2026-04-16T19:00:08.557902+00:00
+c50b030da429093b0f33b7229f805f4a,mma_mixed_martial_arts,MMA,Phil De Fries,Marcin Wojcik,2026-04-18T15:00:00Z,2026-04-16T19:00:08.557902+00:00
+fe2cf620c9c2872fbf41079cdbd9d986,mma_mixed_martial_arts,MMA,Sebastian Decowski,Tobiasz Le,2026-04-18T15:00:00Z,2026-04-16T19:00:08.557902+00:00
+9bc99e6289a8201b68483266f530e508,mma_mixed_martial_arts,MMA,Jamie Siraj,John Yannis,2026-04-18T21:10:00Z,2026-04-16T19:00:08.557902+00:00
+5b02941bc1425e1bd998c928a827c727,mma_mixed_martial_arts,MMA,Allan Nascimento,Mitch Raposo,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+21e4963e9040883f3e377d147d086c6c,mma_mixed_martial_arts,MMA,Kyler Phillips,Charles Jourdain,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+4f7b70c5b19cea89fa601c0fe3a69231,mma_mixed_martial_arts,MMA,Melissa Croden,Darya Zheleznyakova,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+46fe6736c8f9dab62833f61fed2d5b48,mma_mixed_martial_arts,MMA,Márcio Barbosa,Dennis Buzukja,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+1c122070dfeca191db21e4179557ecd6,mma_mixed_martial_arts,MMA,Thiago Moises,Gauge Young,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+71c557dcac52733ed521cac194992b48,mma_mixed_martial_arts,MMA,Mike Malott,Gilbert Burns,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+fe15917542de66b05e42ce698237f6ca,mma_mixed_martial_arts,MMA,Gokhan Saricam,Tanner Boser,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+9cb950e9a60ec84fa793bcd639586353,mma_mixed_martial_arts,MMA,Jamey-Lyn Horth,J.J. Aldrich,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+d06a2e11c36cdb7b6299ef1e7d5e42aa,mma_mixed_martial_arts,MMA,Mandel Nallo,Jai Herbert,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+235d67501698f03332cb06f34f34af9a,mma_mixed_martial_arts,MMA,Jasmine Jasudavicius,Karine Silva,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+d10f44b5437059abce430ab69648c625,mma_mixed_martial_arts,MMA,Mark Vologdin,John Castaneda,2026-04-18T22:00:00Z,2026-04-16T19:00:08.557902+00:00
+aa8cd2715d12783b2a7eb7da3b2067ce,mma_mixed_martial_arts,MMA,Julien Leblanc,Robert Valentin,2026-04-18T23:30:00Z,2026-04-16T19:00:08.557902+00:00
+acbd6f1942dd58ef6d2d83c26af4d2d5,mma_mixed_martial_arts,MMA,Arman Tsarukyan,Urijah Faber,2026-04-19T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+9281af707b0435f63ae09d76e0d45b6e,mma_mixed_martial_arts,MMA,Merab Dvalishvili,Henry Cejudo,2026-04-19T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+5e3ed97a4087084bdfff2683bcfd2d49,mma_mixed_martial_arts,MMA,Rodolfo Vieira,Eric McConico,2026-04-25T21:00:00Z,2026-04-16T19:00:08.557902+00:00
+657d5a2a5693234ca1aa298a7ee4d977,mma_mixed_martial_arts,MMA,Jackson McVey,Sedriques Dumas,2026-04-25T21:00:00Z,2026-04-16T19:00:08.557902+00:00
+7b24a93b5e3d53d4a22db2f56d68e65f,mma_mixed_martial_arts,MMA,Jafel Filho,Lucas Rocha,2026-04-25T21:00:00Z,2026-04-16T19:00:08.557902+00:00
+c1ca349730d52f62b779f10f9f90f960,mma_mixed_martial_arts,MMA,Talita Alencar,Julia Polastri,2026-04-25T21:00:00Z,2026-04-16T19:00:08.557902+00:00
+47769d01880fd9cc3753f75a697688d8,mma_mixed_martial_arts,MMA,Max Griffin,Victor Valenzuela,2026-04-25T21:00:00Z,2026-04-16T19:00:08.557902+00:00
+c625ba8faec8f1445c8543f1c0698f15,mma_mixed_martial_arts,MMA,Mayra Bueno Silva,Michelle Montague,2026-04-25T21:00:00Z,2026-04-16T19:00:08.557902+00:00
+deb30327ec5e4718b7209327e5eae733,mma_mixed_martial_arts,MMA,Rafa Garcia,Alex Hernandez,2026-04-26T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+f7469df672b3385e51e6ab329401c474,mma_mixed_martial_arts,MMA,Aljamain Sterling,Youssef Zalal,2026-04-26T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+54e3384b808042a9f21b3139925a61c5,mma_mixed_martial_arts,MMA,Norma Dumont,Joselyne Edwards,2026-04-26T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+3c6748aa1b40bddddf19f5deb5ee482b,mma_mixed_martial_arts,MMA,Marcus Buchecha,Ryan Spann,2026-04-26T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+2259acc08cdedd31fadfe5c7ecd499cd,mma_mixed_martial_arts,MMA,Montel Jackson,Raoni Barcelos,2026-04-26T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+5651a6ddf566cba04945523e6a35b62b,mma_mixed_martial_arts,MMA,Davey Grant,Juan Martinetti,2026-04-26T01:00:00Z,2026-04-16T19:00:08.557902+00:00
+ae22ee2cfaa7d47bdfbf58c00e46a7d7,mma_mixed_martial_arts,MMA,Jack Della Maddalena,Carlos Prates,2026-05-03T04:00:00Z,2026-04-16T19:00:08.557902+00:00
+9572ebf9d60e9a4a050db937e02dcf03,mma_mixed_martial_arts,MMA,Khamzat Chimaev,Sean Strickland,2026-05-10T01:00:00Z,2026-04-16T19:00:08.557902+00:00
+bca7261228cf53e0ef8c55e76cdf2138,mma_mixed_martial_arts,MMA,King Green,Jeremy Stephens,2026-05-10T02:15:00Z,2026-04-16T19:00:08.557902+00:00
+f7214563fa457f83d32ae08128c0dfa1,mma_mixed_martial_arts,MMA,Jan Blachowicz,Bogdan Guskov,2026-05-10T02:45:00Z,2026-04-16T19:00:08.557902+00:00
+a2b05838698a5f914b569f502d372985,mma_mixed_martial_arts,MMA,Sean Brady,Joaquin Buckley,2026-05-10T03:15:00Z,2026-04-16T19:00:08.557902+00:00
+dc70600ccf557c5bce24b0f1e73fa45f,mma_mixed_martial_arts,MMA,Alexander Volkov,Waldo Cortes-Acosta,2026-05-10T03:45:00Z,2026-04-16T19:00:08.557902+00:00
+1976a9195475f1efe57d2c1a3a85c019,mma_mixed_martial_arts,MMA,Joshua Van,Tatsuro Taira,2026-05-10T04:00:00Z,2026-04-16T19:00:08.557902+00:00
+1b275b79bdfb54ec649b1c4a1cd01b60,mma_mixed_martial_arts,MMA,Francis Ngannou,Philipe Lins,2026-05-17T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+a39fe54b3c38dbba822aaa3d29cca5dd,mma_mixed_martial_arts,MMA,Ronda Rousey,Gina Carano,2026-05-17T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+0068bfd36cef60b3e373c762b5b6338a,mma_mixed_martial_arts,MMA,Nate Diaz,Mike Perry,2026-05-17T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+f1fb488f82150df01e4c09f56f5efe09,mma_mixed_martial_arts,MMA,Islam Makhachev,Ilia Topuria,2026-06-02T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+c8dbccd9eda383d9c76dc15e4a3c96a7,mma_mixed_martial_arts,MMA,Alex Pereira,Carlos Ulberg,2026-06-14T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+b1a902b892f239a0404c75781af22e87,mma_mixed_martial_arts,MMA,Alex Pereira,Jiri Prochazka,2026-06-14T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+e7a638f5736f2d0edc762b56fc404f74,mma_mixed_martial_arts,MMA,Alex Pereira,Jon Jones,2026-06-14T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+a3c203ddf1665927314db9cc73ede377,mma_mixed_martial_arts,MMA,Magomed Ankalaev,Carlos Ulberg,2026-06-14T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+2f1aabeeefbe5b02db96846ac879a6ae,mma_mixed_martial_arts,MMA,Derrick Lewis,Josh Hokit,2026-06-15T00:00:00Z,2026-04-16T19:00:08.557902+00:00
+4b4920d2454497566b519a271f9e1e93,mma_mixed_martial_arts,MMA,Diego Lopes,Steve Garcia Jr.,2026-06-15T00:30:00Z,2026-04-16T19:00:08.557902+00:00
+9cf76c6ecde4824965ca04da644dfefa,mma_mixed_martial_arts,MMA,Bo Nickal,Kyle Daukaus,2026-06-15T01:00:00Z,2026-04-16T19:00:08.557902+00:00
+54eb45b661945af7aa7da285a12e835c,mma_mixed_martial_arts,MMA,Mauricio Ruffy,Michael Chandler,2026-06-15T01:30:00Z,2026-04-16T19:00:08.557902+00:00
+20d0d02349fe04d63631b1e3f1879fa3,mma_mixed_martial_arts,MMA,Sean O'Malley,Aiemann Zahabi,2026-06-15T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+1e972b73d422aa4cadb9185ca87c3c93,mma_mixed_martial_arts,MMA,Alex Pereira,Ciryl Gane,2026-06-15T02:30:00Z,2026-04-16T19:00:08.557902+00:00
+e34a17d5cf2a82a5161a54631e06770c,mma_mixed_martial_arts,MMA,Ilia Topuria,Justin Gaethje,2026-06-15T03:00:00Z,2026-04-16T19:00:08.557902+00:00
+891965c02d665af81f9308428b8f33e7,mma_mixed_martial_arts,MMA,Valentina Shevchenko,Natalia Silva,2026-06-27T14:00:00Z,2026-04-16T19:00:08.557902+00:00
+ee37a39c1d8a992a65c6ff399fa48c63,mma_mixed_martial_arts,MMA,Alexandre Pantoja,Joshua Van,2026-06-28T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+1ca0b61248b7eb5feef12a04661003e0,mma_mixed_martial_arts,MMA,Tom Aspinall,Ciryl Gane,2026-06-28T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+702055a9e35d07bddba5fd446eef719c,mma_mixed_martial_arts,MMA,Islam Makhachev,Michael Morales,2026-06-28T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+ee6203b3168fb34a63a60ad51dd01050,mma_mixed_martial_arts,MMA,Weili Zhang,Mackenzie Dern,2026-06-28T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+05b3dc3515568962c8e7351c06ff69c0,mma_mixed_martial_arts,MMA,Merab Dvalishvili,Petr Yan,2026-06-28T02:00:00Z,2026-04-16T19:00:08.557902+00:00
+f09d8755975042bcd105a5ab258253ff,mma_mixed_martial_arts,MMA,Ilia Topuria,Arman Tsarukyan,2026-08-02T03:10:00Z,2026-04-16T19:00:08.557902+00:00
+944dd8a4945ba0df2c4370de73387c5d,mma_mixed_martial_arts,MMA,Conor McGregor,Jorge Masvidal,2026-12-31T17:00:00Z,2026-04-16T19:00:08.557902+00:00
+96b5f4dba85f6b98816b6660cf21241d,mma_mixed_martial_arts,MMA,Michael Chandler,Conor McGregor,2026-12-31T19:00:00Z,2026-04-16T19:00:08.557902+00:00
+b40b838fc3b12e959a10d678ed58321f,mma_mixed_martial_arts,MMA,Islam Makhachev,Kamaru Usman,2026-12-31T19:25:00Z,2026-04-16T19:00:08.557902+00:00
+fa2d7e022c2c47e0855f04084d08f163,mma_mixed_martial_arts,MMA,Tom Aspinall,Ciryl Gane,2026-12-31T20:00:00Z,2026-04-16T19:00:08.557902+00:00
+fcee675894f8285afc8daf0808198b74,mma_mixed_martial_arts,MMA,Islam Makhachev,Kamaru Usman,2027-07-02T02:00:00Z,2026-04-16T19:00:08.557902+00:00

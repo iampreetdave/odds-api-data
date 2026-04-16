@@ -1,0 +1,8 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+7bfa00dc684c5f3e76f9a2e9ee91634a,soccer_switzerland_superleague,Swiss Superleague,FC Thun,FC Basel,2026-04-18T18:30:00Z,2026-04-16T19:00:32.158990+00:00
+7aa3cf259168d8fd0ad1434707769b83,soccer_switzerland_superleague,Swiss Superleague,FC Lausanne-Sport,FC Zurich,2026-04-25T16:00:00Z,2026-04-16T19:00:32.158990+00:00
+a812c751e8ce51858de5ce70a979af2b,soccer_switzerland_superleague,Swiss Superleague,Grasshopper Zürich,FC Luzern,2026-04-25T16:00:00Z,2026-04-16T19:00:32.158990+00:00
+daaa4608f39c2dbd9148113c28debe50,soccer_switzerland_superleague,Swiss Superleague,FC Thun,FC Lugano,2026-04-25T18:30:00Z,2026-04-16T19:00:32.158990+00:00
+63eb06abcbfde7b7002228c53c1f1839,soccer_switzerland_superleague,Swiss Superleague,FC Basel,FC Sion,2026-04-26T12:00:00Z,2026-04-16T19:00:32.158990+00:00
+77a3fcb619cb2f3bae22bfc7e13cf8dd,soccer_switzerland_superleague,Swiss Superleague,BSC Young Boys,FC St Gallen,2026-04-26T14:30:00Z,2026-04-16T19:00:32.158990+00:00
+876b7c3e0143fb9a9507b5631f64c2a7,soccer_switzerland_superleague,Swiss Superleague,Servette,FC Winterthur,2026-04-26T14:30:00Z,2026-04-16T19:00:32.158990+00:00

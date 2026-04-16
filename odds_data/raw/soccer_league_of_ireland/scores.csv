@@ -1,0 +1,6 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+2025e1a46e3642759af179d664ea43fb,soccer_league_of_ireland,Shelbourne Dublin,Derry City,2026-04-17T18:45:00Z,False,,,
+2e803403cccc9df240ee6545a14a7724,soccer_league_of_ireland,Drogheda United,St Patricks Athletic,2026-04-17T18:45:00Z,False,,,
+f914273f93fdc1270f5a953fd29a6d00,soccer_league_of_ireland,Dundalk,Galway United,2026-04-17T18:45:00Z,False,,,
+13148fc2621bbbfe8fc64221568e2896,soccer_league_of_ireland,Shamrock Rovers,Bohemians,2026-04-17T19:00:00Z,False,,,
+7b0cff9c1c65b8653f8d0726d372f98a,soccer_league_of_ireland,Sligo Rovers,Waterford FC,2026-04-18T18:45:00Z,False,,,

@@ -1,0 +1,9 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+0d72503d7aeccd80b54e99decc9636ca,soccer_chile_campeonato,Primera División - Chile,Deportes Limache,Universidad de Concepción,2026-04-18T00:00:00Z,2026-04-16T19:00:13.205237+00:00
+7a94ff952050f9e7ac3958a7df50b492,soccer_chile_campeonato,Primera División - Chile,Everton de Viña del Mar,Universidad de Chile,2026-04-18T21:30:00Z,2026-04-16T19:00:13.205237+00:00
+17f266211fcd38d0095cd1b827b3de73,soccer_chile_campeonato,Primera División - Chile,Deportes Concepción,La Serena,2026-04-19T00:00:00Z,2026-04-16T19:00:13.205237+00:00
+7d151f696b0610307f0fce4cc636e90f,soccer_chile_campeonato,Primera División - Chile,Coquimbo Unido,Ñublense,2026-04-19T16:30:00Z,2026-04-16T19:00:13.205237+00:00
+21a0d33e9f30658f53bda118636fc8b0,soccer_chile_campeonato,Primera División - Chile,Cobresal,O'Higgins,2026-04-19T19:30:00Z,2026-04-16T19:00:13.205237+00:00
+818c6697f973439eef5aa944c891a1f7,soccer_chile_campeonato,Primera División - Chile,Colo Colo,Palestino,2026-04-19T22:30:00Z,2026-04-16T19:00:13.205237+00:00
+76c82ccb603b1dd9cbda3ceff3d63eeb,soccer_chile_campeonato,Primera División - Chile,Huachipato,Audax Italiano,2026-04-20T00:45:00Z,2026-04-16T19:00:13.205237+00:00
+05d72641bd82364509438fe9cf1e405a,soccer_chile_campeonato,Primera División - Chile,Universidad Católica (CHI),Union La Calera,2026-04-21T00:30:00Z,2026-04-16T19:00:13.205237+00:00

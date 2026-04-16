@@ -1,0 +1,36 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+b68962085069c4f1a6138137137c83e6,soccer_efl_champ,Championship,Blackburn Rovers,Coventry City,2026-04-17T19:00:00Z,2026-04-16T19:00:18.303603+00:00
+ac5274aa76452165617c427585fdfa79,soccer_efl_champ,Championship,Derby County,Oxford United,2026-04-18T11:30:00Z,2026-04-16T19:00:18.303603+00:00
+4bca66c14c000ea5c9bde7d0de6a1d80,soccer_efl_champ,Championship,Portsmouth,Leicester City,2026-04-18T11:30:00Z,2026-04-16T19:00:18.303603+00:00
+157086900b215f3d825e2a538bb2ca84,soccer_efl_champ,Championship,Millwall,Queens Park Rangers,2026-04-18T11:30:00Z,2026-04-16T19:00:18.303603+00:00
+6c6f6057858e1f2dc387c8403086e0a9,soccer_efl_champ,Championship,Hull City,Birmingham City,2026-04-18T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+6497231e218c484d2519a997b85d6d5c,soccer_efl_champ,Championship,Bristol City,Norwich City,2026-04-18T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+02db5dbf281b27de13449ff46a035181,soccer_efl_champ,Championship,Sheffield Wednesday,Charlton Athletic,2026-04-18T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+e6f0598722dc2d8279642efcde202bd7,soccer_efl_champ,Championship,Preston North End,West Bromwich Albion,2026-04-18T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+0588a6d228e5a982a9cda86d41832b2d,soccer_efl_champ,Championship,Watford,Sheffield United,2026-04-18T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+91b6f2e28843065412a9c65ff495bc0a,soccer_efl_champ,Championship,Swansea City,Southampton,2026-04-18T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+4bcbfe3bf9cf87fe21afe69da2ef7d41,soccer_efl_champ,Championship,Wrexham AFC,Stoke City,2026-04-18T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+b6ea6f6b8701ec59fd1ba336cb086589,soccer_efl_champ,Championship,Ipswich Town,Middlesbrough,2026-04-19T11:00:00Z,2026-04-16T19:00:18.303603+00:00
+7ab95619c6e18e166f2e94f01e893f0f,soccer_efl_champ,Championship,Southampton,Bristol City,2026-04-21T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+8133f9c199cee1e7871263183de2b10f,soccer_efl_champ,Championship,Coventry City,Portsmouth,2026-04-21T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+6b177893ac6e019ea308f945fdff80fd,soccer_efl_champ,Championship,Norwich City,Derby County,2026-04-21T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+3ba55cf94563b65ef7d5063757ea802d,soccer_efl_champ,Championship,Leicester City,Hull City,2026-04-21T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+7cc9cf33fc2767a64480ecf94571fe7b,soccer_efl_champ,Championship,Stoke City,Millwall,2026-04-21T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+b809e451a0fc15426d286b9056055fd7,soccer_efl_champ,Championship,Oxford United,Wrexham AFC,2026-04-21T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+5767ddba4160305681f5fbb83884907d,soccer_efl_champ,Championship,Queens Park Rangers,Swansea City,2026-04-21T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+8b6504bc79c6c0f073b19525c79890ee,soccer_efl_champ,Championship,West Bromwich Albion,Watford,2026-04-21T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+cadf11febbeb6105635702d83a78cf50,soccer_efl_champ,Championship,Birmingham City,Preston North End,2026-04-22T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+007b65f61be7c3cf0643c26299a6e29d,soccer_efl_champ,Championship,Sheffield United,Blackburn Rovers,2026-04-22T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+93a153cd45a0bd702a34c8c6509a04a6,soccer_efl_champ,Championship,Charlton Athletic,Ipswich Town,2026-04-22T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+b14ba60c057de53f49e7d71b2d4efa12,soccer_efl_champ,Championship,Middlesbrough,Sheffield Wednesday,2026-04-22T18:45:00Z,2026-04-16T19:00:18.303603+00:00
+5283bb55604dc88afdee526f97fc31c8,soccer_efl_champ,Championship,Leicester City,Millwall,2026-04-24T19:00:00Z,2026-04-16T19:00:18.303603+00:00
+d81c14e879d3bbf9da9538a057b03ee9,soccer_efl_champ,Championship,Charlton Athletic,Hull City,2026-04-25T11:30:00Z,2026-04-16T19:00:18.303603+00:00
+e8147e10e6fc0063195542e9f8fa6420,soccer_efl_champ,Championship,West Bromwich Albion,Ipswich Town,2026-04-25T11:30:00Z,2026-04-16T19:00:18.303603+00:00
+9ac1038bd671c6f68254256f657d206d,soccer_efl_champ,Championship,Middlesbrough,Watford,2026-04-25T11:30:00Z,2026-04-16T19:00:18.303603+00:00
+178ab3819207670f178e4614f4ede0d2,soccer_efl_champ,Championship,Birmingham City,Bristol City,2026-04-25T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+b75e98e71de9361c0597003176edc84c,soccer_efl_champ,Championship,Queens Park Rangers,Derby County,2026-04-25T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+45ab1582b81fdcf3c453e85bbaa5520f,soccer_efl_champ,Championship,Norwich City,Swansea City,2026-04-25T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+7d2c7ac49bc7e3fcb37dd2f79f885e8c,soccer_efl_champ,Championship,Oxford United,Sheffield Wednesday,2026-04-25T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+cb34ec27b26b2c4df97989e228580844,soccer_efl_champ,Championship,Stoke City,Portsmouth,2026-04-25T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+ba656e43822a9267017f9d1c2e1066a8,soccer_efl_champ,Championship,Sheffield United,Preston North End,2026-04-25T14:00:00Z,2026-04-16T19:00:18.303603+00:00
+5611ae1218ebc90aa1aa24fd70261e7c,soccer_efl_champ,Championship,Coventry City,Wrexham AFC,2026-04-26T11:00:00Z,2026-04-16T19:00:18.303603+00:00

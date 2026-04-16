@@ -1,0 +1,9 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+fd256a0fd02ef9bc14c0d9f51acf82d4,soccer_china_superleague,Qingdao Hainiu FC,Qingdao West Coast FC,2026-04-17T11:00:00Z,False,,,
+23dc46aad485cca0e34935968e0359e6,soccer_china_superleague,Chongqing Tonglianglong FC,Shenzhen Peng City FC,2026-04-17T11:35:00Z,False,,,
+f704e012ffd01c77b4b67ec0bcbe9611,soccer_china_superleague,Shandong Luneng Taishan FC,Shanghai SIPG FC,2026-04-17T11:35:00Z,False,,,
+efb2ed4a57ee37789c9554cf754e3ca1,soccer_china_superleague,Zhejiang,Beijing FC,2026-04-17T12:00:00Z,False,,,
+fba8cae84608311064cfb6e40f90ae42,soccer_china_superleague,Wuhan Three Towns,Chengdu Rongcheng FC,2026-04-17T12:00:00Z,False,,,
+a08271a923a2fb95c17b0b19ab22135d,soccer_china_superleague,Yunnan Yukun,Tianjin Jinmen Tiger FC,2026-04-17T12:00:00Z,False,,,
+213eed443a343ffbd42191ab83c92b9d,soccer_china_superleague,Dalian Yingbo,Henan FC,2026-04-18T11:00:00Z,False,,,
+c251345bb00dc93d19191b980386fc05,soccer_china_superleague,Shanghai Shenhua FC,Liaoning Tieren FC,2026-04-18T12:00:00Z,False,,,

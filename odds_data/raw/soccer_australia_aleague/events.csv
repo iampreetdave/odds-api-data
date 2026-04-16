@@ -1,0 +1,7 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+0818edbde3c3c5837911bac7718a9f04,soccer_australia_aleague,A-League,Melbourne Victory,Newcastle Jets FC,2026-04-17T09:35:00Z,2026-04-16T19:00:10.888666+00:00
+2544e5c154fc9754b4422c4b5c0fcdba,soccer_australia_aleague,A-League,Wellington Phoenix FC,Western Sydney Wanderers,2026-04-18T05:00:00Z,2026-04-16T19:00:10.888666+00:00
+9a12f897eb35fa7fa975bc5396405cbd,soccer_australia_aleague,A-League,Brisbane Roar,Melbourne City,2026-04-18T07:00:00Z,2026-04-16T19:00:10.888666+00:00
+6aaec40a32d6c4956483bdc7231dcd0b,soccer_australia_aleague,A-League,Sydney FC,Perth Glory,2026-04-18T09:35:00Z,2026-04-16T19:00:10.888666+00:00
+ca1352a2eae82c65d055aba133ba5d8e,soccer_australia_aleague,A-League,Auckland FC,Central Coast Mariners,2026-04-19T03:00:00Z,2026-04-16T19:00:10.888666+00:00
+97345ed2362542569397e81ebc395a81,soccer_australia_aleague,A-League,Adelaide United,Macarthur FC,2026-04-19T05:30:00Z,2026-04-16T19:00:10.888666+00:00

@@ -1,0 +1,11 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+e39a51d05b5444bf1c98ffa0ed6811d3,soccer_uefa_champs_league,Atlético Madrid,Barcelona,2026-04-14T19:00:00Z,True,2026-04-15T23:59:54Z,Atlético Madrid,1
+e39a51d05b5444bf1c98ffa0ed6811d3,soccer_uefa_champs_league,Atlético Madrid,Barcelona,2026-04-14T19:00:00Z,True,2026-04-15T23:59:54Z,Barcelona,2
+6f7c43b668146a5e9ba09151c1ba460b,soccer_uefa_champs_league,Liverpool,Paris Saint Germain,2026-04-14T19:03:00Z,True,2026-04-15T23:59:54Z,Liverpool,0
+6f7c43b668146a5e9ba09151c1ba460b,soccer_uefa_champs_league,Liverpool,Paris Saint Germain,2026-04-14T19:03:00Z,True,2026-04-15T23:59:54Z,Paris Saint Germain,2
+02ff9b02f1eab3394f9e38d70e257e12,soccer_uefa_champs_league,Arsenal,Sporting Lisbon,2026-04-15T19:00:00Z,True,2026-04-16T02:20:29Z,Arsenal,0
+02ff9b02f1eab3394f9e38d70e257e12,soccer_uefa_champs_league,Arsenal,Sporting Lisbon,2026-04-15T19:00:00Z,True,2026-04-16T02:20:29Z,Sporting Lisbon,0
+76200682955d7f62f3b051a14f5f67fa,soccer_uefa_champs_league,Bayern Munich,Real Madrid,2026-04-15T19:01:00Z,True,2026-04-16T02:20:29Z,Bayern Munich,4
+76200682955d7f62f3b051a14f5f67fa,soccer_uefa_champs_league,Bayern Munich,Real Madrid,2026-04-15T19:01:00Z,True,2026-04-16T02:20:29Z,Real Madrid,3
+9ee53c45ff32f7ea5b6e638b023f07d5,soccer_uefa_champs_league,Paris Saint Germain,Bayern Munich,2026-04-28T19:00:00Z,False,,,
+aec5613e75cb9d2ebfcf51382511209e,soccer_uefa_champs_league,Atlético Madrid,Arsenal,2026-04-29T19:00:00Z,False,,,

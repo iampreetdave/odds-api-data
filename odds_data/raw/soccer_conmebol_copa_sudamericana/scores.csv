@@ -1,0 +1,44 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+978cbc0a04d25a3453c70748c186c2f5,soccer_conmebol_copa_sudamericana,Grêmio,Deportivo Pereira,2026-04-14T22:00:00Z,True,2026-04-15T23:59:47Z,Grêmio,1
+978cbc0a04d25a3453c70748c186c2f5,soccer_conmebol_copa_sudamericana,Grêmio,Deportivo Pereira,2026-04-14T22:00:00Z,True,2026-04-15T23:59:47Z,Deportivo Pereira,0
+2fd1bce6d043c8f22ac76de556176e2d,soccer_conmebol_copa_sudamericana,Sao Paulo,O'Higgins,2026-04-14T22:01:00Z,True,2026-04-15T23:59:47Z,Sao Paulo,2
+2fd1bce6d043c8f22ac76de556176e2d,soccer_conmebol_copa_sudamericana,Sao Paulo,O'Higgins,2026-04-14T22:01:00Z,True,2026-04-15T23:59:47Z,O'Higgins,0
+85554be8d451d2790b3797cc44b9ed93,soccer_conmebol_copa_sudamericana,Vasco da Gama,Audax Italiano,2026-04-15T00:00:00Z,True,2026-04-15T23:59:47Z,Vasco da Gama,1
+85554be8d451d2790b3797cc44b9ed93,soccer_conmebol_copa_sudamericana,Vasco da Gama,Audax Italiano,2026-04-15T00:00:00Z,True,2026-04-15T23:59:47Z,Audax Italiano,2
+799027b6c6338bee11971a02c8178e1e,soccer_conmebol_copa_sudamericana,Palestino,Montevideo City Torque,2026-04-15T00:30:00Z,True,2026-04-15T23:59:47Z,Palestino,0
+799027b6c6338bee11971a02c8178e1e,soccer_conmebol_copa_sudamericana,Palestino,Montevideo City Torque,2026-04-15T00:30:00Z,True,2026-04-15T23:59:47Z,Montevideo City Torque,2
+d21395c145a6571a11668b31390df59a,soccer_conmebol_copa_sudamericana,Santos,Recoleta FC,2026-04-15T00:30:00Z,True,2026-04-15T23:59:47Z,Santos,1
+d21395c145a6571a11668b31390df59a,soccer_conmebol_copa_sudamericana,Santos,Recoleta FC,2026-04-15T00:30:00Z,True,2026-04-15T23:59:47Z,Recoleta FC,1
+e8c8ed68ca15ff287631f90f507be737,soccer_conmebol_copa_sudamericana,Caracas FC,Club Independiente Petrolero,2026-04-15T22:00:00Z,True,2026-04-16T09:27:50Z,Caracas FC,1
+e8c8ed68ca15ff287631f90f507be737,soccer_conmebol_copa_sudamericana,Caracas FC,Club Independiente Petrolero,2026-04-15T22:00:00Z,True,2026-04-16T09:27:50Z,Club Independiente Petrolero,0
+93a55a02ca37079f302acd2efe8ff820,soccer_conmebol_copa_sudamericana,Racing Club,Botafogo,2026-04-15T22:01:00Z,True,2026-04-16T09:27:50Z,Racing Club,2
+93a55a02ca37079f302acd2efe8ff820,soccer_conmebol_copa_sudamericana,Racing Club,Botafogo,2026-04-15T22:01:00Z,True,2026-04-16T09:27:50Z,Botafogo,3
+1e83ac328cda1e65b36a4a54529818ca,soccer_conmebol_copa_sudamericana,Olimpia Asunción,Barracas Central,2026-04-16T00:00:00Z,True,2026-04-16T09:27:50Z,Olimpia Asunción,0
+1e83ac328cda1e65b36a4a54529818ca,soccer_conmebol_copa_sudamericana,Olimpia Asunción,Barracas Central,2026-04-16T00:00:00Z,True,2026-04-16T09:27:50Z,Barracas Central,0
+c0824b3082e150ce9c2e6c38d5dc5817,soccer_conmebol_copa_sudamericana,River Plate,Carabobo FC,2026-04-16T00:30:00Z,True,2026-04-16T09:27:50Z,River Plate,1
+c0824b3082e150ce9c2e6c38d5dc5817,soccer_conmebol_copa_sudamericana,River Plate,Carabobo FC,2026-04-16T00:30:00Z,True,2026-04-16T09:27:50Z,Carabobo FC,0
+4abefb86f8d345cf3475a6c89835c08b,soccer_conmebol_copa_sudamericana,América de Cali,Alianza Atlético,2026-04-16T02:00:00Z,True,2026-04-16T09:27:50Z,América de Cali,2
+4abefb86f8d345cf3475a6c89835c08b,soccer_conmebol_copa_sudamericana,América de Cali,Alianza Atlético,2026-04-16T02:00:00Z,True,2026-04-16T09:27:50Z,Alianza Atlético,1
+02215bf650dd87b56ff21acf78cceb4c,soccer_conmebol_copa_sudamericana,Millonarios,CA Boston River,2026-04-16T02:00:00Z,True,2026-04-16T09:27:50Z,Millonarios,1
+02215bf650dd87b56ff21acf78cceb4c,soccer_conmebol_copa_sudamericana,Millonarios,CA Boston River,2026-04-16T02:00:00Z,True,2026-04-16T09:27:50Z,CA Boston River,0
+1a0c97efadd5fc0543a45c00d7a5c4ec,soccer_conmebol_copa_sudamericana,Clube Atlético Mineiro,CA Juventud,2026-04-16T22:00:00Z,False,2026-04-16T09:27:50Z,,
+3a9c252e1f3f694531724c119a71a474,soccer_conmebol_copa_sudamericana,CA Tigre BA,Macará,2026-04-16T22:00:00Z,False,2026-04-16T09:27:50Z,,
+e8c7909fb3af71c57085a4a409195363,soccer_conmebol_copa_sudamericana,Bragantino-SP,Blooming,2026-04-17T00:30:00Z,False,2026-04-16T09:27:50Z,,
+55d6009f0c81617da2619404876864ef,soccer_conmebol_copa_sudamericana,San Lorenzo,C.D. Cuenca,2026-04-17T00:30:00Z,False,2026-04-16T09:27:50Z,,
+ee7a7d36a18f5db9b9e4d3737102325e,soccer_conmebol_copa_sudamericana,Club Cienciano,Puerto Cabello,2026-04-17T02:00:00Z,False,2026-04-16T09:27:50Z,,
+24027ca0406fe8158fb0ce6c2e70aed1,soccer_conmebol_copa_sudamericana,Botafogo,Club Independiente Petrolero,2026-04-28T22:00:00Z,False,,,
+e6bf602637db5a627b9aa214f9d2e192,soccer_conmebol_copa_sudamericana,San Lorenzo,Santos,2026-04-28T22:00:00Z,False,,,
+4c161ee774658707b8451700d8128cbc,soccer_conmebol_copa_sudamericana,Barracas Central,Audax Italiano,2026-04-29T00:00:00Z,False,,,
+e19f24afb0d7de25f65c4281eabc07ee,soccer_conmebol_copa_sudamericana,Recoleta FC,C.D. Cuenca,2026-04-29T00:30:00Z,False,,,
+15c37144e0f0cb05c3f6cb48bc18b9e9,soccer_conmebol_copa_sudamericana,Millonarios,Sao Paulo,2026-04-29T00:30:00Z,False,,,
+693404603e26133d565c2a43919b2dd4,soccer_conmebol_copa_sudamericana,O'Higgins,CA Boston River,2026-04-29T02:00:00Z,False,,,
+a11f294eb8c38fe6e0d2d3a6d17bde6c,soccer_conmebol_copa_sudamericana,CA Juventud,Puerto Cabello,2026-04-29T22:00:00Z,False,,,
+47e6b15f67e4221b9de5cf1bf75e628d,soccer_conmebol_copa_sudamericana,Caracas FC,Racing Club,2026-04-29T22:00:00Z,False,,,
+bac61a5c4c5d14276179074ab4b94a2a,soccer_conmebol_copa_sudamericana,Deportivo Pereira,Montevideo City Torque,2026-04-29T22:00:00Z,False,,,
+d70e483b50801d1a043656902c625393,soccer_conmebol_copa_sudamericana,Club Cienciano,Clube Atlético Mineiro,2026-04-30T00:30:00Z,False,,,
+0c187a83a2bda10989bf9490a0458b6d,soccer_conmebol_copa_sudamericana,Palestino,Grêmio,2026-04-30T00:30:00Z,False,,,
+2369736751097c86623722395f5315c6,soccer_conmebol_copa_sudamericana,Carabobo FC,Blooming,2026-04-30T22:00:00Z,False,,,
+c0e23ba4f81d230b37470c7a111fa6c7,soccer_conmebol_copa_sudamericana,Vasco da Gama,Olimpia Asunción,2026-04-30T22:00:00Z,False,,,
+181a60051a26010e492b324b829a0878,soccer_conmebol_copa_sudamericana,CA Tigre BA,América de Cali,2026-05-01T00:00:00Z,False,,,
+35fb09ac9fd00441b4560e1968c8c46a,soccer_conmebol_copa_sudamericana,Bragantino-SP,River Plate,2026-05-01T00:30:00Z,False,,,
+697ddf1b33453f42462dbd5d25d0c650,soccer_conmebol_copa_sudamericana,Alianza Atlético,Macará,2026-05-01T02:00:00Z,False,,,

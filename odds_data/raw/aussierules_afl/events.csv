@@ -1,0 +1,9 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+471dea70a21afb33bf8a09062dd2a7fe,aussierules_afl,AFL,Geelong Cats,Western Bulldogs,2026-04-17T09:20:00Z,2026-04-16T18:59:52.339451+00:00
+7fea138a2ddddfd54a8571bd5c5ce5f8,aussierules_afl,AFL,Sydney Swans,Greater Western Sydney Giants,2026-04-17T09:50:00Z,2026-04-16T18:59:52.339451+00:00
+656fbf034f276e97eed4af2eb7e3caa6,aussierules_afl,AFL,Gold Coast Suns,Essendon Bombers,2026-04-18T03:15:00Z,2026-04-16T18:59:52.339451+00:00
+feddd7f503a6d642d48f1b44dacb4362,aussierules_afl,AFL,Hawthorn Hawks,Port Adelaide Power,2026-04-18T06:15:07Z,2026-04-16T18:59:52.339451+00:00
+fa9a95dacdda3a7a779f799f29679355,aussierules_afl,AFL,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,2026-04-16T18:59:52.339451+00:00
+716fc5cfb82755fe9e18195e07cb7d0f,aussierules_afl,AFL,North Melbourne Kangaroos,Richmond Tigers,2026-04-19T03:10:00Z,2026-04-16T18:59:52.339451+00:00
+485efe42868ab012522035be0eb72cf5,aussierules_afl,AFL,Melbourne Demons,Brisbane Lions,2026-04-19T05:15:00Z,2026-04-16T18:59:52.339451+00:00
+b2a7097d4ff3de9f0e2a85e694561bcd,aussierules_afl,AFL,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,2026-04-16T18:59:52.339451+00:00

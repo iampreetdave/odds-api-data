@@ -1,0 +1,7 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+59430ada2b330d6918cbf7419d4a9a55,soccer_spl,Premiership - Scotland,Aberdeen,Kilmarnock,2026-04-25T14:00:00Z,2026-04-16T19:00:30.832960+00:00
+1a0fd30d5f2fed46f981733cc268cecf,soccer_spl,Premiership - Scotland,St Mirren,Livingston,2026-04-25T14:00:00Z,2026-04-16T19:00:30.832960+00:00
+5d3ddc4b23b8653191ecf00eabf7c68d,soccer_spl,Premiership - Scotland,Celtic,Falkirk F.C.,2026-04-25T16:30:00Z,2026-04-16T19:00:30.832960+00:00
+d2f3c8ec382457d536817317958a9175,soccer_spl,Premiership - Scotland,Dundee United,Dundee FC,2026-04-26T13:00:00Z,2026-04-16T19:00:30.832960+00:00
+65680aaf37932eee27b8458041c5147a,soccer_spl,Premiership - Scotland,Rangers,Motherwell,2026-04-26T14:00:00Z,2026-04-16T19:00:30.832960+00:00
+c8418ce95cbf87e6f8b5f83038c08c10,soccer_spl,Premiership - Scotland,Hibernian,Hearts,2026-04-26T15:30:00Z,2026-04-16T19:00:30.832960+00:00

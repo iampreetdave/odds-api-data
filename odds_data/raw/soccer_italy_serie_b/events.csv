@@ -1,0 +1,11 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+07aa917accc1528c1485e95c0e113f0f,soccer_italy_serie_b,Serie B - Italy,Sampdoria,Monza,2026-04-17T18:30:00Z,2026-04-16T19:00:29.561519+00:00
+a4052f1847453945667014ba5ab32628,soccer_italy_serie_b,Serie B - Italy,Mantova,Avellino,2026-04-18T13:00:00Z,2026-04-16T19:00:29.561519+00:00
+146959df1fce12f6bd8f1d66dc53e037,soccer_italy_serie_b,Serie B - Italy,Bari,Venezia,2026-04-18T13:00:00Z,2026-04-16T19:00:29.561519+00:00
+b436aed96ba4474e75952428205f86a3,soccer_italy_serie_b,Serie B - Italy,Modena,Frosinone,2026-04-18T13:00:00Z,2026-04-16T19:00:29.561519+00:00
+97031de4efbcf92ececd0be0b5a1567f,soccer_italy_serie_b,Serie B - Italy,Spezia,Südtirol,2026-04-18T13:00:00Z,2026-04-16T19:00:29.561519+00:00
+9ef026152f132941170ecb2981dbeae4,soccer_italy_serie_b,Serie B - Italy,Palermo,Cesena FC,2026-04-18T15:15:00Z,2026-04-16T19:00:29.561519+00:00
+4d8ce3caa48633aa778520cabf024ca0,soccer_italy_serie_b,Serie B - Italy,Juve Stabia,US Catanzaro 1929,2026-04-18T17:30:00Z,2026-04-16T19:00:29.561519+00:00
+6c9b6206fbe479415be13f0327326140,soccer_italy_serie_b,Serie B - Italy,Carrarese,Pescara,2026-04-19T13:00:00Z,2026-04-16T19:00:29.561519+00:00
+e5fd7641537970707bc9b996c030303d,soccer_italy_serie_b,Serie B - Italy,Padova,Reggiana,2026-04-19T15:15:00Z,2026-04-16T19:00:29.561519+00:00
+e4f63ab1f819f43c6e382830c1609e6d,soccer_italy_serie_b,Serie B - Italy,Empoli,Virtus Entella,2026-04-19T17:30:00Z,2026-04-16T19:00:29.561519+00:00

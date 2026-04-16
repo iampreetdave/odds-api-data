@@ -1,0 +1,9 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+12bc0b4b33c08deb697e51864dedd2e3,soccer_sweden_allsvenskan,Allsvenskan - Sweden,Degerfors IF,IF Elfsborg,2026-04-17T17:00:00Z,2026-04-16T19:00:31.498089+00:00
+4a8f8c8154d28ded01e368fc7a760e80,soccer_sweden_allsvenskan,Allsvenskan - Sweden,Djurgardens IF,Malmo FF,2026-04-17T17:00:00Z,2026-04-16T19:00:31.498089+00:00
+7710474378d222643f42c6d7b57d8933,soccer_sweden_allsvenskan,Allsvenskan - Sweden,Halmstads BK,IFK Goteborg,2026-04-18T13:00:00Z,2026-04-16T19:00:31.498089+00:00
+1626599423dc601c115c774ded4dd8f6,soccer_sweden_allsvenskan,Allsvenskan - Sweden,Hammarby IF,Örgryte IS,2026-04-18T13:00:00Z,2026-04-16T19:00:31.498089+00:00
+507477856fa4bf59618268cdd8daf987,soccer_sweden_allsvenskan,Allsvenskan - Sweden,Mjällby AIF,IF Brommapojkarna,2026-04-18T13:00:00Z,2026-04-16T19:00:31.498089+00:00
+0c28fcb9f728f72d9c369c92ed89c503,soccer_sweden_allsvenskan,Allsvenskan - Sweden,IK Sirius,Västerås SK,2026-04-18T13:00:00Z,2026-04-16T19:00:31.498089+00:00
+acf1c91879b441b5ea000a12f7cae294,soccer_sweden_allsvenskan,Allsvenskan - Sweden,AIK,Kalmar FF,2026-04-19T12:00:00Z,2026-04-16T19:00:31.498089+00:00
+1fdf88502868f6b771c9df94d58c0bc0,soccer_sweden_allsvenskan,Allsvenskan - Sweden,BK Hacken,GAIS,2026-04-19T14:30:00Z,2026-04-16T19:00:31.498089+00:00

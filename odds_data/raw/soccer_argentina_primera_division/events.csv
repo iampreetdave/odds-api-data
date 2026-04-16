@@ -1,0 +1,26 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+f76046816c24d5e46faaab519742617c,soccer_argentina_primera_division,Primera División - Argentina,Union Santa Fe,Newells Old Boys,2026-04-17T23:30:00Z,2026-04-16T19:00:10.710658+00:00
+8ea879f584c49c5c1c7b83daab2b1568,soccer_argentina_primera_division,Primera División - Argentina,Gimnasia La Plata,Estudiantes de Río Cuarto,2026-04-18T18:00:00Z,2026-04-16T19:00:10.710658+00:00
+abb1bc918649e6e9b51bc7d082c42b4c,soccer_argentina_primera_division,Primera División - Argentina,Instituto de Córdoba,Estudiantes,2026-04-18T20:15:00Z,2026-04-16T19:00:10.710658+00:00
+c70bb647ffc0e4d9eec0f1a8156c4b2c,soccer_argentina_primera_division,Primera División - Argentina,Independiente,Defensa y Justicia,2026-04-18T22:30:00Z,2026-04-16T19:00:10.710658+00:00
+c031e02bd1e20307cb104eaf6a6c2a6f,soccer_argentina_primera_division,Primera División - Argentina,Argentinos Juniors,Atlético Tucuman,2026-04-19T00:45:00Z,2026-04-16T19:00:10.710658+00:00
+ef705c84698c5595a738adf386f107e7,soccer_argentina_primera_division,Primera División - Argentina,Aldosivi Mar del Plata,Racing Club,2026-04-19T16:30:00Z,2026-04-16T19:00:10.710658+00:00
+8bfdf57d7272974513e55c0b7ea7c4eb,soccer_argentina_primera_division,Primera División - Argentina,River Plate,Boca Juniors,2026-04-19T20:00:00Z,2026-04-16T19:00:10.710658+00:00
+f99216ab9d827da7bb02481ea3d0d9ea,soccer_argentina_primera_division,Primera División - Argentina,Talleres,Deportivo Riestra,2026-04-19T23:30:00Z,2026-04-16T19:00:10.710658+00:00
+e4ea7b65e07173b32668a986d6f772cf,soccer_argentina_primera_division,Primera División - Argentina,Rosario Central,Sarmiento de Junin,2026-04-19T23:30:00Z,2026-04-16T19:00:10.710658+00:00
+dd24196a972455d528ad6260935b4fdc,soccer_argentina_primera_division,Primera División - Argentina,Barracas Central,Belgrano de Cordoba,2026-04-20T18:00:00Z,2026-04-16T19:00:10.710658+00:00
+17986e8ad1e0da42074d6aca9511ea6d,soccer_argentina_primera_division,Primera División - Argentina,Banfield,Independiente Rivadavia,2026-04-20T20:15:00Z,2026-04-16T19:00:10.710658+00:00
+f735224cc5d40a738664fbc5527a6115,soccer_argentina_primera_division,Primera División - Argentina,Central Córdoba,Platense,2026-04-20T20:15:00Z,2026-04-16T19:00:10.710658+00:00
+d7bbcc8ccac35477a5d92cdc56e68fcf,soccer_argentina_primera_division,Primera División - Argentina,San Lorenzo,Velez Sarsfield BA,2026-04-20T22:30:00Z,2026-04-16T19:00:10.710658+00:00
+7dbbc857759f0a9fd234245627beffdd,soccer_argentina_primera_division,Primera División - Argentina,CA Tigre BA,Atlético Huracán,2026-04-21T00:45:00Z,2026-04-16T19:00:10.710658+00:00
+962c23bd54e20a0cc9f4fe8400831061,soccer_argentina_primera_division,Primera División - Argentina,Gimnasia Mendoza,Lanus,2026-04-21T00:45:00Z,2026-04-16T19:00:10.710658+00:00
+6c2a2bdcecfff3ab08f5d05ac25c1eff,soccer_argentina_primera_division,Primera División - Argentina,Defensa y Justicia,Boca Juniors,2026-04-23T23:00:00Z,2026-04-16T19:00:10.710658+00:00
+f2e24858ed11303c0e61286d5dc2db9a,soccer_argentina_primera_division,Primera División - Argentina,Deportivo Riestra,Independiente,2026-04-24T20:00:00Z,2026-04-16T19:00:10.710658+00:00
+8517aeacfc57d6db19920bb67be44c6b,soccer_argentina_primera_division,Primera División - Argentina,Lanus,Central Córdoba,2026-04-24T22:15:00Z,2026-04-16T19:00:10.710658+00:00
+48504b972ab1848ecffb5f9ab8e53a85,soccer_argentina_primera_division,Primera División - Argentina,Estudiantes de Río Cuarto,Rosario Central,2026-04-24T22:15:00Z,2026-04-16T19:00:10.710658+00:00
+1cfa4c72ac047e31bae36d4fdab95951,soccer_argentina_primera_division,Primera División - Argentina,Racing Club,Barracas Central,2026-04-25T00:30:00Z,2026-04-16T19:00:10.710658+00:00
+c75ad8997f5c54bcb5da6d57c49aa28e,soccer_argentina_primera_division,Primera División - Argentina,Platense,San Lorenzo,2026-04-25T17:00:00Z,2026-04-16T19:00:10.710658+00:00
+b0b5913dc851beadda9f86f70114616b,soccer_argentina_primera_division,Primera División - Argentina,Estudiantes,Talleres,2026-04-25T20:00:00Z,2026-04-16T19:00:10.710658+00:00
+cb57200fc615cd74dcb95aa23a488875,soccer_argentina_primera_division,Primera División - Argentina,Sarmiento de Junin,CA Tigre BA,2026-04-25T22:15:00Z,2026-04-16T19:00:10.710658+00:00
+29d20ae02f53a206f4d445e796e13a5b,soccer_argentina_primera_division,Primera División - Argentina,River Plate,Aldosivi Mar del Plata,2026-04-26T00:30:00Z,2026-04-16T19:00:10.710658+00:00
+528783c145f87a8a874574f057d0c879,soccer_argentina_primera_division,Primera División - Argentina,Independiente Rivadavia,Gimnasia Mendoza,2026-04-26T18:00:00Z,2026-04-16T19:00:10.710658+00:00

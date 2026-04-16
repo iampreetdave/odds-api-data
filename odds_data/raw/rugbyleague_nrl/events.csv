@@ -1,0 +1,16 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+2130367dd2bc6f73d561d960cac53378,rugbyleague_nrl,NRL,Canberra Raiders,Melbourne Storm,2026-04-17T08:00:00Z,2026-04-16T19:00:08.892026+00:00
+6d081bafd82a9ba3306f673c79e732d4,rugbyleague_nrl,NRL,Dolphins,Penrith Panthers,2026-04-17T10:00:00Z,2026-04-16T19:00:08.892026+00:00
+59ac7e77031cbe3e8211a4d97e98d248,rugbyleague_nrl,NRL,New Zealand Warriors,Gold Coast Titans,2026-04-18T05:00:00Z,2026-04-16T19:00:08.892026+00:00
+fd5fa8be41d193f6e9e954cdc89049a4,rugbyleague_nrl,NRL,South Sydney Rabbitohs,St George Illawarra Dragons,2026-04-18T07:30:00Z,2026-04-16T19:00:08.892026+00:00
+7dc8a6ce9ddf8ce0fe0632e45c0a0c11,rugbyleague_nrl,NRL,Wests Tigers,Brisbane Broncos,2026-04-18T09:35:00Z,2026-04-16T19:00:08.892026+00:00
+3b863561d00660038c281190010ece85,rugbyleague_nrl,NRL,Sydney Roosters,Newcastle Knights,2026-04-19T04:00:00Z,2026-04-16T19:00:08.892026+00:00
+08e38f540659c615cb5036ffb795e659,rugbyleague_nrl,NRL,Parramatta Eels,Canterbury Bulldogs,2026-04-19T06:05:00Z,2026-04-16T19:00:08.892026+00:00
+81141b42d7958ff1d41a2087116341a9,rugbyleague_nrl,NRL,Wests Tigers,Canberra Raiders,2026-04-23T09:50:00Z,2026-04-16T19:00:08.892026+00:00
+bc068dd7489c2d5072e0d8ea368ed6d5,rugbyleague_nrl,NRL,North Queensland Cowboys,Cronulla Sutherland Sharks,2026-04-24T08:00:00Z,2026-04-16T19:00:08.892026+00:00
+16a5ae4caf20266f07cd5de72c6ee26e,rugbyleague_nrl,NRL,Brisbane Broncos,Canterbury Bulldogs,2026-04-24T10:00:00Z,2026-04-16T19:00:08.892026+00:00
+ba3f461ff695be3ad8ef4c4713f6a0d0,rugbyleague_nrl,NRL,St George Illawarra Dragons,Sydney Roosters,2026-04-25T06:00:00Z,2026-04-16T19:00:08.892026+00:00
+3bad58b86b436bd185e732c92f0160e1,rugbyleague_nrl,NRL,New Zealand Warriors,Dolphins,2026-04-25T08:05:00Z,2026-04-16T19:00:08.892026+00:00
+dff37ac3b082f58eb30167b331b371d2,rugbyleague_nrl,NRL,Melbourne Storm,South Sydney Rabbitohs,2026-04-25T10:10:00Z,2026-04-16T19:00:08.892026+00:00
+6a0ed72213d8c7e22bbb6b99f4c102b5,rugbyleague_nrl,NRL,Newcastle Knights,Penrith Panthers,2026-04-26T04:00:00Z,2026-04-16T19:00:08.892026+00:00
+43ceaac86f9013c1f0dbcb8c4ed11b3a,rugbyleague_nrl,NRL,Manly Warringah Sea Eagles,Parramatta Eels,2026-04-26T06:05:00Z,2026-04-16T19:00:08.892026+00:00

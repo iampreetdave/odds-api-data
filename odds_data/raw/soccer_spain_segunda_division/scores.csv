@@ -1,0 +1,12 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+75add87eda8a54f8ef68de15204bf731,soccer_spain_segunda_division,Real Sociedad B,Real Racing Club de Santander,2026-04-17T18:30:00Z,False,,,
+9549b05cb178f24e0a6c12ad7fbfb12e,soccer_spain_segunda_division,Las Palmas,Leganés,2026-04-17T19:00:00Z,False,,,
+538eadd462b0cbec4b1b2d36f8949f40,soccer_spain_segunda_division,Zaragoza,AD Ceuta FC,2026-04-18T14:15:00Z,False,,,
+0ffa1f9d239f8afc7540e5efd6d91fbd,soccer_spain_segunda_division,CD Castellón,Burgos CF,2026-04-18T16:30:00Z,False,,,
+3fbf4e193fa9c576b8bcb5bc89ed28a4,soccer_spain_segunda_division,Cultural Leonesa,Córdoba,2026-04-18T16:30:00Z,False,,,
+a94aaf3326a55cac2661a280fd9fc9f0,soccer_spain_segunda_division,Andorra CF,Real Valladolid CF,2026-04-19T12:00:00Z,False,,,
+64b34cc8a81b1c75a63545aa13bb3936,soccer_spain_segunda_division,Sporting Gijón,Cádiz CF,2026-04-19T14:15:00Z,False,,,
+037f95454878a7b8d08c5f0bba0e0555,soccer_spain_segunda_division,Albacete,Granada CF,2026-04-19T16:30:00Z,False,,,
+672ef49387e39c7c2f38bd78c1b68c17,soccer_spain_segunda_division,SD Eibar,SD Huesca,2026-04-19T16:30:00Z,False,,,
+4ca22a135e90bbff4ed8e0ca517de82d,soccer_spain_segunda_division,Almería,Málaga,2026-04-19T19:00:00Z,False,,,
+ebdb7cdd8bdce8c908fec13fe28c1078,soccer_spain_segunda_division,Deportivo La Coruña,CD Mirandés,2026-04-20T18:30:00Z,False,,,

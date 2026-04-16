@@ -1,0 +1,16 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+a412b07445d8f58212ada64691b541ce,basketball_euroleague,ASVEL Lyon Villeurbanne,Fenerbahce SK,2026-04-16T18:03:00Z,False,2026-04-16T18:59:39Z,ASVEL Lyon Villeurbanne,38
+a412b07445d8f58212ada64691b541ce,basketball_euroleague,ASVEL Lyon Villeurbanne,Fenerbahce SK,2026-04-16T18:03:00Z,False,2026-04-16T18:59:39Z,Fenerbahce SK,45
+df6bfdc20f2551d40f463329f7333c6f,basketball_euroleague,Maccabi Tel Aviv,Virtus Segafredo Bologna,2026-04-16T18:06:00Z,False,2026-04-16T18:59:39Z,Maccabi Tel Aviv,36
+df6bfdc20f2551d40f463329f7333c6f,basketball_euroleague,Maccabi Tel Aviv,Virtus Segafredo Bologna,2026-04-16T18:06:00Z,False,2026-04-16T18:59:39Z,Virtus Segafredo Bologna,40
+6c1f2808313e3cdccfa945bdc823a38c,basketball_euroleague,Olympiacos,Pallacanestro Olimpia Milano,2026-04-16T18:16:00Z,False,2026-04-16T18:59:39Z,Olympiacos,47
+6c1f2808313e3cdccfa945bdc823a38c,basketball_euroleague,Olympiacos,Pallacanestro Olimpia Milano,2026-04-16T18:16:00Z,False,2026-04-16T18:59:39Z,Pallacanestro Olimpia Milano,45
+83ac459bb23c6f4e33ae1611e7adc741,basketball_euroleague,KK Partizan NIS,Saski Baskonia,2026-04-16T18:30:00Z,False,2026-04-16T18:59:39Z,KK Partizan NIS,35
+83ac459bb23c6f4e33ae1611e7adc741,basketball_euroleague,KK Partizan NIS,Saski Baskonia,2026-04-16T18:30:00Z,False,2026-04-16T18:59:39Z,Saski Baskonia,27
+9083a48c26d16cf888cb030fd9dca638,basketball_euroleague,Real Madrid,KK Crvena zvezda,2026-04-16T18:45:00Z,False,2026-04-16T18:59:39Z,Real Madrid,19
+9083a48c26d16cf888cb030fd9dca638,basketball_euroleague,Real Madrid,KK Crvena zvezda,2026-04-16T18:45:00Z,False,2026-04-16T18:59:39Z,KK Crvena zvezda,20
+cedecc7ade1b8a4bc9d6c3c442426001,basketball_euroleague,Žalgiris,Paris Basketball,2026-04-17T17:00:00Z,False,,,
+cf52295218315827d59cd415c126ef0f,basketball_euroleague,AS Monaco,Hapoel Tel Aviv,2026-04-17T17:30:00Z,False,,,
+0aa632171aafec604f97c7c8f3857ee9,basketball_euroleague,Dubai Basketball,Valencia Basket,2026-04-17T18:00:00Z,False,,,
+5e85425fc82ec0203a375e08fcb1e2a3,basketball_euroleague,Panathinaikos,Anadolu Efes,2026-04-17T18:15:00Z,False,,,
+9904b0e94830aebb77250ad0b6d143ab,basketball_euroleague,FC Barcelona Bàsquet,FC Bayern München,2026-04-17T18:30:00Z,False,,,

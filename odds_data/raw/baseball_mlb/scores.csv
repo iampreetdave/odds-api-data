@@ -1,0 +1,106 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+d10f53a6fb57a00a4e08f7d5fe1d10de,baseball_mlb,Seattle Mariners,Houston Astros,2026-04-13T20:11:00Z,True,2026-04-14T09:40:53Z,Seattle Mariners,6
+d10f53a6fb57a00a4e08f7d5fe1d10de,baseball_mlb,Seattle Mariners,Houston Astros,2026-04-13T20:11:00Z,True,2026-04-14T09:40:53Z,Houston Astros,2
+f0a7004057c75d3a27566a9cadac71de,baseball_mlb,Baltimore Orioles,Arizona Diamondbacks,2026-04-13T22:36:00Z,True,2026-04-14T09:40:53Z,Baltimore Orioles,9
+f0a7004057c75d3a27566a9cadac71de,baseball_mlb,Baltimore Orioles,Arizona Diamondbacks,2026-04-13T22:36:00Z,True,2026-04-14T09:40:53Z,Arizona Diamondbacks,7
+dcb7f3b019ab5e225b354b9e8c2b291e,baseball_mlb,Philadelphia Phillies,Chicago Cubs,2026-04-13T22:41:00Z,True,2026-04-14T09:40:53Z,Philadelphia Phillies,13
+dcb7f3b019ab5e225b354b9e8c2b291e,baseball_mlb,Philadelphia Phillies,Chicago Cubs,2026-04-13T22:41:00Z,True,2026-04-14T09:40:53Z,Chicago Cubs,7
+df0e15c1b18c2572248e1e6fa22b5271,baseball_mlb,Pittsburgh Pirates,Washington Nationals,2026-04-13T22:41:00Z,True,2026-04-14T09:40:53Z,Pittsburgh Pirates,16
+df0e15c1b18c2572248e1e6fa22b5271,baseball_mlb,Pittsburgh Pirates,Washington Nationals,2026-04-13T22:41:00Z,True,2026-04-14T09:40:53Z,Washington Nationals,5
+41cfc5f9fbe204005b41506b477dbe2a,baseball_mlb,New York Yankees,Los Angeles Angels,2026-04-13T23:06:00Z,True,2026-04-14T09:40:53Z,New York Yankees,11
+41cfc5f9fbe204005b41506b477dbe2a,baseball_mlb,New York Yankees,Los Angeles Angels,2026-04-13T23:06:00Z,True,2026-04-14T09:40:53Z,Los Angeles Angels,10
+eb7b6453caa8162c84f45e9a1f779847,baseball_mlb,Atlanta Braves,Miami Marlins,2026-04-13T23:16:00Z,True,2026-04-14T09:40:53Z,Atlanta Braves,4
+eb7b6453caa8162c84f45e9a1f779847,baseball_mlb,Atlanta Braves,Miami Marlins,2026-04-13T23:16:00Z,True,2026-04-14T09:40:53Z,Miami Marlins,10
+d68d87788cfa956ebee8d3a758c79ff0,baseball_mlb,Minnesota Twins,Boston Red Sox,2026-04-13T23:41:12Z,True,2026-04-14T09:40:53Z,Minnesota Twins,13
+d68d87788cfa956ebee8d3a758c79ff0,baseball_mlb,Minnesota Twins,Boston Red Sox,2026-04-13T23:41:12Z,True,2026-04-14T09:40:53Z,Boston Red Sox,6
+970acfb69adcb4bf8fc9ce89662aa43e,baseball_mlb,St. Louis Cardinals,Cleveland Guardians,2026-04-13T23:46:00Z,True,2026-04-14T09:40:53Z,St. Louis Cardinals,3
+970acfb69adcb4bf8fc9ce89662aa43e,baseball_mlb,St. Louis Cardinals,Cleveland Guardians,2026-04-13T23:46:00Z,True,2026-04-14T09:40:53Z,Cleveland Guardians,9
+a5f186ae13718f117194fdc34bae1f01,baseball_mlb,Athletics,Texas Rangers,2026-04-14T01:41:00Z,True,2026-04-14T09:40:53Z,Athletics,1
+a5f186ae13718f117194fdc34bae1f01,baseball_mlb,Athletics,Texas Rangers,2026-04-14T01:41:00Z,True,2026-04-14T09:40:53Z,Texas Rangers,8
+af4723d660204fd1fb7719261eb7f74b,baseball_mlb,Los Angeles Dodgers,New York Mets,2026-04-14T02:11:00Z,True,2026-04-14T09:40:53Z,Los Angeles Dodgers,4
+af4723d660204fd1fb7719261eb7f74b,baseball_mlb,Los Angeles Dodgers,New York Mets,2026-04-14T02:11:00Z,True,2026-04-14T09:40:53Z,New York Mets,0
+385f86efd6c56a30190e6bb26a224fe6,baseball_mlb,Baltimore Orioles,Arizona Diamondbacks,2026-04-14T22:36:22Z,True,2026-04-15T16:30:24Z,Baltimore Orioles,3
+385f86efd6c56a30190e6bb26a224fe6,baseball_mlb,Baltimore Orioles,Arizona Diamondbacks,2026-04-14T22:36:22Z,True,2026-04-15T16:30:24Z,Arizona Diamondbacks,4
+fb1c5d37a9a3812d5d1e0b5ab2f3e768,baseball_mlb,Cincinnati Reds,San Francisco Giants,2026-04-14T22:40:54Z,True,2026-04-15T16:30:24Z,Cincinnati Reds,2
+fb1c5d37a9a3812d5d1e0b5ab2f3e768,baseball_mlb,Cincinnati Reds,San Francisco Giants,2026-04-14T22:40:54Z,True,2026-04-15T16:30:24Z,San Francisco Giants,1
+42f96d05fcb3bf3aefe7588b7e0de883,baseball_mlb,Philadelphia Phillies,Chicago Cubs,2026-04-14T22:41:48Z,True,2026-04-15T16:30:24Z,Philadelphia Phillies,4
+42f96d05fcb3bf3aefe7588b7e0de883,baseball_mlb,Philadelphia Phillies,Chicago Cubs,2026-04-14T22:41:48Z,True,2026-04-15T16:30:24Z,Chicago Cubs,10
+441105a5d9e63b9467a1b49e493aff1f,baseball_mlb,Detroit Tigers,Kansas City Royals,2026-04-14T22:42:45Z,True,2026-04-15T16:30:24Z,Detroit Tigers,2
+441105a5d9e63b9467a1b49e493aff1f,baseball_mlb,Detroit Tigers,Kansas City Royals,2026-04-14T22:42:45Z,True,2026-04-15T16:30:24Z,Kansas City Royals,1
+d5bcde6808790e2d31facdd85fadb43e,baseball_mlb,Pittsburgh Pirates,Washington Nationals,2026-04-14T22:57:57Z,True,2026-04-15T16:30:24Z,Pittsburgh Pirates,4
+d5bcde6808790e2d31facdd85fadb43e,baseball_mlb,Pittsburgh Pirates,Washington Nationals,2026-04-14T22:57:57Z,True,2026-04-15T16:30:24Z,Washington Nationals,5
+e24b161253e29f8c9ef92e6906b29364,baseball_mlb,New York Yankees,Los Angeles Angels,2026-04-14T23:09:16Z,True,2026-04-15T16:30:24Z,New York Yankees,1
+e24b161253e29f8c9ef92e6906b29364,baseball_mlb,New York Yankees,Los Angeles Angels,2026-04-14T23:09:16Z,True,2026-04-15T16:30:24Z,Los Angeles Angels,7
+be2fbbe5b663cd7dc72d23031f2498ec,baseball_mlb,Atlanta Braves,Miami Marlins,2026-04-14T23:15:37Z,True,2026-04-15T16:30:24Z,Atlanta Braves,6
+be2fbbe5b663cd7dc72d23031f2498ec,baseball_mlb,Atlanta Braves,Miami Marlins,2026-04-14T23:15:37Z,True,2026-04-15T16:30:24Z,Miami Marlins,5
+62e56fb8e25706db1f4b277d3dab18de,baseball_mlb,Minnesota Twins,Boston Red Sox,2026-04-14T23:39:16Z,True,2026-04-15T16:30:24Z,Minnesota Twins,6
+62e56fb8e25706db1f4b277d3dab18de,baseball_mlb,Minnesota Twins,Boston Red Sox,2026-04-14T23:39:16Z,True,2026-04-15T16:30:24Z,Boston Red Sox,0
+9d2cb684d156eddca29c13df0d0bce22,baseball_mlb,Milwaukee Brewers,Toronto Blue Jays,2026-04-14T23:40:09Z,True,2026-04-15T16:30:24Z,Milwaukee Brewers,7
+9d2cb684d156eddca29c13df0d0bce22,baseball_mlb,Milwaukee Brewers,Toronto Blue Jays,2026-04-14T23:40:09Z,True,2026-04-15T16:30:24Z,Toronto Blue Jays,9
+3de0bc35b00fae1cd6acfbadcf023411,baseball_mlb,Chicago White Sox,Tampa Bay Rays,2026-04-14T23:40:13Z,True,2026-04-15T16:30:24Z,Chicago White Sox,5
+3de0bc35b00fae1cd6acfbadcf023411,baseball_mlb,Chicago White Sox,Tampa Bay Rays,2026-04-14T23:40:13Z,True,2026-04-15T16:30:24Z,Tampa Bay Rays,8
+c0eef6d4f9ed3511fcfdb17153b8f0a3,baseball_mlb,St. Louis Cardinals,Cleveland Guardians,2026-04-14T23:45:47Z,True,2026-04-15T16:30:24Z,St. Louis Cardinals,6
+c0eef6d4f9ed3511fcfdb17153b8f0a3,baseball_mlb,St. Louis Cardinals,Cleveland Guardians,2026-04-14T23:45:47Z,True,2026-04-15T16:30:24Z,Cleveland Guardians,5
+2142bbf2fe04a2b7b7ae829b27222697,baseball_mlb,Houston Astros,Colorado Rockies,2026-04-15T00:10:43Z,True,2026-04-15T16:30:24Z,Houston Astros,7
+2142bbf2fe04a2b7b7ae829b27222697,baseball_mlb,Houston Astros,Colorado Rockies,2026-04-15T00:10:43Z,True,2026-04-15T16:30:24Z,Colorado Rockies,6
+4f93a0b7adae6d305b4095cc30172ed9,baseball_mlb,Athletics,Texas Rangers,2026-04-15T01:40:34Z,True,2026-04-15T16:30:24Z,Athletics,2
+4f93a0b7adae6d305b4095cc30172ed9,baseball_mlb,Athletics,Texas Rangers,2026-04-15T01:40:34Z,True,2026-04-15T16:30:24Z,Texas Rangers,1
+70099d392f8cdba638b5d8e7d6dce3e2,baseball_mlb,San Diego Padres,Seattle Mariners,2026-04-15T01:40:39Z,True,2026-04-15T16:30:24Z,San Diego Padres,4
+70099d392f8cdba638b5d8e7d6dce3e2,baseball_mlb,San Diego Padres,Seattle Mariners,2026-04-15T01:40:39Z,True,2026-04-15T16:30:24Z,Seattle Mariners,1
+bf8721941657f63c8758e23bdee938ba,baseball_mlb,Los Angeles Dodgers,New York Mets,2026-04-15T02:10:39Z,True,2026-04-15T16:30:24Z,Los Angeles Dodgers,2
+bf8721941657f63c8758e23bdee938ba,baseball_mlb,Los Angeles Dodgers,New York Mets,2026-04-15T02:10:39Z,True,2026-04-15T16:30:24Z,New York Mets,1
+30d1ac7c8c0a6c6b760667043f6569aa,baseball_mlb,Baltimore Orioles,Arizona Diamondbacks,2026-04-15T16:36:00Z,True,2026-04-16T16:30:24Z,Baltimore Orioles,5
+30d1ac7c8c0a6c6b760667043f6569aa,baseball_mlb,Baltimore Orioles,Arizona Diamondbacks,2026-04-15T16:36:00Z,True,2026-04-16T16:30:24Z,Arizona Diamondbacks,8
+f330db82278ea4535ef5b2b1571ee7d1,baseball_mlb,St. Louis Cardinals,Cleveland Guardians,2026-04-15T17:21:00Z,True,2026-04-16T16:30:24Z,St. Louis Cardinals,5
+f330db82278ea4535ef5b2b1571ee7d1,baseball_mlb,St. Louis Cardinals,Cleveland Guardians,2026-04-15T17:21:00Z,True,2026-04-16T16:30:24Z,Cleveland Guardians,3
+e39af7619a05b0b5a99bc6dcd7fbc12b,baseball_mlb,Minnesota Twins,Boston Red Sox,2026-04-15T17:41:00Z,True,2026-04-16T16:30:24Z,Minnesota Twins,5
+e39af7619a05b0b5a99bc6dcd7fbc12b,baseball_mlb,Minnesota Twins,Boston Red Sox,2026-04-15T17:41:00Z,True,2026-04-16T16:30:24Z,Boston Red Sox,9
+748d289cf73992eb235de4c4f66d4175,baseball_mlb,Philadelphia Phillies,Chicago Cubs,2026-04-15T22:41:00Z,True,2026-04-16T16:30:24Z,Philadelphia Phillies,2
+748d289cf73992eb235de4c4f66d4175,baseball_mlb,Philadelphia Phillies,Chicago Cubs,2026-04-15T22:41:00Z,True,2026-04-16T16:30:24Z,Chicago Cubs,11
+5dde1728cec88d86d8dbbaa27a572697,baseball_mlb,Cincinnati Reds,San Francisco Giants,2026-04-15T22:41:00Z,True,2026-04-16T16:30:24Z,Cincinnati Reds,8
+5dde1728cec88d86d8dbbaa27a572697,baseball_mlb,Cincinnati Reds,San Francisco Giants,2026-04-15T22:41:00Z,True,2026-04-16T16:30:24Z,San Francisco Giants,3
+69d8354de162a3ae1d59bf8aa804c3ca,baseball_mlb,Detroit Tigers,Kansas City Royals,2026-04-15T22:41:00Z,True,2026-04-16T16:30:24Z,Detroit Tigers,2
+69d8354de162a3ae1d59bf8aa804c3ca,baseball_mlb,Detroit Tigers,Kansas City Royals,2026-04-15T22:41:00Z,True,2026-04-16T16:30:24Z,Kansas City Royals,1
+bc75992fc84ef71ac01271077d656ba0,baseball_mlb,Pittsburgh Pirates,Washington Nationals,2026-04-15T22:41:00Z,True,2026-04-16T16:30:24Z,Pittsburgh Pirates,2
+bc75992fc84ef71ac01271077d656ba0,baseball_mlb,Pittsburgh Pirates,Washington Nationals,2026-04-15T22:41:00Z,True,2026-04-16T16:30:24Z,Washington Nationals,0
+a9a5304518c8a2714a581f284aa4cb4f,baseball_mlb,New York Yankees,Los Angeles Angels,2026-04-15T23:06:00Z,True,2026-04-16T16:30:24Z,New York Yankees,5
+a9a5304518c8a2714a581f284aa4cb4f,baseball_mlb,New York Yankees,Los Angeles Angels,2026-04-15T23:06:00Z,True,2026-04-16T16:30:24Z,Los Angeles Angels,4
+2e63bbfb5214a9cb7474c49a13d013d6,baseball_mlb,Atlanta Braves,Miami Marlins,2026-04-15T23:16:00Z,True,2026-04-16T16:30:24Z,Atlanta Braves,6
+2e63bbfb5214a9cb7474c49a13d013d6,baseball_mlb,Atlanta Braves,Miami Marlins,2026-04-15T23:16:00Z,True,2026-04-16T16:30:24Z,Miami Marlins,3
+e1d1d3bf816d477e6f48db9e600d48bf,baseball_mlb,Milwaukee Brewers,Toronto Blue Jays,2026-04-15T23:41:00Z,True,2026-04-16T16:30:24Z,Milwaukee Brewers,2
+e1d1d3bf816d477e6f48db9e600d48bf,baseball_mlb,Milwaukee Brewers,Toronto Blue Jays,2026-04-15T23:41:00Z,True,2026-04-16T16:30:24Z,Toronto Blue Jays,1
+851336f466000da358ea664a9302c8f4,baseball_mlb,Chicago White Sox,Tampa Bay Rays,2026-04-15T23:52:00Z,True,2026-04-16T16:30:24Z,Chicago White Sox,3
+851336f466000da358ea664a9302c8f4,baseball_mlb,Chicago White Sox,Tampa Bay Rays,2026-04-15T23:52:00Z,True,2026-04-16T16:30:24Z,Tampa Bay Rays,8
+0addbc8d6735535fe5cf8e6aa6c955e1,baseball_mlb,Houston Astros,Colorado Rockies,2026-04-16T00:11:00Z,True,2026-04-16T16:30:24Z,Houston Astros,3
+0addbc8d6735535fe5cf8e6aa6c955e1,baseball_mlb,Houston Astros,Colorado Rockies,2026-04-16T00:11:00Z,True,2026-04-16T16:30:24Z,Colorado Rockies,1
+ae6a5b39c2617185d491849bed3ddff8,baseball_mlb,Athletics,Texas Rangers,2026-04-16T01:41:00Z,True,2026-04-16T16:30:24Z,Athletics,6
+ae6a5b39c2617185d491849bed3ddff8,baseball_mlb,Athletics,Texas Rangers,2026-04-16T01:41:00Z,True,2026-04-16T16:30:24Z,Texas Rangers,5
+f3b41be4bbb9dbffe13b5c0c9f57bb50,baseball_mlb,San Diego Padres,Seattle Mariners,2026-04-16T01:41:00Z,True,2026-04-16T16:30:24Z,San Diego Padres,7
+f3b41be4bbb9dbffe13b5c0c9f57bb50,baseball_mlb,San Diego Padres,Seattle Mariners,2026-04-16T01:41:00Z,True,2026-04-16T16:30:24Z,Seattle Mariners,6
+c4b632a3318002ec947a0861f17d8583,baseball_mlb,Los Angeles Dodgers,New York Mets,2026-04-16T02:11:00Z,True,2026-04-16T16:30:24Z,Los Angeles Dodgers,8
+c4b632a3318002ec947a0861f17d8583,baseball_mlb,Los Angeles Dodgers,New York Mets,2026-04-16T02:11:00Z,True,2026-04-16T16:30:24Z,New York Mets,2
+74f39156689a078022ede0ab999cd304,baseball_mlb,Pittsburgh Pirates,Washington Nationals,2026-04-16T16:40:00Z,False,2026-04-16T18:59:43Z,Pittsburgh Pirates,6
+74f39156689a078022ede0ab999cd304,baseball_mlb,Pittsburgh Pirates,Washington Nationals,2026-04-16T16:40:00Z,False,2026-04-16T18:59:43Z,Washington Nationals,7
+58f0238587c37c6200e35bece1cdc6a2,baseball_mlb,Cincinnati Reds,San Francisco Giants,2026-04-16T16:43:00Z,False,2026-04-16T18:59:43Z,Cincinnati Reds,0
+58f0238587c37c6200e35bece1cdc6a2,baseball_mlb,Cincinnati Reds,San Francisco Giants,2026-04-16T16:43:00Z,False,2026-04-16T18:59:43Z,San Francisco Giants,3
+25ef39bccec531e95be4427ad60576d2,baseball_mlb,New York Yankees,Los Angeles Angels,2026-04-16T17:36:00Z,False,2026-04-16T18:59:43Z,New York Yankees,3
+25ef39bccec531e95be4427ad60576d2,baseball_mlb,New York Yankees,Los Angeles Angels,2026-04-16T17:36:00Z,False,2026-04-16T18:59:43Z,Los Angeles Angels,2
+d28f023fdea4d8299ebf509d22707293,baseball_mlb,Milwaukee Brewers,Toronto Blue Jays,2026-04-16T17:41:00Z,False,2026-04-16T18:59:43Z,Milwaukee Brewers,1
+d28f023fdea4d8299ebf509d22707293,baseball_mlb,Milwaukee Brewers,Toronto Blue Jays,2026-04-16T17:41:00Z,False,2026-04-16T18:59:43Z,Toronto Blue Jays,1
+99d0656dfdf7a804df87e510c4687f62,baseball_mlb,Chicago White Sox,Tampa Bay Rays,2026-04-16T18:11:00Z,False,2026-04-16T18:59:43Z,Chicago White Sox,0
+99d0656dfdf7a804df87e510c4687f62,baseball_mlb,Chicago White Sox,Tampa Bay Rays,2026-04-16T18:11:00Z,False,2026-04-16T18:59:43Z,Tampa Bay Rays,0
+01461c715fdcb8321ca3e4ed2762e436,baseball_mlb,Detroit Tigers,Kansas City Royals,2026-04-16T18:16:00Z,False,2026-04-16T18:59:43Z,Detroit Tigers,1
+01461c715fdcb8321ca3e4ed2762e436,baseball_mlb,Detroit Tigers,Kansas City Royals,2026-04-16T18:16:00Z,False,2026-04-16T18:59:43Z,Kansas City Royals,0
+1be686414809592c870949866675b3f0,baseball_mlb,Athletics,Texas Rangers,2026-04-16T19:06:00Z,False,2026-04-16T18:59:43Z,,
+50a6b335289549d2d3f41d9072e8d031,baseball_mlb,Cleveland Guardians,Baltimore Orioles,2026-04-16T22:11:00Z,False,2026-04-16T18:59:43Z,,
+2813553c6a0cdab5c77497cf373aa7af,baseball_mlb,Houston Astros,Colorado Rockies,2026-04-17T00:11:00Z,False,2026-04-16T18:59:43Z,,
+34fa181a3e06104ac8bb8d652bffbae7,baseball_mlb,San Diego Padres,Seattle Mariners,2026-04-17T00:41:00Z,False,2026-04-16T18:59:43Z,,
+45655eea8b0523564f56d5ba45520388,baseball_mlb,Chicago Cubs,New York Mets,2026-04-17T18:21:00Z,False,,,
+3eb605c9b25ccc2ad16334a2f4a4c17e,baseball_mlb,Cleveland Guardians,Baltimore Orioles,2026-04-17T22:11:00Z,False,,,
+7067ff8b35400b4b9c0c1b2cf807fe58,baseball_mlb,Philadelphia Phillies,Atlanta Braves,2026-04-17T22:41:00Z,False,,,
+72adcb72b594dcf90c1756f4f9358d4c,baseball_mlb,Washington Nationals,San Francisco Giants,2026-04-17T22:46:00Z,False,,,
+a1ab635fdacdca4f7d8f471d141a873f,baseball_mlb,New York Yankees,Kansas City Royals,2026-04-17T23:06:00Z,False,,,
+f396e7f6c0d265d701a8b7123bbcee83,baseball_mlb,Boston Red Sox,Detroit Tigers,2026-04-17T23:16:00Z,False,,,
+7e51baba35f9e72d4028c265cbceb500,baseball_mlb,Minnesota Twins,Cincinnati Reds,2026-04-18T00:11:00Z,False,,,
+ed205a37de8d35d5fe44ef82f8644637,baseball_mlb,Arizona Diamondbacks,Toronto Blue Jays,2026-04-18T01:41:00Z,False,,,
+4dab71b3bef20d97c215141ed121a95b,baseball_mlb,Athletics,Chicago White Sox,2026-04-18T01:41:00Z,False,,,

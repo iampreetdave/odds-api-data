@@ -1,0 +1,7 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+353ce654214a470df9a65efe35074b82,baseball_npb,NPB,Tohoku Rakuten Golden Eagles,Chiba Lotte Marines,2026-04-17T09:00:00Z,2026-04-16T18:59:54.536485+00:00
+6cee3011c5c91ec5ecab3a867eb3713d,baseball_npb,NPB,Hanshin Tigers,Chunichi Dragons,2026-04-17T09:00:00Z,2026-04-16T18:59:54.536485+00:00
+f8aae4b8e26e451070b54954e467a2d8,baseball_npb,NPB,Fukuoka SoftBank Hawks,Orix Buffaloes,2026-04-17T09:00:00Z,2026-04-16T18:59:54.536485+00:00
+35469e64ee6eb8efa757b0c97d7bd695,baseball_npb,NPB,Hiroshima Toyo Carp,Yokohama DeNA BayStars,2026-04-17T09:00:00Z,2026-04-16T18:59:54.536485+00:00
+ae29caab536f58528555d941d7bbc321,baseball_npb,NPB,Hokkaido Nippon-Ham Fighters,Saitama Seibu Lions,2026-04-17T09:00:00Z,2026-04-16T18:59:54.536485+00:00
+615944ec43a6f5d47ad7ac735dfad574,baseball_npb,NPB,Tokyo Yakult Swallows,Yomiuri Giants,2026-04-17T09:00:00Z,2026-04-16T18:59:54.536485+00:00

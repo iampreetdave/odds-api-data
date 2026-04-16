@@ -1,0 +1,63 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+71a2a22f2aeb6a68b093f9d31ffe835a,icehockey_nhl,Florida Panthers,New York Rangers,2026-04-13T23:08:57Z,True,2026-04-14T10:07:13Z,Florida Panthers,3
+71a2a22f2aeb6a68b093f9d31ffe835a,icehockey_nhl,Florida Panthers,New York Rangers,2026-04-13T23:08:57Z,True,2026-04-14T10:07:13Z,New York Rangers,2
+efd342f9176c794b9effd595260264d0,icehockey_nhl,Philadelphia Flyers,Carolina Hurricanes,2026-04-13T23:09:09Z,True,2026-04-14T10:07:13Z,Philadelphia Flyers,3
+efd342f9176c794b9effd595260264d0,icehockey_nhl,Philadelphia Flyers,Carolina Hurricanes,2026-04-13T23:09:09Z,True,2026-04-14T10:07:13Z,Carolina Hurricanes,2
+f85edd1853a7f222a98966be1584348d,icehockey_nhl,Tampa Bay Lightning,Detroit Red Wings,2026-04-13T23:09:33Z,True,2026-04-14T10:07:13Z,Tampa Bay Lightning,4
+f85edd1853a7f222a98966be1584348d,icehockey_nhl,Tampa Bay Lightning,Detroit Red Wings,2026-04-13T23:09:33Z,True,2026-04-14T10:07:13Z,Detroit Red Wings,3
+7c23e65aed95672326f5b51d78a18746,icehockey_nhl,Toronto Maple Leafs,Dallas Stars,2026-04-13T23:45:04Z,True,2026-04-14T10:07:13Z,Toronto Maple Leafs,5
+7c23e65aed95672326f5b51d78a18746,icehockey_nhl,Toronto Maple Leafs,Dallas Stars,2026-04-13T23:45:04Z,True,2026-04-14T10:07:13Z,Dallas Stars,6
+3f7ae1ea8cc82f1934f0db4da52eb8cb,icehockey_nhl,St Louis Blues,Minnesota Wild,2026-04-14T00:08:28Z,True,2026-04-14T10:07:13Z,St Louis Blues,6
+3f7ae1ea8cc82f1934f0db4da52eb8cb,icehockey_nhl,St Louis Blues,Minnesota Wild,2026-04-14T00:08:28Z,True,2026-04-14T10:07:13Z,Minnesota Wild,3
+472be2fa83d65418ccd23cfe75d5ae49,icehockey_nhl,Nashville Predators,San Jose Sharks,2026-04-14T00:09:05Z,True,2026-04-14T10:07:13Z,Nashville Predators,2
+472be2fa83d65418ccd23cfe75d5ae49,icehockey_nhl,Nashville Predators,San Jose Sharks,2026-04-14T00:09:05Z,True,2026-04-14T10:07:13Z,San Jose Sharks,3
+543fd68bbc58d6300577c48ced1fe675,icehockey_nhl,Chicago Blackhawks,Buffalo Sabres,2026-04-14T00:38:57Z,True,2026-04-14T10:07:13Z,Chicago Blackhawks,1
+543fd68bbc58d6300577c48ced1fe675,icehockey_nhl,Chicago Blackhawks,Buffalo Sabres,2026-04-14T00:38:57Z,True,2026-04-14T10:07:13Z,Buffalo Sabres,5
+63a04dd550f7203005f749be9394826c,icehockey_nhl,Edmonton Oilers,Colorado Avalanche,2026-04-14T01:38:05Z,True,2026-04-14T10:07:13Z,Edmonton Oilers,1
+63a04dd550f7203005f749be9394826c,icehockey_nhl,Edmonton Oilers,Colorado Avalanche,2026-04-14T01:38:05Z,True,2026-04-14T10:07:13Z,Colorado Avalanche,2
+a4e642bde213d01b2ee7c67659ab1b7f,icehockey_nhl,Seattle Kraken,Los Angeles Kings,2026-04-14T01:40:17Z,True,2026-04-14T10:07:13Z,Seattle Kraken,3
+a4e642bde213d01b2ee7c67659ab1b7f,icehockey_nhl,Seattle Kraken,Los Angeles Kings,2026-04-14T01:40:17Z,True,2026-04-14T10:07:13Z,Los Angeles Kings,5
+02cd436c4433adc651fc51ef06898b6d,icehockey_nhl,Vegas Golden Knights,Winnipeg Jets,2026-04-14T02:08:50Z,True,2026-04-14T10:07:13Z,Vegas Golden Knights,6
+02cd436c4433adc651fc51ef06898b6d,icehockey_nhl,Vegas Golden Knights,Winnipeg Jets,2026-04-14T02:08:50Z,True,2026-04-14T10:07:13Z,Winnipeg Jets,2
+fe7dc6268aa33b2db407b7fc8225779d,icehockey_nhl,Boston Bruins,New Jersey Devils,2026-04-14T23:08:23Z,True,2026-04-15T10:16:11Z,Boston Bruins,4
+fe7dc6268aa33b2db407b7fc8225779d,icehockey_nhl,Boston Bruins,New Jersey Devils,2026-04-14T23:08:23Z,True,2026-04-15T10:16:11Z,New Jersey Devils,0
+c5183f20670c0165bbc80f9c43145e9c,icehockey_nhl,New York Islanders,Carolina Hurricanes,2026-04-14T23:08:48Z,True,2026-04-15T10:16:11Z,New York Islanders,1
+c5183f20670c0165bbc80f9c43145e9c,icehockey_nhl,New York Islanders,Carolina Hurricanes,2026-04-14T23:08:48Z,True,2026-04-15T10:16:11Z,Carolina Hurricanes,2
+7fec03ec7dd616e297e93e176f87b761,icehockey_nhl,Philadelphia Flyers,Montréal Canadiens,2026-04-14T23:08:51Z,True,2026-04-15T10:16:11Z,Philadelphia Flyers,4
+7fec03ec7dd616e297e93e176f87b761,icehockey_nhl,Philadelphia Flyers,Montréal Canadiens,2026-04-14T23:08:51Z,True,2026-04-15T10:16:11Z,Montréal Canadiens,2
+d1584d51876615dbdd70d6b5f29ea77d,icehockey_nhl,Columbus Blue Jackets,Washington Capitals,2026-04-14T23:08:53Z,True,2026-04-15T10:16:11Z,Columbus Blue Jackets,1
+d1584d51876615dbdd70d6b5f29ea77d,icehockey_nhl,Columbus Blue Jackets,Washington Capitals,2026-04-14T23:08:53Z,True,2026-04-15T10:16:11Z,Washington Capitals,2
+d98f95763dabfa28c6fbe9b9cbb5d5fb,icehockey_nhl,Minnesota Wild,Anaheim Ducks,2026-04-15T00:10:49Z,True,2026-04-15T10:16:11Z,Minnesota Wild,3
+d98f95763dabfa28c6fbe9b9cbb5d5fb,icehockey_nhl,Minnesota Wild,Anaheim Ducks,2026-04-15T00:10:49Z,True,2026-04-15T10:16:11Z,Anaheim Ducks,2
+b051baa705c134e97ed62acc5754d71a,icehockey_nhl,Calgary Flames,Colorado Avalanche,2026-04-15T01:08:08Z,True,2026-04-15T10:16:11Z,Calgary Flames,1
+b051baa705c134e97ed62acc5754d71a,icehockey_nhl,Calgary Flames,Colorado Avalanche,2026-04-15T01:08:08Z,True,2026-04-15T10:16:11Z,Colorado Avalanche,3
+eddd0daf23e8cb700d1bf764bab4e4d6,icehockey_nhl,Utah Mammoth,Winnipeg Jets,2026-04-15T01:08:14Z,True,2026-04-15T10:16:11Z,Utah Mammoth,5
+eddd0daf23e8cb700d1bf764bab4e4d6,icehockey_nhl,Utah Mammoth,Winnipeg Jets,2026-04-15T01:08:14Z,True,2026-04-15T10:16:11Z,Winnipeg Jets,3
+3e0abbe52fa5655dea933eae959c06da,icehockey_nhl,St Louis Blues,Pittsburgh Penguins,2026-04-15T01:46:17Z,True,2026-04-15T10:16:11Z,St Louis Blues,7
+3e0abbe52fa5655dea933eae959c06da,icehockey_nhl,St Louis Blues,Pittsburgh Penguins,2026-04-15T01:46:17Z,True,2026-04-15T10:16:11Z,Pittsburgh Penguins,5
+7b0380f27550cb8fe448fe638e0f94e1,icehockey_nhl,Vancouver Canucks,Los Angeles Kings,2026-04-15T02:08:07Z,True,2026-04-15T10:16:11Z,Vancouver Canucks,4
+7b0380f27550cb8fe448fe638e0f94e1,icehockey_nhl,Vancouver Canucks,Los Angeles Kings,2026-04-15T02:08:07Z,True,2026-04-15T10:16:11Z,Los Angeles Kings,3
+c36f011df8ff2ff994bb46373c5831ea,icehockey_nhl,Buffalo Sabres,Dallas Stars,2026-04-15T23:07:45Z,True,2026-04-16T09:57:23Z,Buffalo Sabres,3
+c36f011df8ff2ff994bb46373c5831ea,icehockey_nhl,Buffalo Sabres,Dallas Stars,2026-04-15T23:07:45Z,True,2026-04-16T09:57:23Z,Dallas Stars,4
+aab12987f6385f068a9b1c6feb785ecc,icehockey_nhl,Florida Panthers,Detroit Red Wings,2026-04-15T23:08:56Z,True,2026-04-16T09:57:23Z,Florida Panthers,8
+aab12987f6385f068a9b1c6feb785ecc,icehockey_nhl,Florida Panthers,Detroit Red Wings,2026-04-15T23:08:56Z,True,2026-04-16T09:57:23Z,Detroit Red Wings,1
+7db68d6db2127f93ee8278eca727ff32,icehockey_nhl,Tampa Bay Lightning,New York Rangers,2026-04-15T23:09:17Z,True,2026-04-16T09:57:23Z,Tampa Bay Lightning,2
+7db68d6db2127f93ee8278eca727ff32,icehockey_nhl,Tampa Bay Lightning,New York Rangers,2026-04-15T23:09:17Z,True,2026-04-16T09:57:23Z,New York Rangers,4
+ecf6c5f973a42e5dcd559cd2ac2e0d3a,icehockey_nhl,Ottawa Senators,Toronto Maple Leafs,2026-04-15T23:42:00Z,True,2026-04-16T09:57:23Z,Ottawa Senators,3
+ecf6c5f973a42e5dcd559cd2ac2e0d3a,icehockey_nhl,Ottawa Senators,Toronto Maple Leafs,2026-04-15T23:42:00Z,True,2026-04-16T09:57:23Z,Toronto Maple Leafs,1
+c6dc2eb7ca9bcce1e2735b4673fc88b1,icehockey_nhl,Chicago Blackhawks,San Jose Sharks,2026-04-16T00:38:55Z,True,2026-04-16T09:57:23Z,Chicago Blackhawks,5
+c6dc2eb7ca9bcce1e2735b4673fc88b1,icehockey_nhl,Chicago Blackhawks,San Jose Sharks,2026-04-16T00:38:55Z,True,2026-04-16T09:57:23Z,San Jose Sharks,2
+95e2cb9751126776827294c1530f4823,icehockey_nhl,Vegas Golden Knights,Seattle Kraken,2026-04-16T02:08:48Z,True,2026-04-16T09:57:23Z,Vegas Golden Knights,4
+95e2cb9751126776827294c1530f4823,icehockey_nhl,Vegas Golden Knights,Seattle Kraken,2026-04-16T02:08:48Z,True,2026-04-16T09:57:23Z,Seattle Kraken,1
+2aa3249b78d693529c951547a82f134f,icehockey_nhl,Utah Mammoth,St Louis Blues,2026-04-16T23:30:00Z,False,,,
+112a39ac7f4a08fcb78fe38362f343ed,icehockey_nhl,Nashville Predators,Anaheim Ducks,2026-04-17T00:00:00Z,False,,,
+72aacc9aeb0595468a61d147df27e838,icehockey_nhl,Winnipeg Jets,San Jose Sharks,2026-04-17T00:00:00Z,False,,,
+88586e525b98a2c062f1f6d75e8d0fe1,icehockey_nhl,Calgary Flames,Los Angeles Kings,2026-04-17T01:00:00Z,False,,,
+9d37384a47dfd1b17638086559bb3726,icehockey_nhl,Edmonton Oilers,Vancouver Canucks,2026-04-17T01:00:00Z,False,,,
+96784cc6006a3540914823666e6561d1,icehockey_nhl,Colorado Avalanche,Seattle Kraken,2026-04-17T02:10:00Z,False,,,
+76d3bd29c4c5d001c2404fb6d3010c36,icehockey_nhl,Carolina Hurricanes,Ottawa Senators,2026-04-18T19:00:47Z,False,,,
+ccf74c5469950496a135719b827ce942,icehockey_nhl,Dallas Stars,Minnesota Wild,2026-04-18T21:30:00Z,False,,,
+7de0e0d303dfec588c53877e7150225b,icehockey_nhl,Pittsburgh Penguins,Philadelphia Flyers,2026-04-19T00:00:26Z,False,,,
+e9eba9dd49f3a5847fe4689a6014e1c0,icehockey_nhl,Buffalo Sabres,Boston Bruins,2026-04-19T17:00:03Z,False,,,
+bedd26005f98ad01c4994501ba28ddf3,icehockey_nhl,Tampa Bay Lightning,Montréal Canadiens,2026-04-19T21:00:00Z,False,,,
+bd7a28ff5a090949dde37ef2292ead64,icehockey_nhl,Vegas Golden Knights,Utah Mammoth,2026-04-20T00:00:00Z,False,,,

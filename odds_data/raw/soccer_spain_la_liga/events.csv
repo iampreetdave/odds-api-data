@@ -1,0 +1,21 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+dcc73a8a22fc0f052bd085be3f7e1bbf,soccer_spain_la_liga,La Liga - Spain,Athletic Bilbao,CA Osasuna,2026-04-21T17:00:00Z,2026-04-16T19:00:30.720433+00:00
+4c05627297ffdfd1bb17dfcc1dd3b6d6,soccer_spain_la_liga,La Liga - Spain,Mallorca,Valencia,2026-04-21T17:00:00Z,2026-04-16T19:00:30.720433+00:00
+ce727a41a47d5e86ddee97c7cd14928d,soccer_spain_la_liga,La Liga - Spain,Real Madrid,Alavés,2026-04-21T19:30:00Z,2026-04-16T19:00:30.720433+00:00
+7759c10d8fefa09122099f380241a8be,soccer_spain_la_liga,La Liga - Spain,Girona,Real Betis,2026-04-21T19:30:00Z,2026-04-16T19:00:30.720433+00:00
+7af046b7a51c309f8f2f6c820e7bcb11,soccer_spain_la_liga,La Liga - Spain,Elche CF,Atlético Madrid,2026-04-22T17:00:00Z,2026-04-16T19:00:30.720433+00:00
+a6a0d55b933b3bb01c4ba789f4444783,soccer_spain_la_liga,La Liga - Spain,Real Sociedad,Getafe,2026-04-22T18:00:00Z,2026-04-16T19:00:30.720433+00:00
+445c97066158652824e10b05bc53c6ae,soccer_spain_la_liga,La Liga - Spain,Barcelona,Celta Vigo,2026-04-22T19:30:00Z,2026-04-16T19:00:30.720433+00:00
+a3f979b998f70bcf99bcee41c65f90a5,soccer_spain_la_liga,La Liga - Spain,Levante,Sevilla,2026-04-23T17:00:00Z,2026-04-16T19:00:30.720433+00:00
+c208f9c1d251de9006fd23a7e9cfa948,soccer_spain_la_liga,La Liga - Spain,Rayo Vallecano,Espanyol,2026-04-23T18:00:00Z,2026-04-16T19:00:30.720433+00:00
+fee736ef555102544f70b322b548a2cf,soccer_spain_la_liga,La Liga - Spain,Oviedo,Villarreal,2026-04-23T19:30:00Z,2026-04-16T19:00:30.720433+00:00
+e8aec0c2da8f35ce251f9a1e905624b2,soccer_spain_la_liga,La Liga - Spain,Real Betis,Real Madrid,2026-04-24T19:00:00Z,2026-04-16T19:00:30.720433+00:00
+af844c8833e6de4db916dd52c7b28095,soccer_spain_la_liga,La Liga - Spain,Alavés,Mallorca,2026-04-25T12:00:00Z,2026-04-16T19:00:30.720433+00:00
+36ffdc7f877a0da88068dfe5343c629b,soccer_spain_la_liga,La Liga - Spain,Getafe,Barcelona,2026-04-25T14:15:00Z,2026-04-16T19:00:30.720433+00:00
+7d04b13a6988f1d0c565ed53ce9263b7,soccer_spain_la_liga,La Liga - Spain,Valencia,Girona,2026-04-25T16:30:00Z,2026-04-16T19:00:30.720433+00:00
+a6b698d15158568e491da1405e17a1d3,soccer_spain_la_liga,La Liga - Spain,Atlético Madrid,Athletic Bilbao,2026-04-25T19:00:00Z,2026-04-16T19:00:30.720433+00:00
+a5462613d6a6b17b8f0d92b23f97e070,soccer_spain_la_liga,La Liga - Spain,Rayo Vallecano,Real Sociedad,2026-04-26T12:00:00Z,2026-04-16T19:00:30.720433+00:00
+889999898c80c9a8b977eaad80d7f918,soccer_spain_la_liga,La Liga - Spain,Oviedo,Elche CF,2026-04-26T14:15:00Z,2026-04-16T19:00:30.720433+00:00
+5f9d3da4f9116d7f74b873d6d8c5b5b5,soccer_spain_la_liga,La Liga - Spain,CA Osasuna,Sevilla,2026-04-26T16:30:00Z,2026-04-16T19:00:30.720433+00:00
+548f901ac0c811c39953f7e3769040cb,soccer_spain_la_liga,La Liga - Spain,Villarreal,Celta Vigo,2026-04-26T19:00:00Z,2026-04-16T19:00:30.720433+00:00
+b68fd46a853603c38e3f4750b40181a0,soccer_spain_la_liga,La Liga - Spain,Espanyol,Levante,2026-04-27T19:00:00Z,2026-04-16T19:00:30.720433+00:00

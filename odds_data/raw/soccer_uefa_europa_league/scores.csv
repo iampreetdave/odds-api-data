@@ -1,0 +1,9 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+c56c224a9f71ded70a010ef457f6816f,soccer_uefa_europa_league,Celta Vigo,SC Freiburg,2026-04-16T16:45:00Z,True,2026-04-16T19:00:12Z,Celta Vigo,1
+c56c224a9f71ded70a010ef457f6816f,soccer_uefa_europa_league,Celta Vigo,SC Freiburg,2026-04-16T16:45:00Z,True,2026-04-16T19:00:12Z,SC Freiburg,3
+1e99ca015e59dafe2d397a0be198650e,soccer_uefa_europa_league,Aston Villa,Bologna,2026-04-16T19:00:00Z,False,2026-04-16T19:00:12Z,Aston Villa,0
+1e99ca015e59dafe2d397a0be198650e,soccer_uefa_europa_league,Aston Villa,Bologna,2026-04-16T19:00:00Z,False,2026-04-16T19:00:12Z,Bologna,0
+7bd6146745b2765c8c6207daacff37db,soccer_uefa_europa_league,Nottingham Forest,Porto,2026-04-16T19:00:00Z,False,2026-04-16T19:00:12Z,Nottingham Forest,0
+7bd6146745b2765c8c6207daacff37db,soccer_uefa_europa_league,Nottingham Forest,Porto,2026-04-16T19:00:00Z,False,2026-04-16T19:00:12Z,Porto,0
+af977fbae8c6d3fe8847ec01b42f270f,soccer_uefa_europa_league,Real Betis,SC Braga,2026-04-16T19:00:00Z,False,2026-04-16T19:00:12Z,Real Betis,0
+af977fbae8c6d3fe8847ec01b42f270f,soccer_uefa_europa_league,Real Betis,SC Braga,2026-04-16T19:00:00Z,False,2026-04-16T19:00:12Z,SC Braga,0

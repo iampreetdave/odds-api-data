@@ -1,0 +1,3 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+b9cf63e4fa406d35a4e41483d268b60d,soccer_fa_cup,Manchester City,Southampton,2026-04-25T16:15:00Z,False,,,
+eca6a542fe5b1651c8cfb58f820e744f,soccer_fa_cup,Chelsea,Leeds United,2026-04-26T14:00:00Z,False,,,

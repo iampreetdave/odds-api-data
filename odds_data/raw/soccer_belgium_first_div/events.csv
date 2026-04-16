@@ -1,0 +1,23 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+b410fb7ac3cfcd019a6c8a9f13e4fdfa,soccer_belgium_first_div,Belgium First Div,Royal Antwerp,Leuven,2026-04-18T14:00:00Z,2026-04-16T19:00:12.251432+00:00
+d810477b5032aa26661839f2cebbda8e,soccer_belgium_first_div,Belgium First Div,Charleroi,Standard Liege,2026-04-18T16:15:00Z,2026-04-16T19:00:12.251432+00:00
+e8e17742d6ae733ea9a32edabde56a34,soccer_belgium_first_div,Belgium First Div,Westerlo,Genk,2026-04-18T16:15:00Z,2026-04-16T19:00:12.251432+00:00
+d0bffdc5f71a2c4ff69cd438210b534b,soccer_belgium_first_div,Belgium First Div,KV Mechelen,Anderlecht,2026-04-18T18:45:00Z,2026-04-16T19:00:12.251432+00:00
+a94ec6a1b23c03661701b197dcd2d7ba,soccer_belgium_first_div,Belgium First Div,Gent,Sint Truiden,2026-04-19T11:30:00Z,2026-04-16T19:00:12.251432+00:00
+fc96ec30f3e006928debbde4788cf094,soccer_belgium_first_div,Belgium First Div,Dender,Cercle Brugge KSV,2026-04-19T14:00:00Z,2026-04-16T19:00:12.251432+00:00
+05555a58cbe4c04ac9136dfd419d2fd7,soccer_belgium_first_div,Belgium First Div,Union Saint-Gilloise,Club Brugge,2026-04-19T16:30:00Z,2026-04-16T19:00:12.251432+00:00
+a84e4d79a0afde7a1843a3c99dafda7e,soccer_belgium_first_div,Belgium First Div,RAAL La Louvière,SV Zulte-Waregem,2026-04-19T17:15:00Z,2026-04-16T19:00:12.251432+00:00
+11a045d34def4e22a46f2e38f0880b88,soccer_belgium_first_div,Belgium First Div,Genk,Charleroi,2026-04-21T18:30:00Z,2026-04-16T19:00:12.251432+00:00
+d528b317d2525b9dcfa8f397e7d88af5,soccer_belgium_first_div,Belgium First Div,Leuven,Westerlo,2026-04-21T18:30:00Z,2026-04-16T19:00:12.251432+00:00
+54ec5f0ce0e1ab8e4bc20ac399736364,soccer_belgium_first_div,Belgium First Div,Standard Liege,Royal Antwerp,2026-04-21T18:30:00Z,2026-04-16T19:00:12.251432+00:00
+dea6a48511207d95308e7dbb17af017b,soccer_belgium_first_div,Belgium First Div,Club Brugge,KV Mechelen,2026-04-22T18:30:00Z,2026-04-16T19:00:12.251432+00:00
+30b0602ac8e9b1de3131918209fdc30d,soccer_belgium_first_div,Belgium First Div,Union Saint-Gilloise,Gent,2026-04-22T18:30:00Z,2026-04-16T19:00:12.251432+00:00
+78323e148b3de2be80a96621c27f5b9b,soccer_belgium_first_div,Belgium First Div,Sint Truiden,Anderlecht,2026-04-23T18:30:00Z,2026-04-16T19:00:12.251432+00:00
+07990ad8041518a9040c2d1eacde47cf,soccer_belgium_first_div,Belgium First Div,Cercle Brugge KSV,Dender,2026-04-24T18:45:00Z,2026-04-16T19:00:12.251432+00:00
+931a214ef2a9b45eb4baeef6ed7cae62,soccer_belgium_first_div,Belgium First Div,Leuven,Charleroi,2026-04-25T14:00:00Z,2026-04-16T19:00:12.251432+00:00
+605cdd8b0421d866fc82ac163c154fc7,soccer_belgium_first_div,Belgium First Div,Genk,Standard Liege,2026-04-25T16:15:00Z,2026-04-16T19:00:12.251432+00:00
+99d487892eff03678e045062750dec78,soccer_belgium_first_div,Belgium First Div,Westerlo,Royal Antwerp,2026-04-25T18:45:00Z,2026-04-16T19:00:12.251432+00:00
+6d571dc995426901f7af65ceba7f2e51,soccer_belgium_first_div,Belgium First Div,Gent,Club Brugge,2026-04-26T11:30:00Z,2026-04-16T19:00:12.251432+00:00
+f50c8092d1f4bae432272d398e9d8d08,soccer_belgium_first_div,Belgium First Div,KV Mechelen,Sint Truiden,2026-04-26T14:00:00Z,2026-04-16T19:00:12.251432+00:00
+3ab0dcefb8c6f1aeb43ef911d7f6a6ad,soccer_belgium_first_div,Belgium First Div,Anderlecht,Union Saint-Gilloise,2026-04-26T16:30:00Z,2026-04-16T19:00:12.251432+00:00
+06f18bbb38f884281ee3b96bf1ecc8a4,soccer_belgium_first_div,Belgium First Div,SV Zulte-Waregem,RAAL La Louvière,2026-04-26T17:15:00Z,2026-04-16T19:00:12.251432+00:00

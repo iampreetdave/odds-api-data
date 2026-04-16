@@ -1,0 +1,13 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+295250faa331851d7a7fe354ac8c9d30,soccer_korea_kleague1,Ulsan Hyundai FC,FC Seoul,2026-04-15T10:30:00Z,True,2026-04-15T17:53:50Z,Ulsan Hyundai FC,1
+295250faa331851d7a7fe354ac8c9d30,soccer_korea_kleague1,Ulsan Hyundai FC,FC Seoul,2026-04-15T10:30:00Z,True,2026-04-15T17:53:50Z,FC Seoul,4
+ff17687e8f9da42d60c4dcdf7d84ff9a,soccer_korea_kleague1,FC Seoul,Daejeon Citizen,2026-04-18T05:00:00Z,False,,,
+d4b46348b75817c6558a6f6ccab36847,soccer_korea_kleague1,Gangwon FC,Jeonbuk Hyundai Motors,2026-04-18T05:00:00Z,False,,,
+0fbd93a2c75bb85b1567928f2ac42f45,soccer_korea_kleague1,Jeju United FC,Sangju Sangmu FC,2026-04-18T07:30:00Z,False,,,
+4ff704f3a79f2d3fcec37721f5ff5f94,soccer_korea_kleague1,Ulsan Hyundai FC,Gwangju FC,2026-04-19T05:00:00Z,False,,,
+2f88b1a85b9d3d729cf0fb8c163bc8ed,soccer_korea_kleague1,Pohang Steelers,FC Anyang,2026-04-19T07:30:00Z,False,,,
+c9a5f8d46f0930a2c99dcde6b7eff339,soccer_korea_kleague1,Sangju Sangmu FC,Gangwon FC,2026-04-21T10:30:00Z,False,,,
+ff073da3d37b42d30047fa55f741f3b6,soccer_korea_kleague1,Jeonbuk Hyundai Motors,Incheon United,2026-04-21T10:30:00Z,False,,,
+abf71299bff68175b8a7854899ca5d0e,soccer_korea_kleague1,Daejeon Citizen,Jeju United FC,2026-04-22T10:30:00Z,False,,,
+a284857997882280fdee91223ebc91f8,soccer_korea_kleague1,FC Anyang,Ulsan Hyundai FC,2026-04-22T10:30:00Z,False,,,
+ba5143012e2b6865688db7ed8661c27c,soccer_korea_kleague1,Pohang Steelers,Gwangju FC,2026-04-22T10:30:00Z,False,,,

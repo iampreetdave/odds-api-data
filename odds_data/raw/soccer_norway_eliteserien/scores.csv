@@ -1,0 +1,13 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+829687289514a27bfea11f7676d00da2,soccer_norway_eliteserien,Sarpsborg FK,Bodø/Glimt,2026-04-15T17:00:00Z,True,2026-04-16T00:27:31Z,Bodø/Glimt,1
+829687289514a27bfea11f7676d00da2,soccer_norway_eliteserien,Sarpsborg FK,Bodø/Glimt,2026-04-15T17:00:00Z,True,2026-04-16T00:27:31Z,Sarpsborg FK,1
+16ea5f351f78defef158e643951635cf,soccer_norway_eliteserien,Tromso,Lillestrom,2026-04-15T17:00:00Z,True,2026-04-16T00:27:31Z,Lillestrom,0
+16ea5f351f78defef158e643951635cf,soccer_norway_eliteserien,Tromso,Lillestrom,2026-04-15T17:00:00Z,True,2026-04-16T00:27:31Z,Tromso,0
+3987e8caa38bdd26ac811c35c87fb1d1,soccer_norway_eliteserien,Bodø/Glimt,Aalesund,2026-04-18T12:00:00Z,False,,,
+0a69d883f4d8c43a8e58761c3411a971,soccer_norway_eliteserien,Sandefjord,Rosenborg,2026-04-18T14:00:00Z,False,,,
+3780aa7d8bba322bd32fb6b0fb0c6fc8,soccer_norway_eliteserien,Viking FK,SK Brann,2026-04-18T16:00:00Z,False,,,
+ce68c844956fe1bc56ef86bfcc49fcda,soccer_norway_eliteserien,Vålerenga,Lillestrom,2026-04-19T12:30:00Z,False,,,
+060b5d2a667fd892d097aaf82fa66058,soccer_norway_eliteserien,Kristiansund BK,Fredrikstad FK,2026-04-19T15:00:00Z,False,,,
+a19dbcf80837024c5c96cddc4c49276b,soccer_norway_eliteserien,HamKam,KFUM,2026-04-19T15:00:00Z,False,,,
+b856e01ffd93c2e59ab5e0c04b53f2c3,soccer_norway_eliteserien,Sarpsborg FK,Tromso,2026-04-19T15:00:00Z,False,,,
+c3a16329eecaf21fcf64e03176f219e2,soccer_norway_eliteserien,IK Start,Molde,2026-04-19T17:15:00Z,False,,,

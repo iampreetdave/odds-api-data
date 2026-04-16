@@ -1,0 +1,3 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+8af20fbb6e97fe40e16e909a657f0439,cricket_psl,Lahore Qalandars,Quetta Gladiators,2026-04-17T14:00:00Z,False,,,
+a9ade818e7eb59b8fd7254c120589026,cricket_psl,Karachi Kings,Multan Sultans,2026-04-19T09:30:00Z,False,,,

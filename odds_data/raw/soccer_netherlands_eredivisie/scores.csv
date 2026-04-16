@@ -1,0 +1,10 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+adaca9aada96b270b478c06974639fb6,soccer_netherlands_eredivisie,SC Telstar,Sparta Rotterdam,2026-04-22T18:00:00Z,False,,,
+fbaf61c876c9b9f19af6bb1f0f5edaf2,soccer_netherlands_eredivisie,Go Ahead Eagles,AZ Alkmaar,2026-04-23T16:45:00Z,False,,,
+125e65c5ec11f2613781e79fc456be08,soccer_netherlands_eredivisie,PSV Eindhoven,FC Zwolle,2026-04-23T19:00:00Z,False,,,
+7271b87acba5212b29433b8cb9da46bf,soccer_netherlands_eredivisie,Feyenoord,Groningen,2026-04-25T14:30:00Z,False,,,
+808ffd9f639a53d2fb4aaedf900a1a02,soccer_netherlands_eredivisie,Heerenveen,Fortuna Sittard,2026-04-25T16:45:00Z,False,,,
+6f3095e9f18f1295011b93cdd4b36c8f,soccer_netherlands_eredivisie,NAC Breda,Ajax,2026-04-25T18:00:00Z,False,,,
+af68732097506526ebccd8397ee094e7,soccer_netherlands_eredivisie,FC Twente Enschede,NEC Nijmegen,2026-04-25T19:00:00Z,False,,,
+44309fcaa85b8681c4639ea9287270d1,soccer_netherlands_eredivisie,Excelsior,FC Utrecht,2026-04-26T10:15:00Z,False,,,
+c0bc4c029ef89f3f82475e0d95b09741,soccer_netherlands_eredivisie,Heracles Almelo,FC Volendam,2026-04-26T12:30:00Z,False,,,

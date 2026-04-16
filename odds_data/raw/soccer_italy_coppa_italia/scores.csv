@@ -1,0 +1,3 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+dd9885df7f6f3540641d5fa00ca7e941,soccer_italy_coppa_italia,Inter Milan,Como,2026-04-21T19:00:00Z,False,,,
+64bfe3a9001a23918d6268f498954b77,soccer_italy_coppa_italia,Atalanta BC,Lazio,2026-04-22T19:00:00Z,False,,,

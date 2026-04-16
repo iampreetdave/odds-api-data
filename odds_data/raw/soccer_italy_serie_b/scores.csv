@@ -1,0 +1,13 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+73fbf9563b4166fd9eddf40c4eac8149,soccer_italy_serie_b,US Catanzaro 1929,Modena,2026-04-14T17:01:00Z,True,2026-04-14T23:51:58Z,Modena,2
+73fbf9563b4166fd9eddf40c4eac8149,soccer_italy_serie_b,US Catanzaro 1929,Modena,2026-04-14T17:01:00Z,True,2026-04-14T23:51:58Z,US Catanzaro 1929,2
+07aa917accc1528c1485e95c0e113f0f,soccer_italy_serie_b,Sampdoria,Monza,2026-04-17T18:30:00Z,False,,,
+a4052f1847453945667014ba5ab32628,soccer_italy_serie_b,Mantova,Avellino,2026-04-18T13:00:00Z,False,,,
+146959df1fce12f6bd8f1d66dc53e037,soccer_italy_serie_b,Bari,Venezia,2026-04-18T13:00:00Z,False,,,
+b436aed96ba4474e75952428205f86a3,soccer_italy_serie_b,Modena,Frosinone,2026-04-18T13:00:00Z,False,,,
+97031de4efbcf92ececd0be0b5a1567f,soccer_italy_serie_b,Spezia,Südtirol,2026-04-18T13:00:00Z,False,,,
+9ef026152f132941170ecb2981dbeae4,soccer_italy_serie_b,Palermo,Cesena FC,2026-04-18T15:15:00Z,False,,,
+4d8ce3caa48633aa778520cabf024ca0,soccer_italy_serie_b,Juve Stabia,US Catanzaro 1929,2026-04-18T17:30:00Z,False,,,
+6c9b6206fbe479415be13f0327326140,soccer_italy_serie_b,Carrarese,Pescara,2026-04-19T13:00:00Z,False,,,
+e5fd7641537970707bc9b996c030303d,soccer_italy_serie_b,Padova,Reggiana,2026-04-19T15:15:00Z,False,,,
+e4f63ab1f819f43c6e382830c1609e6d,soccer_italy_serie_b,Empoli,Virtus Entella,2026-04-19T17:30:00Z,False,,,

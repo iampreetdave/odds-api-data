@@ -1,0 +1,7 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+50f5dd22232167478147d6ee4308281e,soccer_saudi_arabia_pro_league,Al-Qadsiah,Al-Shabab,2026-04-14T18:01:00Z,True,2026-04-16T01:24:14Z,Al-Qadsiah,2
+50f5dd22232167478147d6ee4308281e,soccer_saudi_arabia_pro_league,Al-Qadsiah,Al-Shabab,2026-04-14T18:01:00Z,True,2026-04-16T01:24:14Z,Al-Shabab,2
+0a73d8596f0dcb34615d76dc29ca5389,soccer_saudi_arabia_pro_league,Al-Nassr,Al-Ettifaq,2026-04-15T18:01:00Z,True,2026-04-16T01:24:14Z,Al-Nassr,1
+0a73d8596f0dcb34615d76dc29ca5389,soccer_saudi_arabia_pro_league,Al-Nassr,Al-Ettifaq,2026-04-15T18:01:00Z,True,2026-04-16T01:24:14Z,Al-Ettifaq,0
+52ee1f6f46440cecc113c30b1271530e,soccer_saudi_arabia_pro_league,Al-Najma,Al-Taawoun,2026-04-23T16:10:00Z,False,,,
+fc6378dbb66614a6f64acfa6bf0e6fb6,soccer_saudi_arabia_pro_league,Damac,Al-Okhdood,2026-04-23T18:00:00Z,False,,,

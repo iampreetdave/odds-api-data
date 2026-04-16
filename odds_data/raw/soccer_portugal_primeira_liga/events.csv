@@ -1,0 +1,10 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+e3cd75323645d0d1bae2af8685d990a9,soccer_portugal_primeira_liga,Primeira Liga - Portugal,Rio Ave FC,AVS Futebol SAD,2026-04-17T19:45:00Z,2026-04-16T19:00:29.807580+00:00
+b60ab9bb1fb38896bd19c87e779e9907,soccer_portugal_primeira_liga,Primeira Liga - Portugal,Nacional,Alverca,2026-04-18T14:30:00Z,2026-04-16T19:00:29.807580+00:00
+bbf4c9232ab8abe994ee4031d36ab761,soccer_portugal_primeira_liga,Primeira Liga - Portugal,Casa Pia,Santa Clara,2026-04-18T17:00:00Z,2026-04-16T19:00:29.807580+00:00
+a449db5a39a6b54c39288859943352f5,soccer_portugal_primeira_liga,Primeira Liga - Portugal,Gil Vicente,Vitória SC,2026-04-18T19:30:00Z,2026-04-16T19:00:29.807580+00:00
+a3466e90c5d2764ef3e3d01421286c5f,soccer_portugal_primeira_liga,Primeira Liga - Portugal,Arouca,CF Estrela,2026-04-19T14:30:00Z,2026-04-16T19:00:29.807580+00:00
+a02b182687d11eb3750bb1de474f69a6,soccer_portugal_primeira_liga,Primeira Liga - Portugal,Sporting Lisbon,Benfica,2026-04-19T17:00:00Z,2026-04-16T19:00:29.807580+00:00
+d1c07dd9c1d35002adb4dff988455082,soccer_portugal_primeira_liga,Primeira Liga - Portugal,Braga,Famalicão,2026-04-19T19:30:00Z,2026-04-16T19:00:29.807580+00:00
+0cd0a56b7739446251347f8b8ac86923,soccer_portugal_primeira_liga,Primeira Liga - Portugal,FC Porto,Tondela,2026-04-19T19:30:00Z,2026-04-16T19:00:29.807580+00:00
+1c602d8eba3ef8ffc36196f66c3b3d58,soccer_portugal_primeira_liga,Primeira Liga - Portugal,Moreirense FC,Estoril,2026-04-20T19:15:00Z,2026-04-16T19:00:29.807580+00:00

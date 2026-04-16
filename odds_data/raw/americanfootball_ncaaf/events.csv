@@ -1,0 +1,10 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+123a238486098cc9e8f71fea0cf4e7b0,americanfootball_ncaaf,NCAAF,Virginia Cavaliers,NC State Wolfpack,2026-08-29T16:00:00Z,2026-04-16T18:59:50.674927+00:00
+2c288580da16e12d35355f2548721be6,americanfootball_ncaaf,NCAAF,TCU Horned Frogs,North Carolina Tar Heels,2026-08-29T16:00:00Z,2026-04-16T18:59:50.674927+00:00
+525909f6be5e505d076a97eb097528eb,americanfootball_ncaaf,NCAAF,Auburn Tigers,Baylor Bears,2026-09-05T16:00:00Z,2026-04-16T18:59:50.674927+00:00
+1bb9e45b6e7ed1200104ed018eff9093,americanfootball_ncaaf,NCAAF,California Golden Bears,UCLA Bruins,2026-09-05T16:00:00Z,2026-04-16T18:59:50.674927+00:00
+073bba47dc105fcd66913e74f281ae96,americanfootball_ncaaf,NCAAF,LSU Tigers,Clemson Tigers,2026-09-05T16:00:00Z,2026-04-16T18:59:50.674927+00:00
+a6dfbee17481c21d08f98efa7b4ba82e,americanfootball_ncaaf,NCAAF,Ole Miss Rebels,Louisville Cardinals,2026-09-05T16:00:00Z,2026-04-16T18:59:50.674927+00:00
+b460f3aa4235ec2485f25182755304d6,americanfootball_ncaaf,NCAAF,Notre Dame Fighting Irish,Wisconsin Badgers,2026-09-06T16:00:00Z,2026-04-16T18:59:50.674927+00:00
+b38f4f63351c15767e64a76a73589574,americanfootball_ncaaf,NCAAF,Michigan Wolverines,Oklahoma Sooners,2026-09-12T16:00:00Z,2026-04-16T18:59:50.674927+00:00
+08c34029ecc85b4a6d519f90f9082e56,americanfootball_ncaaf,NCAAF,Texas Longhorns,Ohio State Buckeyes,2026-09-12T16:00:00Z,2026-04-16T18:59:50.674927+00:00

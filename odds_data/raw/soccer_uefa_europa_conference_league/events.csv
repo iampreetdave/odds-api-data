@@ -1,0 +1,4 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+2e2e5e58256650964e31161d0da9ed1e,soccer_uefa_europa_conference_league,UEFA Europa Conference League,AEK Athens,Rayo Vallecano,2026-04-16T19:00:00Z,2026-04-16T19:00:33.513820+00:00
+f0ce06e05c789703d4f91069487487c2,soccer_uefa_europa_conference_league,UEFA Europa Conference League,Fiorentina,Crystal Palace,2026-04-16T19:00:00Z,2026-04-16T19:00:33.513820+00:00
+c5c382d74154b05dce39ca14a422780f,soccer_uefa_europa_conference_league,UEFA Europa Conference League,Strasbourg,FSV Mainz 05,2026-04-16T19:00:00Z,2026-04-16T19:00:33.513820+00:00

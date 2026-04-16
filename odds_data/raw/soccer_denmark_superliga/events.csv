@@ -1,0 +1,18 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+f9ab548797f7a242f5f3bc8766e6d031,soccer_denmark_superliga,Denmark Superliga,Brondby IF,SonderjyskE,2026-04-17T17:00:00Z,2026-04-16T19:00:16.842094+00:00
+5ab70500b14c32ec320daceeaae287a7,soccer_denmark_superliga,Denmark Superliga,Silkeborg IF,FC Fredericia,2026-04-19T12:00:00Z,2026-04-16T19:00:16.842094+00:00
+e82cf0633efac62e523394d7965e87af,soccer_denmark_superliga,Denmark Superliga,OB Odense BK,Randers FC,2026-04-19T12:00:00Z,2026-04-16T19:00:16.842094+00:00
+2312c0243dfb51ef2003f34c9db47998,soccer_denmark_superliga,Denmark Superliga,FC Nordsjaelland,Viborg FF,2026-04-19T14:00:00Z,2026-04-16T19:00:16.842094+00:00
+1a6c48225095b85e670f414a72662f28,soccer_denmark_superliga,Denmark Superliga,Vejle Boldklub,FC Copenhagen,2026-04-19T16:00:00Z,2026-04-16T19:00:16.842094+00:00
+e1eca4397eda534a7fae9ca6d0a02b36,soccer_denmark_superliga,Denmark Superliga,FC Midtjylland,AGF Aarhus,2026-04-20T17:00:00Z,2026-04-16T19:00:16.842094+00:00
+49a17d4b94bb1b76ea037b712d02d50a,soccer_denmark_superliga,Denmark Superliga,FC Copenhagen,OB Odense BK,2026-04-22T16:00:00Z,2026-04-16T19:00:16.842094+00:00
+07e32b2721615ed8a42e011cc0ede220,soccer_denmark_superliga,Denmark Superliga,Vejle Boldklub,Silkeborg IF,2026-04-22T16:00:00Z,2026-04-16T19:00:16.842094+00:00
+31da2a19155a3268a4e3e653cc213a5f,soccer_denmark_superliga,Denmark Superliga,Viborg FF,Brondby IF,2026-04-22T18:00:00Z,2026-04-16T19:00:16.842094+00:00
+3bcfae772e15ab12398d9ceac31f3b87,soccer_denmark_superliga,Denmark Superliga,FC Nordsjaelland,AGF Aarhus,2026-04-23T16:00:00Z,2026-04-16T19:00:16.842094+00:00
+fb3a13bd80d8bc93dc71692d2671fa09,soccer_denmark_superliga,Denmark Superliga,Randers FC,FC Fredericia,2026-04-23T16:00:00Z,2026-04-16T19:00:16.842094+00:00
+918cc6e8122c08af66aa246bdd1295c5,soccer_denmark_superliga,Denmark Superliga,SonderjyskE,FC Midtjylland,2026-04-23T18:00:00Z,2026-04-16T19:00:16.842094+00:00
+66b5f79385242a3b6e3f2d0d881a4aa7,soccer_denmark_superliga,Denmark Superliga,FC Fredericia,OB Odense BK,2026-04-26T12:00:00Z,2026-04-16T19:00:16.842094+00:00
+5c150b1d19fa05a62b85cff27746c195,soccer_denmark_superliga,Denmark Superliga,Silkeborg IF,Randers FC,2026-04-26T12:00:00Z,2026-04-16T19:00:16.842094+00:00
+2768199f9dc9660a26222e71d9ab72df,soccer_denmark_superliga,Denmark Superliga,SonderjyskE,Brondby IF,2026-04-26T14:00:00Z,2026-04-16T19:00:16.842094+00:00
+2bd81ce466fcf93e8270d5523a1e649a,soccer_denmark_superliga,Denmark Superliga,Viborg FF,FC Nordsjaelland,2026-04-26T16:00:00Z,2026-04-16T19:00:16.842094+00:00
+4fea7714e22a03185696eb849b6c7fa0,soccer_denmark_superliga,Denmark Superliga,AGF Aarhus,FC Midtjylland,2026-04-26T18:00:00Z,2026-04-16T19:00:16.842094+00:00

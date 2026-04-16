@@ -1,0 +1,11 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+b2a975ff1523c589133e55fc1a37fcd5,aussierules_afl,Carlton Blues,Collingwood Magpies,2026-04-16T09:32:00Z,True,2026-04-16T17:33:21Z,Collingwood Magpies,88
+b2a975ff1523c589133e55fc1a37fcd5,aussierules_afl,Carlton Blues,Collingwood Magpies,2026-04-16T09:32:00Z,True,2026-04-16T17:33:21Z,Carlton Blues,83
+471dea70a21afb33bf8a09062dd2a7fe,aussierules_afl,Geelong Cats,Western Bulldogs,2026-04-17T09:20:00Z,False,,,
+7fea138a2ddddfd54a8571bd5c5ce5f8,aussierules_afl,Sydney Swans,Greater Western Sydney Giants,2026-04-17T09:50:00Z,False,,,
+656fbf034f276e97eed4af2eb7e3caa6,aussierules_afl,Gold Coast Suns,Essendon Bombers,2026-04-18T03:15:00Z,False,,,
+feddd7f503a6d642d48f1b44dacb4362,aussierules_afl,Hawthorn Hawks,Port Adelaide Power,2026-04-18T06:15:07Z,False,,,
+fa9a95dacdda3a7a779f799f29679355,aussierules_afl,Adelaide Crows,St Kilda Saints,2026-04-18T09:35:37Z,False,,,
+716fc5cfb82755fe9e18195e07cb7d0f,aussierules_afl,North Melbourne Kangaroos,Richmond Tigers,2026-04-19T03:10:00Z,False,,,
+485efe42868ab012522035be0eb72cf5,aussierules_afl,Melbourne Demons,Brisbane Lions,2026-04-19T05:15:00Z,False,,,
+b2a7097d4ff3de9f0e2a85e694561bcd,aussierules_afl,West Coast Eagles,Fremantle Dockers,2026-04-19T07:10:00Z,False,,,

@@ -1,0 +1,4 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+1e99ca015e59dafe2d397a0be198650e,soccer_uefa_europa_league,UEFA Europa League,Aston Villa,Bologna,2026-04-16T19:00:00Z,2026-04-16T19:00:33.710721+00:00
+7bd6146745b2765c8c6207daacff37db,soccer_uefa_europa_league,UEFA Europa League,Nottingham Forest,Porto,2026-04-16T19:00:00Z,2026-04-16T19:00:33.710721+00:00
+af977fbae8c6d3fe8847ec01b42f270f,soccer_uefa_europa_league,UEFA Europa League,Real Betis,SC Braga,2026-04-16T19:00:00Z,2026-04-16T19:00:33.710721+00:00

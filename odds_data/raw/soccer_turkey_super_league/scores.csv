@@ -1,0 +1,10 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+c536a7bbf469098e8eb1770a6e814d30,soccer_turkey_super_league,Antalyaspor,Torku Konyaspor,2026-04-17T17:00:00Z,False,,,
+4da6e9ae265316ce4823f3758ba70ee5,soccer_turkey_super_league,Fenerbahce,Çaykur Rizespor,2026-04-17T17:00:00Z,False,,,
+7591fdd4d514f4a918710377569ea865,soccer_turkey_super_league,Fatih Karagümrük,Eyüpspor,2026-04-18T11:30:00Z,False,,,
+c543c298e75afce11f8576161760cc24,soccer_turkey_super_league,Kocaelispor,Goztepe,2026-04-18T14:00:00Z,False,,,
+78c8b4cd3e2dadc11bb9a22adacc8e09,soccer_turkey_super_league,Genclerbirligi SK,Galatasaray,2026-04-18T17:00:00Z,False,,,
+64b7b58cdeed5d433ad5dee6aef2e320,soccer_turkey_super_league,Kasimpasa SK,Alanyaspor,2026-04-19T11:30:00Z,False,,,
+6a9ff6d4de31b06a0d22a96619610198,soccer_turkey_super_league,Samsunspor,Besiktas JK,2026-04-19T14:00:00Z,False,,,
+731be9267ede52ac20071571b1657a92,soccer_turkey_super_league,Trabzonspor,Basaksehir,2026-04-19T17:00:00Z,False,,,
+43aa89ed08d6b480c5a2aed48094536a,soccer_turkey_super_league,Gazişehir Gaziantep,Kayserispor,2026-04-20T17:00:00Z,False,,,

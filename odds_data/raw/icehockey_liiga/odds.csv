@@ -1,0 +1,158 @@
+event_id,sport_key,sport_title,commence_time,home_team,away_team,snapshot_time,market_type,bookmaker_key,bookmaker_title,last_update,market,outcome_name,price,point,implied_prob
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,pinnacle,Pinnacle,2026-04-16T18:59:31Z,h2h,KooKoo,1.71,,0.584795
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,pinnacle,Pinnacle,2026-04-16T18:59:31Z,h2h,SaiPa,2.12,,0.471698
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,virginbet,Virgin Bet,2026-04-16T18:59:08Z,totals,Over,1.95,5.5,0.512821
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,virginbet,Virgin Bet,2026-04-16T18:59:08Z,totals,Under,1.86,5.5,0.537634
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,casumo,Casumo,2026-04-16T18:58:58Z,h2h,KooKoo,2.14,,0.46729
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,casumo,Casumo,2026-04-16T18:58:58Z,h2h,SaiPa,3.05,,0.327869
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,casumo,Casumo,2026-04-16T18:58:58Z,h2h,Draw,3.7,,0.27027
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,casumo,Casumo,2026-04-16T18:58:58Z,spreads,KooKoo,2.75,-1.5,0.363636
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,casumo,Casumo,2026-04-16T18:58:58Z,spreads,SaiPa,1.43,1.5,0.699301
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,casumo,Casumo,2026-04-16T18:58:58Z,totals,Over,1.94,5.5,0.515464
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,casumo,Casumo,2026-04-16T18:58:58Z,totals,Under,1.85,5.5,0.540541
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betrivers,BetRivers,2026-04-16T18:59:08Z,h2h,KooKoo,1.65,,0.606061
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betrivers,BetRivers,2026-04-16T18:59:08Z,h2h,SaiPa,2.28,,0.438596
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betrivers,BetRivers,2026-04-16T18:59:08Z,spreads,KooKoo,2.8,-1.5,0.357143
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betrivers,BetRivers,2026-04-16T18:59:08Z,spreads,SaiPa,1.44,1.5,0.694444
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betrivers,BetRivers,2026-04-16T18:59:08Z,totals,Over,1.94,5.5,0.515464
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betrivers,BetRivers,2026-04-16T18:59:08Z,totals,Under,1.87,5.5,0.534759
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,grosvenor,Grosvenor,2026-04-16T18:59:08Z,h2h,KooKoo,2.14,,0.46729
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,grosvenor,Grosvenor,2026-04-16T18:59:08Z,h2h,SaiPa,3.05,,0.327869
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,grosvenor,Grosvenor,2026-04-16T18:59:08Z,h2h,Draw,3.7,,0.27027
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,grosvenor,Grosvenor,2026-04-16T18:59:08Z,totals,Over,1.94,5.5,0.515464
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,grosvenor,Grosvenor,2026-04-16T18:59:08Z,totals,Under,1.85,5.5,0.540541
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas,LeoVegas,2026-04-16T18:59:44Z,h2h,KooKoo,2.08,,0.480769
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas,LeoVegas,2026-04-16T18:59:44Z,h2h,SaiPa,2.95,,0.338983
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas,LeoVegas,2026-04-16T18:59:44Z,h2h,Draw,3.6,,0.277778
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas,LeoVegas,2026-04-16T18:59:44Z,spreads,KooKoo,2.75,-1.5,0.363636
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas,LeoVegas,2026-04-16T18:59:44Z,spreads,SaiPa,1.43,1.5,0.699301
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas,LeoVegas,2026-04-16T18:59:44Z,totals,Over,1.94,5.5,0.515464
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas,LeoVegas,2026-04-16T18:59:44Z,totals,Under,1.85,5.5,0.540541
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betparx,betPARX,2026-04-16T18:59:31Z,h2h,KooKoo,1.64,,0.609756
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betparx,betPARX,2026-04-16T18:59:31Z,h2h,SaiPa,2.25,,0.444444
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betparx,betPARX,2026-04-16T18:59:31Z,spreads,KooKoo,2.75,-1.5,0.363636
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betparx,betPARX,2026-04-16T18:59:31Z,spreads,SaiPa,1.43,1.5,0.699301
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betparx,betPARX,2026-04-16T18:59:31Z,totals,Over,1.94,5.5,0.515464
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betparx,betPARX,2026-04-16T18:59:31Z,totals,Under,1.85,5.5,0.540541
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_se,Unibet (SE),2026-04-16T18:59:21Z,h2h,KooKoo,2.14,,0.46729
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_se,Unibet (SE),2026-04-16T18:59:21Z,h2h,SaiPa,3.05,,0.327869
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_se,Unibet (SE),2026-04-16T18:59:21Z,h2h,Draw,3.7,,0.27027
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_se,Unibet (SE),2026-04-16T18:59:21Z,spreads,KooKoo,2.75,-1.5,0.363636
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_se,Unibet (SE),2026-04-16T18:59:21Z,spreads,SaiPa,1.43,1.5,0.699301
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,pmu_fr,PMU (FR),2026-04-16T18:59:20Z,h2h,KooKoo,2.02,,0.49505
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,pmu_fr,PMU (FR),2026-04-16T18:59:20Z,h2h,SaiPa,2.88,,0.347222
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,pmu_fr,PMU (FR),2026-04-16T18:59:20Z,h2h,Draw,3.5,,0.285714
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,pmu_fr,PMU (FR),2026-04-16T18:59:20Z,spreads,KooKoo,2.6,-1.5,0.384615
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,pmu_fr,PMU (FR),2026-04-16T18:59:20Z,spreads,SaiPa,1.35,1.5,0.740741
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,pmu_fr,PMU (FR),2026-04-16T18:59:20Z,totals,Over,1.8,5.5,0.555556
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,pmu_fr,PMU (FR),2026-04-16T18:59:20Z,totals,Under,1.72,5.5,0.581395
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas_se,LeoVegas (SE),2026-04-16T18:59:32Z,h2h,KooKoo,2.2,,0.454545
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas_se,LeoVegas (SE),2026-04-16T18:59:32Z,h2h,SaiPa,3.15,,0.31746
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas_se,LeoVegas (SE),2026-04-16T18:59:32Z,h2h,Draw,3.85,,0.25974
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas_se,LeoVegas (SE),2026-04-16T18:59:32Z,spreads,KooKoo,2.75,-1.5,0.363636
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,leovegas_se,LeoVegas (SE),2026-04-16T18:59:32Z,spreads,SaiPa,1.43,1.5,0.699301
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ballybet,Bally Bet,2026-04-16T18:59:31Z,h2h,KooKoo,1.64,,0.609756
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ballybet,Bally Bet,2026-04-16T18:59:31Z,h2h,SaiPa,2.25,,0.444444
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ballybet,Bally Bet,2026-04-16T18:59:31Z,spreads,KooKoo,2.75,-1.5,0.363636
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ballybet,Bally Bet,2026-04-16T18:59:31Z,spreads,SaiPa,1.43,1.5,0.699301
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ballybet,Bally Bet,2026-04-16T18:59:31Z,totals,Over,1.94,5.5,0.515464
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ballybet,Bally Bet,2026-04-16T18:59:31Z,totals,Under,1.85,5.5,0.540541
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,livescorebet,LiveScore Bet,2026-04-16T18:59:45Z,totals,Over,1.95,5.5,0.512821
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,livescorebet,LiveScore Bet,2026-04-16T18:59:45Z,totals,Under,1.86,5.5,0.537634
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_nl,Unibet (NL),2026-04-16T18:59:56Z,h2h,KooKoo,2.14,,0.46729
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_nl,Unibet (NL),2026-04-16T18:59:56Z,h2h,SaiPa,3.05,,0.327869
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_nl,Unibet (NL),2026-04-16T18:59:56Z,h2h,Draw,3.7,,0.27027
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_nl,Unibet (NL),2026-04-16T18:59:56Z,spreads,KooKoo,2.75,-1.5,0.363636
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_nl,Unibet (NL),2026-04-16T18:59:56Z,spreads,SaiPa,1.43,1.5,0.699301
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_nl,Unibet (NL),2026-04-16T18:59:56Z,totals,Over,1.94,5.5,0.515464
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_nl,Unibet (NL),2026-04-16T18:59:56Z,totals,Under,1.85,5.5,0.540541
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betsson,Betsson,2026-04-16T18:58:56Z,h2h,KooKoo,1.68,,0.595238
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betsson,Betsson,2026-04-16T18:58:56Z,h2h,SaiPa,2.18,,0.458716
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,nordicbet,Nordic Bet,2026-04-16T18:59:11Z,h2h,KooKoo,1.68,,0.595238
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,nordicbet,Nordic Bet,2026-04-16T18:59:11Z,h2h,SaiPa,2.18,,0.458716
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coolbet,Coolbet,2026-04-16T18:59:58Z,h2h,KooKoo,2.23,,0.44843
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coolbet,Coolbet,2026-04-16T18:59:58Z,h2h,SaiPa,3.15,,0.31746
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coolbet,Coolbet,2026-04-16T18:59:58Z,h2h,Draw,3.8,,0.263158
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coolbet,Coolbet,2026-04-16T18:59:58Z,spreads,KooKoo,2.85,-1.5,0.350877
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coolbet,Coolbet,2026-04-16T18:59:58Z,spreads,SaiPa,1.39,1.5,0.719424
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coolbet,Coolbet,2026-04-16T18:59:58Z,totals,Over,1.96,5.5,0.510204
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coolbet,Coolbet,2026-04-16T18:59:58Z,totals,Under,1.81,5.5,0.552486
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,onexbet,1xBet,2026-04-16T18:58:57Z,h2h,KooKoo,2.14,,0.46729
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,onexbet,1xBet,2026-04-16T18:58:57Z,h2h,SaiPa,2.8,,0.357143
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,onexbet,1xBet,2026-04-16T18:58:57Z,h2h,Draw,4.2,,0.238095
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,onexbet,1xBet,2026-04-16T18:58:57Z,spreads,KooKoo,1.66,0.0,0.60241
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,onexbet,1xBet,2026-04-16T18:58:57Z,spreads,SaiPa,2.15,0.0,0.465116
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,onexbet,1xBet,2026-04-16T18:58:57Z,totals,Over,1.96,5.5,0.510204
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,onexbet,1xBet,2026-04-16T18:58:57Z,totals,Under,1.79,5.5,0.558659
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_fr,Unibet (FR),2026-04-16T18:59:55Z,h2h,KooKoo,1.99,,0.502513
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_fr,Unibet (FR),2026-04-16T18:59:55Z,h2h,SaiPa,2.6,,0.384615
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,unibet_fr,Unibet (FR),2026-04-16T18:59:55Z,h2h,Draw,3.6,,0.277778
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,sport888,888sport,2026-04-16T18:59:31Z,h2h,KooKoo,1.73,,0.578035
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,sport888,888sport,2026-04-16T18:59:31Z,h2h,SaiPa,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,sport888,888sport,2026-04-16T18:59:31Z,spreads,KooKoo,2.9,-1.5,0.344828
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,sport888,888sport,2026-04-16T18:59:31Z,spreads,SaiPa,1.4,1.5,0.714286
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,sport888,888sport,2026-04-16T18:59:31Z,totals,Over,2.0,5.5,0.5
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,sport888,888sport,2026-04-16T18:59:31Z,totals,Under,1.8,5.5,0.555556
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betclic_fr,Betclic (FR),2026-04-16T18:53:40Z,h2h,KooKoo,2.07,,0.483092
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betclic_fr,Betclic (FR),2026-04-16T18:53:40Z,h2h,SaiPa,2.7,,0.37037
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betclic_fr,Betclic (FR),2026-04-16T18:53:40Z,h2h,Draw,3.78,,0.26455
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,sportsbet,SportsBet,2026-04-16T18:58:58Z,spreads,KooKoo,2.08,-0.5,0.480769
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,sportsbet,SportsBet,2026-04-16T18:58:58Z,spreads,SaiPa,1.65,0.5,0.606061
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,espnbet,theScore Bet,2026-04-16T18:59:44Z,h2h,KooKoo,1.71,,0.584795
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,espnbet,theScore Bet,2026-04-16T18:59:44Z,h2h,SaiPa,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,espnbet,theScore Bet,2026-04-16T18:59:44Z,spreads,KooKoo,2.8,-1.5,0.357143
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,espnbet,theScore Bet,2026-04-16T18:59:44Z,spreads,SaiPa,1.42,1.5,0.704225
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,espnbet,theScore Bet,2026-04-16T18:59:44Z,totals,Over,1.95,5.5,0.512821
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,espnbet,theScore Bet,2026-04-16T18:59:44Z,totals,Under,1.8,5.5,0.555556
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,williamhill,William Hill,2026-04-16T18:59:43Z,h2h,KooKoo,1.73,,0.578035
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,williamhill,William Hill,2026-04-16T18:59:43Z,h2h,SaiPa,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,hardrockbet,Hard Rock Bet,2026-04-16T18:59:31Z,h2h,KooKoo,1.71,,0.584795
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,hardrockbet,Hard Rock Bet,2026-04-16T18:59:31Z,h2h,SaiPa,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,hardrockbet,Hard Rock Bet,2026-04-16T18:59:31Z,spreads,KooKoo,2.8,-1.5,0.357143
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,hardrockbet,Hard Rock Bet,2026-04-16T18:59:31Z,spreads,SaiPa,1.4,1.5,0.714286
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,hardrockbet,Hard Rock Bet,2026-04-16T18:59:31Z,totals,Over,2.0,5.5,0.5
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,hardrockbet,Hard Rock Bet,2026-04-16T18:59:31Z,totals,Under,1.83,5.5,0.546448
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,paddypower,Paddy Power,2026-04-16T18:59:08Z,h2h,KooKoo,1.67,,0.598802
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,paddypower,Paddy Power,2026-04-16T18:59:08Z,h2h,SaiPa,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,winamax_fr,Winamax (FR),2026-04-16T18:59:21Z,h2h,KooKoo,1.94,,0.515464
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,winamax_fr,Winamax (FR),2026-04-16T18:59:21Z,h2h,SaiPa,2.5,,0.4
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,winamax_fr,Winamax (FR),2026-04-16T18:59:21Z,h2h,Draw,3.6,,0.277778
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,winamax_de,Winamax (DE),2026-04-16T18:59:33Z,h2h,KooKoo,2.05,,0.487805
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,winamax_de,Winamax (DE),2026-04-16T18:59:33Z,h2h,SaiPa,2.7,,0.37037
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,winamax_de,Winamax (DE),2026-04-16T18:59:33Z,h2h,Draw,3.95,,0.253165
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,smarkets,Smarkets,2026-04-16T18:59:55Z,h2h,KooKoo,1.64,,0.609756
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,smarkets,Smarkets,2026-04-16T18:59:55Z,h2h,SaiPa,2.02,,0.49505
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,smarkets,Smarkets,2026-04-16T18:59:55Z,h2h_lay,KooKoo,1.98,,0.505051
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,smarkets,Smarkets,2026-04-16T18:59:55Z,h2h_lay,SaiPa,2.48,,0.403226
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ladbrokes_uk,Ladbrokes,2026-04-16T18:59:20Z,h2h,KooKoo,1.67,,0.598802
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ladbrokes_uk,Ladbrokes,2026-04-16T18:59:20Z,h2h,SaiPa,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ladbrokes_uk,Ladbrokes,2026-04-16T18:59:20Z,totals,Over,3.9,7.5,0.25641
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ladbrokes_uk,Ladbrokes,2026-04-16T18:59:20Z,totals,Under,1.22,7.5,0.819672
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coral,Coral,2026-04-16T18:58:57Z,h2h,KooKoo,1.67,,0.598802
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coral,Coral,2026-04-16T18:58:57Z,h2h,SaiPa,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coral,Coral,2026-04-16T18:58:57Z,totals,Over,3.9,7.5,0.25641
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,coral,Coral,2026-04-16T18:58:57Z,totals,Under,1.22,7.5,0.819672
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ladbrokes_au,Ladbrokes,2026-04-16T18:59:09Z,h2h,KooKoo,1.67,,0.598802
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,ladbrokes_au,Ladbrokes,2026-04-16T18:59:09Z,h2h,SaiPa,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,neds,Neds,2026-04-16T18:59:56Z,h2h,KooKoo,1.67,,0.598802
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,neds,Neds,2026-04-16T18:59:56Z,h2h,SaiPa,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betfair_ex_au,Betfair,2026-04-16T18:59:34Z,h2h,KooKoo,1.79,,0.558659
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betfair_ex_au,Betfair,2026-04-16T18:59:34Z,h2h,SaiPa,1.01,,0.990099
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betfair_ex_au,Betfair,2026-04-16T18:59:34Z,h2h_lay,KooKoo,1000.0,,0.001
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betfair_ex_au,Betfair,2026-04-16T18:59:34Z,h2h_lay,SaiPa,2.26,,0.442478
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betfair_ex_uk,Betfair,2026-04-16T18:59:43Z,h2h,KooKoo,1.79,,0.558659
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betfair_ex_uk,Betfair,2026-04-16T18:59:43Z,h2h,SaiPa,1.01,,0.990099
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betfair_ex_uk,Betfair,2026-04-16T18:59:43Z,h2h_lay,KooKoo,1000.0,,0.001
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betfair_ex_uk,Betfair,2026-04-16T18:59:43Z,h2h_lay,SaiPa,2.26,,0.442478
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,draftkings,DraftKings,2026-04-16T18:59:31Z,h2h,KooKoo,1.7,,0.588235
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,draftkings,DraftKings,2026-04-16T18:59:31Z,h2h,SaiPa,2.2,,0.454545
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,draftkings,DraftKings,2026-04-16T18:59:31Z,spreads,KooKoo,2.85,-1.5,0.350877
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,draftkings,DraftKings,2026-04-16T18:59:31Z,spreads,SaiPa,1.44,1.5,0.694444
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,draftkings,DraftKings,2026-04-16T18:59:31Z,totals,Over,1.93,5.5,0.518135
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,draftkings,DraftKings,2026-04-16T18:59:31Z,totals,Under,1.89,5.5,0.529101
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betway,Betway,2026-04-16T18:59:44Z,h2h,KooKoo,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betway,Betway,2026-04-16T18:59:44Z,h2h,SaiPa,2.75,,0.363636
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,betway,Betway,2026-04-16T18:59:44Z,h2h,Draw,4.0,,0.25
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,everygame,Everygame,2026-04-16T18:59:20Z,h2h,KooKoo,2.1,,0.47619
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,everygame,Everygame,2026-04-16T18:59:20Z,h2h,SaiPa,2.8,,0.357143
+cd8d1c4f0d240a90ed20eb9bfb472fb7,icehockey_liiga,Liiga,2026-04-17T15:30:00Z,KooKoo,SaiPa,2026-04-16T19:00:05.654107+00:00,main,everygame,Everygame,2026-04-16T18:59:20Z,h2h,Draw,3.65,,0.273973

@@ -1,0 +1,10 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+169da4e8b425f4d49cec62d71ffff27c,soccer_germany_bundesliga2,Holstein Kiel,1. FC Kaiserslautern,2026-04-17T16:30:00Z,False,,,
+dc207ed808a6f2ebbf6ded87df18aee8,soccer_germany_bundesliga2,Elversberg,Karlsruher SC,2026-04-17T16:30:00Z,False,,,
+fc5569ac7327e7a3140e4069929359e5,soccer_germany_bundesliga2,1. FC Magdeburg,Fortuna Düsseldorf,2026-04-18T11:00:00Z,False,,,
+63059c22bdea09fcb3d66fb62c3d3067,soccer_germany_bundesliga2,Arminia Bielefeld,1. FC Nürnberg,2026-04-18T11:00:00Z,False,,,
+57160b193994162d97ecdcdd6e879f26,soccer_germany_bundesliga2,Dynamo Dresden,VfL Bochum,2026-04-18T11:00:00Z,False,,,
+9dc0982554862b66b05ae473eafcb702,soccer_germany_bundesliga2,Hannover 96,SC Paderborn,2026-04-18T18:30:00Z,False,,,
+f892e4728593e86b7ce555e01df2b243,soccer_germany_bundesliga2,Eintracht Braunschweig,Hertha Berlin,2026-04-19T11:30:00Z,False,,,
+091294ac7a82a0a90c5bb94f5960d801,soccer_germany_bundesliga2,FC Schalke 04,SC Preußen Münster,2026-04-19T11:30:00Z,False,,,
+a961924e11936722e3fbba298f988374,soccer_germany_bundesliga2,Greuther Fürth,SV Darmstadt 98,2026-04-19T11:30:00Z,False,,,

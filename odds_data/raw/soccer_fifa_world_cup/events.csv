@@ -1,0 +1,28 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+80d82d1113934bfbea4ce8daf37a2433,soccer_fifa_world_cup,FIFA World Cup,Mexico,South Africa,2026-06-11T19:00:00Z,2026-04-16T19:00:21.864481+00:00
+384cbb5d76b535896a24fe65f93cfac8,soccer_fifa_world_cup,FIFA World Cup,South Korea,Czech Republic,2026-06-12T02:00:00Z,2026-04-16T19:00:21.864481+00:00
+26634922d3f78c146440816023e40de8,soccer_fifa_world_cup,FIFA World Cup,Qatar,Switzerland,2026-06-12T18:00:00Z,2026-04-16T19:00:21.864481+00:00
+d1f4f946c70a0b4e81f5d43e9d32361c,soccer_fifa_world_cup,FIFA World Cup,Canada,Bosnia & Herzegovina,2026-06-12T19:00:00Z,2026-04-16T19:00:21.864481+00:00
+c12986f447a515fbe641addd786dbb24,soccer_fifa_world_cup,FIFA World Cup,USA,Paraguay,2026-06-13T01:00:00Z,2026-04-16T19:00:21.864481+00:00
+f6c8748a16516e0998f95de14235432a,soccer_fifa_world_cup,FIFA World Cup,Brazil,Morocco,2026-06-13T22:00:00Z,2026-04-16T19:00:21.864481+00:00
+5ae41a06735c926eeb7f74006933adce,soccer_fifa_world_cup,FIFA World Cup,Haiti,Scotland,2026-06-14T01:00:00Z,2026-04-16T19:00:21.864481+00:00
+564084f52cc9f1abcc18187c168a7cdc,soccer_fifa_world_cup,FIFA World Cup,Australia,Turkey,2026-06-14T04:00:00Z,2026-04-16T19:00:21.864481+00:00
+d79edbd6aaeb578d33e313446b18d333,soccer_fifa_world_cup,FIFA World Cup,Germany,Curaçao,2026-06-14T17:00:00Z,2026-04-16T19:00:21.864481+00:00
+32ec06abda2398ac41501c86eb9aa376,soccer_fifa_world_cup,FIFA World Cup,Netherlands,Japan,2026-06-14T20:00:00Z,2026-04-16T19:00:21.864481+00:00
+05752bb341e197001387b64f3a06b9b2,soccer_fifa_world_cup,FIFA World Cup,Ivory Coast,Ecuador,2026-06-14T23:00:00Z,2026-04-16T19:00:21.864481+00:00
+b55f9569de3f4d731bc5537ff5ff43e4,soccer_fifa_world_cup,FIFA World Cup,Sweden,Tunisia,2026-06-15T02:00:00Z,2026-04-16T19:00:21.864481+00:00
+c54f00b11925751d2b62988775c6c239,soccer_fifa_world_cup,FIFA World Cup,Spain,Cape Verde,2026-06-15T16:00:00Z,2026-04-16T19:00:21.864481+00:00
+ec51b9c44ad5e34552f3ab53f7262813,soccer_fifa_world_cup,FIFA World Cup,Iran,New Zealand,2026-06-15T18:00:00Z,2026-04-16T19:00:21.864481+00:00
+fbfb95c62003fd6d828b309f96ee1f9b,soccer_fifa_world_cup,FIFA World Cup,Belgium,Egypt,2026-06-15T19:00:00Z,2026-04-16T19:00:21.864481+00:00
+64b91c5f2db61c7358a4f05459e83c52,soccer_fifa_world_cup,FIFA World Cup,Saudi Arabia,Uruguay,2026-06-15T22:00:00Z,2026-04-16T19:00:21.864481+00:00
+25161cf6cf0cd9be17ae2e7e224a1f45,soccer_fifa_world_cup,FIFA World Cup,Austria,Jordan,2026-06-16T04:00:00Z,2026-04-16T19:00:21.864481+00:00
+73a4fcd14cc9766b9b9bfd50b8ca153a,soccer_fifa_world_cup,FIFA World Cup,France,Senegal,2026-06-16T19:00:00Z,2026-04-16T19:00:21.864481+00:00
+4d4f2b9b78182b557d4fbf8dcf4f4af2,soccer_fifa_world_cup,FIFA World Cup,Iraq,Norway,2026-06-16T22:00:00Z,2026-04-16T19:00:21.864481+00:00
+f31b2ee9e1cc6f7e641467f8237eaa21,soccer_fifa_world_cup,FIFA World Cup,Argentina,Algeria,2026-06-17T01:00:00Z,2026-04-16T19:00:21.864481+00:00
+6cc871c121a1869b4612d3fb22fa9d55,soccer_fifa_world_cup,FIFA World Cup,Portugal,DR Congo,2026-06-17T17:00:00Z,2026-04-16T19:00:21.864481+00:00
+689096c8cd7e2753b9fec95321943c5d,soccer_fifa_world_cup,FIFA World Cup,England,Croatia,2026-06-17T20:00:00Z,2026-04-16T19:00:21.864481+00:00
+87afdb85c977b451e1c00f5e3e632601,soccer_fifa_world_cup,FIFA World Cup,Ghana,Panama,2026-06-17T23:00:00Z,2026-04-16T19:00:21.864481+00:00
+22083e7a8e5362c711bc05c1e1319a1f,soccer_fifa_world_cup,FIFA World Cup,Uzbekistan,Colombia,2026-06-18T02:00:00Z,2026-04-16T19:00:21.864481+00:00
+065b3573e875f8d23803357f73e5b99e,soccer_fifa_world_cup,FIFA World Cup,USA,Australia,2026-06-19T19:00:00Z,2026-04-16T19:00:21.864481+00:00
+68bfc965eb267508e04d8e8d75c1a0ae,soccer_fifa_world_cup,FIFA World Cup,Colombia,DR Congo,2026-06-24T02:00:00Z,2026-04-16T19:00:21.864481+00:00
+67ae5751c401a98409b8566ae4897069,soccer_fifa_world_cup,FIFA World Cup,Colombia,Portugal,2026-06-27T23:30:00Z,2026-04-16T19:00:21.864481+00:00

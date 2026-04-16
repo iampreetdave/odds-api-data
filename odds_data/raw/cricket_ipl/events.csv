@@ -1,0 +1,5 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+7db629df90131c46e9f35687dc13c24f,cricket_ipl,IPL,Gujarat Titans,Kolkata Knight Riders,2026-04-17T14:00:00Z,2026-04-16T19:00:00.919960+00:00
+78f6e92f0e7d64e31a2e878bc50f5284,cricket_ipl,IPL,Royal Challengers Bangalore,Delhi Capitals,2026-04-18T10:00:00Z,2026-04-16T19:00:00.919960+00:00
+ddb4ff09c5524053489ef078f021a285,cricket_ipl,IPL,Sunrisers Hyderabad,Chennai Super Kings,2026-04-18T14:00:00Z,2026-04-16T19:00:00.919960+00:00
+c9d64023d4de83fa3390365fc6f9e66f,cricket_ipl,IPL,Punjab Kings,Lucknow Super Giants,2026-04-19T14:00:00Z,2026-04-16T19:00:00.919960+00:00

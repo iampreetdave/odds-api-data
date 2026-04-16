@@ -1,0 +1,9 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+3987e8caa38bdd26ac811c35c87fb1d1,soccer_norway_eliteserien,Eliteserien - Norway,Bodø/Glimt,Aalesund,2026-04-18T12:00:00Z,2026-04-16T19:00:29.023148+00:00
+0a69d883f4d8c43a8e58761c3411a971,soccer_norway_eliteserien,Eliteserien - Norway,Sandefjord,Rosenborg,2026-04-18T14:00:00Z,2026-04-16T19:00:29.023148+00:00
+3780aa7d8bba322bd32fb6b0fb0c6fc8,soccer_norway_eliteserien,Eliteserien - Norway,Viking FK,SK Brann,2026-04-18T16:00:00Z,2026-04-16T19:00:29.023148+00:00
+ce68c844956fe1bc56ef86bfcc49fcda,soccer_norway_eliteserien,Eliteserien - Norway,Vålerenga,Lillestrom,2026-04-19T12:30:00Z,2026-04-16T19:00:29.023148+00:00
+060b5d2a667fd892d097aaf82fa66058,soccer_norway_eliteserien,Eliteserien - Norway,Kristiansund BK,Fredrikstad FK,2026-04-19T15:00:00Z,2026-04-16T19:00:29.023148+00:00
+a19dbcf80837024c5c96cddc4c49276b,soccer_norway_eliteserien,Eliteserien - Norway,HamKam,KFUM,2026-04-19T15:00:00Z,2026-04-16T19:00:29.023148+00:00
+b856e01ffd93c2e59ab5e0c04b53f2c3,soccer_norway_eliteserien,Eliteserien - Norway,Sarpsborg FK,Tromso,2026-04-19T15:00:00Z,2026-04-16T19:00:29.023148+00:00
+c3a16329eecaf21fcf64e03176f219e2,soccer_norway_eliteserien,Eliteserien - Norway,IK Start,Molde,2026-04-19T17:15:00Z,2026-04-16T19:00:29.023148+00:00

@@ -1,0 +1,9 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+4c8731bc9416f579d441c5f63d3bb42d,soccer_uefa_europa_conference_league,AZ Alkmaar,Shakhtar Donetsk,2026-04-16T16:45:00Z,True,2026-04-16T19:00:32Z,AZ Alkmaar,2
+4c8731bc9416f579d441c5f63d3bb42d,soccer_uefa_europa_conference_league,AZ Alkmaar,Shakhtar Donetsk,2026-04-16T16:45:00Z,True,2026-04-16T19:00:32Z,Shakhtar Donetsk,2
+2e2e5e58256650964e31161d0da9ed1e,soccer_uefa_europa_conference_league,AEK Athens,Rayo Vallecano,2026-04-16T19:00:00Z,False,2026-04-16T19:00:32Z,AEK Athens,0
+2e2e5e58256650964e31161d0da9ed1e,soccer_uefa_europa_conference_league,AEK Athens,Rayo Vallecano,2026-04-16T19:00:00Z,False,2026-04-16T19:00:32Z,Rayo Vallecano,0
+f0ce06e05c789703d4f91069487487c2,soccer_uefa_europa_conference_league,Fiorentina,Crystal Palace,2026-04-16T19:00:00Z,False,2026-04-16T19:00:32Z,Fiorentina,0
+f0ce06e05c789703d4f91069487487c2,soccer_uefa_europa_conference_league,Fiorentina,Crystal Palace,2026-04-16T19:00:00Z,False,2026-04-16T19:00:32Z,Crystal Palace,0
+c5c382d74154b05dce39ca14a422780f,soccer_uefa_europa_conference_league,Strasbourg,FSV Mainz 05,2026-04-16T19:00:00Z,False,2026-04-16T19:00:32Z,Strasbourg,0
+c5c382d74154b05dce39ca14a422780f,soccer_uefa_europa_conference_league,Strasbourg,FSV Mainz 05,2026-04-16T19:00:00Z,False,2026-04-16T19:00:32Z,FSV Mainz 05,0

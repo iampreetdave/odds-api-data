@@ -1,0 +1,5 @@
+event_id,home_score,away_score,total_points,home_win,away_win,draw,score_diff
+68f1535fcd4489020db95cd14ddbf06c,1.0,2.0,3.0,0,1,0,-1.0
+763552dd386c5ea6d42389f3c845dc87,1.0,0.0,1.0,1,0,0,1.0
+c68b440ac374660416431975492ad391,1.0,0.0,1.0,1,0,0,1.0
+f267225c40b08a5b0bf5fe95eb913d48,1.0,2.0,3.0,0,1,0,-1.0

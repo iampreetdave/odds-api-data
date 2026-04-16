@@ -1,0 +1,13 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+187c578ce8d890dd5b9b3cbdcb2fa3e2,soccer_austria_bundesliga,Grazer AK,Ried,2026-04-17T17:30:00Z,False,,,
+9cb51db4c427ca1a2670d918fdf68507,soccer_austria_bundesliga,Wolfsberger AC,FC Blau-Weiß Linz,2026-04-18T15:00:00Z,False,,,
+7dac1dba9b9e0594dea3566bc2aae2dc,soccer_austria_bundesliga,WSG Tirol,Rheindorf Altach,2026-04-18T15:00:00Z,False,,,
+b92ea230d0e618fafc6e67ae439fd202,soccer_austria_bundesliga,Austria Wien,RB Salzburg,2026-04-19T12:30:00Z,False,,,
+c671bb03dd66d03163e5bf9f121a900e,soccer_austria_bundesliga,Hartberg,Rapid Wien,2026-04-19T12:30:00Z,False,,,
+588561d655748d55987e20d5ac90aeee,soccer_austria_bundesliga,LASK,Sturm Graz,2026-04-19T15:00:00Z,False,,,
+1cd6a2e373dca05bcf3a264d1ae6ec52,soccer_austria_bundesliga,FC Blau-Weiß Linz,Wolfsberger AC,2026-04-21T16:30:00Z,False,,,
+6419c6a89f4363a638ed3355c50e3760,soccer_austria_bundesliga,Rheindorf Altach,WSG Tirol,2026-04-21T16:30:00Z,False,,,
+a0bf90482d2c45b5da5c4b51c81a87e4,soccer_austria_bundesliga,Ried,Grazer AK,2026-04-21T18:30:00Z,False,,,
+b50f35cfa99a87dac6be87e36b9c067a,soccer_austria_bundesliga,RB Salzburg,Austria Wien,2026-04-22T16:30:00Z,False,,,
+a35cb076c401c6783622e292cb86184a,soccer_austria_bundesliga,Rapid Wien,Hartberg,2026-04-22T16:30:00Z,False,,,
+f0d929f54b11b78897efdafbdbe608d1,soccer_austria_bundesliga,Sturm Graz,LASK,2026-04-22T18:30:00Z,False,,,

@@ -1,0 +1,17 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+25f53495c4044a1d8fb682e3715eb7b3,basketball_nba,Charlotte Hornets,Miami Heat,2026-04-14T23:41:04Z,True,2026-04-15T10:17:16Z,Charlotte Hornets,127
+25f53495c4044a1d8fb682e3715eb7b3,basketball_nba,Charlotte Hornets,Miami Heat,2026-04-14T23:41:04Z,True,2026-04-15T10:17:16Z,Miami Heat,126
+0999cb23cd03811476b378dd4045ea16,basketball_nba,Phoenix Suns,Portland Trail Blazers,2026-04-15T02:15:47Z,True,2026-04-15T10:17:16Z,Phoenix Suns,110
+0999cb23cd03811476b378dd4045ea16,basketball_nba,Phoenix Suns,Portland Trail Blazers,2026-04-15T02:15:47Z,True,2026-04-15T10:17:16Z,Portland Trail Blazers,114
+f7264c00c662a127d58f4ab12fc498bc,basketball_nba,Philadelphia 76ers,Orlando Magic,2026-04-15T23:40:47Z,True,2026-04-16T10:12:17Z,Philadelphia 76ers,109
+f7264c00c662a127d58f4ab12fc498bc,basketball_nba,Philadelphia 76ers,Orlando Magic,2026-04-15T23:40:47Z,True,2026-04-16T10:12:17Z,Orlando Magic,97
+7cfae0891b99865ef7fc9d357b69ca28,basketball_nba,Los Angeles Clippers,Golden State Warriors,2026-04-16T02:17:53Z,True,2026-04-16T10:12:17Z,Los Angeles Clippers,121
+7cfae0891b99865ef7fc9d357b69ca28,basketball_nba,Los Angeles Clippers,Golden State Warriors,2026-04-16T02:17:53Z,True,2026-04-16T10:12:17Z,Golden State Warriors,126
+fc16dfbe5b438857b93902fa811dd8f6,basketball_nba,Orlando Magic,Charlotte Hornets,2026-04-17T23:40:00Z,False,,,
+c8d1b7fd06c21e259b9416daf596f023,basketball_nba,Phoenix Suns,Golden State Warriors,2026-04-18T02:10:00Z,False,,,
+2a8e5a45f1bcb477a6f9cbd7739d005e,basketball_nba,Cleveland Cavaliers,Toronto Raptors,2026-04-18T17:10:00Z,False,,,
+526f783434e5dabca25ee032d8fee612,basketball_nba,Denver Nuggets,Minnesota Timberwolves,2026-04-18T19:40:00Z,False,,,
+bee2c9ea4bf8df373aa45af7005b583d,basketball_nba,New York Knicks,Atlanta Hawks,2026-04-18T22:10:00Z,False,,,
+1a9383105929a09e5662227ad45554b8,basketball_nba,Los Angeles Lakers,Houston Rockets,2026-04-19T00:40:00Z,False,,,
+00d1efd43d0790297fb68684a9171191,basketball_nba,Boston Celtics,Philadelphia 76ers,2026-04-19T17:10:00Z,False,,,
+04e3ad1ccbad6419ac711ff120fd5cbe,basketball_nba,San Antonio Spurs,Portland Trail Blazers,2026-04-20T01:10:00Z,False,,,

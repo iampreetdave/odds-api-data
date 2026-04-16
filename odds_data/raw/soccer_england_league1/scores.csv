@@ -1,0 +1,35 @@
+event_id,sport_key,home_team,away_team,commence_time,completed,last_update,score_name,score_value
+8e64ab9cf655082ddc23fb453cbf9cbf,soccer_england_league1,Port Vale,Barnsley,2026-04-14T18:44:00Z,True,2026-04-16T18:51:10Z,Port Vale,0
+8e64ab9cf655082ddc23fb453cbf9cbf,soccer_england_league1,Port Vale,Barnsley,2026-04-14T18:44:00Z,True,2026-04-16T18:51:10Z,Barnsley,0
+e473fc15eb3db1510dd2a199843e5f66,soccer_england_league1,Bolton Wanderers,Stevenage,2026-04-14T18:45:00Z,True,2026-04-16T18:51:10Z,Bolton Wanderers,5
+e473fc15eb3db1510dd2a199843e5f66,soccer_england_league1,Bolton Wanderers,Stevenage,2026-04-14T18:45:00Z,True,2026-04-16T18:51:10Z,Stevenage,1
+169b45d11739cfd92bb7201aad9e56af,soccer_england_league1,Huddersfield Town,Cardiff City,2026-04-14T18:45:00Z,True,2026-04-16T18:51:10Z,Huddersfield Town,1
+169b45d11739cfd92bb7201aad9e56af,soccer_england_league1,Huddersfield Town,Cardiff City,2026-04-14T18:45:00Z,True,2026-04-16T18:51:10Z,Cardiff City,1
+c3581f1656ef065e8a94ea6a08e73a16,soccer_england_league1,Leyton Orient,Mansfield Town,2026-04-14T18:45:00Z,True,2026-04-16T18:51:10Z,Leyton Orient,0
+c3581f1656ef065e8a94ea6a08e73a16,soccer_england_league1,Leyton Orient,Mansfield Town,2026-04-14T18:45:00Z,True,2026-04-16T18:51:10Z,Mansfield Town,0
+701930f65727022ff917c048772a7f72,soccer_england_league1,Wigan Athletic,Rotherham United,2026-04-14T18:45:00Z,True,2026-04-16T18:51:10Z,Wigan Athletic,3
+701930f65727022ff917c048772a7f72,soccer_england_league1,Wigan Athletic,Rotherham United,2026-04-14T18:45:00Z,True,2026-04-16T18:51:10Z,Rotherham United,0
+84942e5684d2f797437847ad9079d15a,soccer_england_league1,Luton,Northampton Town,2026-04-15T18:45:00Z,True,2026-04-16T18:51:10Z,Luton,2
+84942e5684d2f797437847ad9079d15a,soccer_england_league1,Luton,Northampton Town,2026-04-15T18:45:00Z,True,2026-04-16T18:51:10Z,Northampton Town,1
+0cc1240ca99e1c85b20c5a6ce5658580,soccer_england_league1,Wimbledon,Stockport County FC,2026-04-15T18:45:00Z,True,2026-04-16T18:51:10Z,Wimbledon,0
+0cc1240ca99e1c85b20c5a6ce5658580,soccer_england_league1,Wimbledon,Stockport County FC,2026-04-15T18:45:00Z,True,2026-04-16T18:51:10Z,Stockport County FC,2
+9db35937f8c169719644fbdca1693a15,soccer_england_league1,Peterborough United,Port Vale,2026-04-16T18:45:00Z,False,2026-04-16T19:00:12Z,Port Vale,1
+9db35937f8c169719644fbdca1693a15,soccer_england_league1,Peterborough United,Port Vale,2026-04-16T18:45:00Z,False,2026-04-16T19:00:12Z,Peterborough United,0
+7c16c25aafe17881c8c5fcf71c423bf9,soccer_england_league1,Barnsley,Bradford City,2026-04-18T11:30:00Z,False,,,
+42ad636ec98f951192ac0b5851df9188,soccer_england_league1,Bolton Wanderers,Huddersfield Town,2026-04-18T11:30:00Z,False,,,
+5851266665b912a6a6180e8a0ded319a,soccer_england_league1,Wycombe Wanderers,Blackpool,2026-04-18T14:00:00Z,False,,,
+2fc61b75a1a3cacf717fbdf0baa22d7b,soccer_england_league1,Reading,Cardiff City,2026-04-18T14:00:00Z,False,,,
+988f11c63205cc1c9fe1c6ca693dcd6c,soccer_england_league1,Northampton Town,Doncaster Rovers,2026-04-18T14:00:00Z,False,,,
+484fe152355737924fe2ddbe9a4fc278,soccer_england_league1,Exeter City,Stockport County FC,2026-04-18T14:00:00Z,False,,,
+9edfe696477aa4ac4201bf470436f456,soccer_england_league1,Leyton Orient,Rotherham United,2026-04-18T14:00:00Z,False,,,
+4a2db2b57dcb37ac11ca3d368c63d3dc,soccer_england_league1,Stevenage,Lincoln City,2026-04-18T14:00:00Z,False,,,
+e3b258f5dd58e41ff3cfbde27269827f,soccer_england_league1,Mansfield Town,Luton,2026-04-18T14:00:00Z,False,,,
+3621284ad19be078bc86525c58dc43a5,soccer_england_league1,Wimbledon,Plymouth Argyle,2026-04-18T14:00:00Z,False,,,
+1bb78eb23ac4019009ba39802a1084dd,soccer_england_league1,Peterborough United,Burton Albion,2026-04-19T12:00:00Z,False,,,
+8e6b4766a7388111ab7e20fee2e12c9a,soccer_england_league1,Port Vale,Wigan Athletic,2026-04-19T14:00:00Z,False,,,
+b5d616844cb15f124d3e7e7175b2bc8a,soccer_england_league1,Stevenage,Barnsley,2026-04-21T18:45:00Z,False,,,
+b296e3a39c8a2b3da3ce9d55699916cf,soccer_england_league1,Bradford City,Plymouth Argyle,2026-04-21T18:45:00Z,False,,,
+75b4dc2ec967760c50f52d0d221adb93,soccer_england_league1,Doncaster Rovers,Lincoln City,2026-04-21T18:45:00Z,False,,,
+f189ae378ccf1634d69a23e839d1be14,soccer_england_league1,Rotherham United,Luton,2026-04-21T18:45:00Z,False,,,
+2ed5a2cd1dc1df74f3e0f7e4c8ccbdf6,soccer_england_league1,Cardiff City,Port Vale,2026-04-22T18:45:00Z,False,,,
+451847db7ba5b7f95bc8ba7e7241cf61,soccer_england_league1,Stockport County FC,Port Vale,2026-04-28T18:45:00Z,False,,,

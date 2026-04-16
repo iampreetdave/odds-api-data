@@ -1,0 +1,13 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+2aa3249b78d693529c951547a82f134f,icehockey_nhl,NHL,Utah Mammoth,St Louis Blues,2026-04-16T23:30:00Z,2026-04-16T19:00:05.903805+00:00
+112a39ac7f4a08fcb78fe38362f343ed,icehockey_nhl,NHL,Nashville Predators,Anaheim Ducks,2026-04-17T00:00:00Z,2026-04-16T19:00:05.903805+00:00
+72aacc9aeb0595468a61d147df27e838,icehockey_nhl,NHL,Winnipeg Jets,San Jose Sharks,2026-04-17T00:00:00Z,2026-04-16T19:00:05.903805+00:00
+88586e525b98a2c062f1f6d75e8d0fe1,icehockey_nhl,NHL,Calgary Flames,Los Angeles Kings,2026-04-17T01:00:00Z,2026-04-16T19:00:05.903805+00:00
+9d37384a47dfd1b17638086559bb3726,icehockey_nhl,NHL,Edmonton Oilers,Vancouver Canucks,2026-04-17T01:00:00Z,2026-04-16T19:00:05.903805+00:00
+96784cc6006a3540914823666e6561d1,icehockey_nhl,NHL,Colorado Avalanche,Seattle Kraken,2026-04-17T02:10:00Z,2026-04-16T19:00:05.903805+00:00
+76d3bd29c4c5d001c2404fb6d3010c36,icehockey_nhl,NHL,Carolina Hurricanes,Ottawa Senators,2026-04-18T19:00:47Z,2026-04-16T19:00:05.903805+00:00
+ccf74c5469950496a135719b827ce942,icehockey_nhl,NHL,Dallas Stars,Minnesota Wild,2026-04-18T21:30:00Z,2026-04-16T19:00:05.903805+00:00
+7de0e0d303dfec588c53877e7150225b,icehockey_nhl,NHL,Pittsburgh Penguins,Philadelphia Flyers,2026-04-19T00:00:26Z,2026-04-16T19:00:05.903805+00:00
+e9eba9dd49f3a5847fe4689a6014e1c0,icehockey_nhl,NHL,Buffalo Sabres,Boston Bruins,2026-04-19T17:00:03Z,2026-04-16T19:00:05.903805+00:00
+bedd26005f98ad01c4994501ba28ddf3,icehockey_nhl,NHL,Tampa Bay Lightning,Montréal Canadiens,2026-04-19T21:00:00Z,2026-04-16T19:00:05.903805+00:00
+bd7a28ff5a090949dde37ef2292ead64,icehockey_nhl,NHL,Vegas Golden Knights,Utah Mammoth,2026-04-20T00:00:00Z,2026-04-16T19:00:05.903805+00:00

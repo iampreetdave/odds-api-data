@@ -1,0 +1,7 @@
+event_id,sport_key,sport_title,home_team,away_team,commence_time,snapshot_time
+2a1f52d4ae4e0e23de26575835bd385d,soccer_finland_veikkausliiga,Veikkausliiga - Finland,IF Gnistan,HJK Helsinki,2026-04-18T11:00:00Z,2026-04-16T19:00:22.764999+00:00
+a5ada25b49ac1e3eb2abd3cb107cde5f,soccer_finland_veikkausliiga,Veikkausliiga - Finland,Jaro,KuPS Kuopio,2026-04-18T13:00:00Z,2026-04-16T19:00:22.764999+00:00
+5dc3376ac2e04350dc0a2f3b95fa2ab1,soccer_finland_veikkausliiga,Veikkausliiga - Finland,AC Oulu,VPS Vaasa,2026-04-18T14:00:00Z,2026-04-16T19:00:22.764999+00:00
+91b2984f7fdad522509f2e512e8713cd,soccer_finland_veikkausliiga,Veikkausliiga - Finland,FC Lahti,FC Inter Turku,2026-04-18T14:00:00Z,2026-04-16T19:00:22.764999+00:00
+0d6a96f22533bc661baf798d62637a6e,soccer_finland_veikkausliiga,Veikkausliiga - Finland,TPS Turku,SJK Seinäjoki,2026-04-18T14:00:00Z,2026-04-16T19:00:22.764999+00:00
+ab961ad296bd9635f60fb1a760fe74a3,soccer_finland_veikkausliiga,Veikkausliiga - Finland,IFK Mariehamn,Ilves Tampere,2026-04-18T16:00:00Z,2026-04-16T19:00:22.764999+00:00
