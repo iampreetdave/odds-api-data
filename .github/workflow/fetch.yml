@@ -1,0 +1,99 @@
+name: Fetch Sports Odds Data
+
+on:
+  schedule:
+    - cron: "0 6 * * *"       # runs daily at 6 AM UTC
+  workflow_dispatch:           # manual trigger from GitHub UI
+    inputs:
+      mode:
+        description: "Fetch mode"
+        required: false
+        default: "both"
+        type: choice
+        options:
+          - both
+          - current-only
+          - historical-only
+      reset_checkpoint:
+        description: "Reset checkpoint and refetch from scratch"
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+
+    permissions:
+      contents: write
+
+    env:
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      PYTHONIOENCODING: utf-8
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Reset checkpoint
+        if: ${{ github.event.inputs.reset_checkpoint == 'true' }}
+        run: rm -f odds_data/checkpoint.json
+
+      - name: Fetch current odds
+        if: ${{ github.event.inputs.mode != 'historical-only' }}
+        run: python odd.py --current-only --concurrency 10 --rate 5
+        continue-on-error: true
+
+      - name: Fetch historical odds
+        if: ${{ github.event.inputs.mode != 'current-only' }}
+        run: |
+          python odd.py \
+            --historical-only \
+            --all-sports \
+            --date-start 2015-01-01 \
+            --date-end $(date +%Y-%m-%d) \
+            --step-days 1 \
+            --concurrency 10 \
+            --rate 5
+
+      - name: Build ML tables
+        run: python build_ml.py
+        continue-on-error: true
+
+      - name: Commit and push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add odds_data/
+
+          if git diff --cached --quiet; then
+            echo "No new data - nothing to commit."
+            exit 0
+          fi
+
+          TASKS=$(python -c "
+          import json
+          from pathlib import Path
+          cp = Path('odds_data/checkpoint.json')
+          if cp.exists():
+              print(len(json.loads(cp.read_text()).get('completed', [])))
+          else:
+              print(0)
+          ")
+
+          git commit -m "data: $(date -u '+%Y-%m-%d %H:%M UTC') | ${TASKS} tasks completed"
+          git push
