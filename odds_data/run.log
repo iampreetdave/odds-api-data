@@ -25282,3 +25282,239 @@
 2026-07-31 08:56:51,027 [INFO]   Output            : /home/runner/work/odds-api-data/odds-api-data/odds_data
 2026-07-31 08:56:51,027 [INFO] ============================================================
 2026-07-31 08:56:51,027 [INFO] Total time: 0:00:06.626338
+2026-08-01 08:27:52,061 [INFO] Starting | mode=current | concurrency=10 | rate=5.0/s
+2026-08-01 08:27:52,061 [INFO] Regions: us,us2,uk,eu,au | Markets: h2h,spreads,totals + outrights
+2026-08-01 08:27:52,061 [INFO] Fetching sports list...
+2026-08-01 08:27:52,239 [ERROR] Bad API key.
+2026-08-01 08:27:52,239 [ERROR] Could not fetch sports. Check API key.
+2026-08-01 08:27:52,240 [INFO] Building ML tables...
+2026-08-01 08:27:52,302 [INFO]   Saved 9 rows -> ml/americanfootball_ncaaf/consensus.csv
+2026-08-01 08:27:52,311 [INFO]   Saved 9 rows -> ml/americanfootball_ncaaf/features.csv
+2026-08-01 08:27:52,357 [INFO]   Saved 4 rows -> ml/americanfootball_ufl/consensus.csv
+2026-08-01 08:27:52,363 [INFO]   Saved 4 rows -> ml/americanfootball_ufl/features.csv
+2026-08-01 08:27:52,417 [INFO]   Saved 8 rows -> ml/aussierules_afl/consensus.csv
+2026-08-01 08:27:52,425 [INFO]   Saved 8 rows -> ml/aussierules_afl/features.csv
+2026-08-01 08:27:52,428 [INFO]   Saved 1 rows -> ml/aussierules_afl/labels.csv
+2026-08-01 08:27:52,431 [INFO]   Saved 0 rows -> ml/aussierules_afl/ml_ready.csv
+2026-08-01 08:27:52,431 [INFO]   aussierules_afl: 8 feature rows | 0 labeled
+2026-08-01 08:27:52,468 [INFO]   Saved 5 rows -> ml/baseball_kbo/consensus.csv
+2026-08-01 08:27:52,474 [INFO]   Saved 5 rows -> ml/baseball_kbo/features.csv
+2026-08-01 08:27:52,545 [INFO]   Saved 12 rows -> ml/baseball_milb/consensus.csv
+2026-08-01 08:27:52,553 [INFO]   Saved 12 rows -> ml/baseball_milb/features.csv
+2026-08-01 08:27:52,673 [INFO]   Saved 19 rows -> ml/baseball_mlb/consensus.csv
+2026-08-01 08:27:52,683 [INFO]   Saved 19 rows -> ml/baseball_mlb/features.csv
+2026-08-01 08:27:52,697 [INFO]   Saved 40 rows -> ml/baseball_mlb/labels.csv
+2026-08-01 08:27:52,700 [INFO]   Saved 0 rows -> ml/baseball_mlb/ml_ready.csv
+2026-08-01 08:27:52,700 [INFO]   baseball_mlb: 19 feature rows | 0 labeled
+2026-08-01 08:27:52,737 [INFO]   Saved 4 rows -> ml/baseball_ncaa/consensus.csv
+2026-08-01 08:27:52,743 [INFO]   Saved 4 rows -> ml/baseball_ncaa/features.csv
+2026-08-01 08:27:52,786 [INFO]   Saved 6 rows -> ml/baseball_npb/consensus.csv
+2026-08-01 08:27:52,793 [INFO]   Saved 6 rows -> ml/baseball_npb/features.csv
+2026-08-01 08:27:52,861 [INFO]   Saved 10 rows -> ml/basketball_euroleague/consensus.csv
+2026-08-01 08:27:52,869 [INFO]   Saved 10 rows -> ml/basketball_euroleague/features.csv
+2026-08-01 08:27:52,929 [INFO]   Saved 8 rows -> ml/basketball_nba/consensus.csv
+2026-08-01 08:27:52,936 [INFO]   Saved 8 rows -> ml/basketball_nba/features.csv
+2026-08-01 08:27:52,940 [INFO]   Saved 4 rows -> ml/basketball_nba/labels.csv
+2026-08-01 08:27:52,942 [INFO]   Saved 0 rows -> ml/basketball_nba/ml_ready.csv
+2026-08-01 08:27:52,942 [INFO]   basketball_nba: 8 feature rows | 0 labeled
+2026-08-01 08:27:52,979 [INFO]   Saved 4 rows -> ml/basketball_wnba/consensus.csv
+2026-08-01 08:27:52,985 [INFO]   Saved 4 rows -> ml/basketball_wnba/features.csv
+2026-08-01 08:27:53,210 [INFO]   Saved 52 rows -> ml/boxing_boxing/consensus.csv
+2026-08-01 08:27:53,226 [INFO]   Saved 52 rows -> ml/boxing_boxing/features.csv
+2026-08-01 08:27:53,240 [INFO]   Saved 1 rows -> ml/cricket_international_t20/consensus.csv
+2026-08-01 08:27:53,246 [INFO]   Saved 1 rows -> ml/cricket_international_t20/features.csv
+2026-08-01 08:27:53,271 [INFO]   Saved 4 rows -> ml/cricket_ipl/consensus.csv
+2026-08-01 08:27:53,277 [INFO]   Saved 4 rows -> ml/cricket_ipl/features.csv
+2026-08-01 08:27:53,291 [INFO]   Saved 1 rows -> ml/cricket_odi/consensus.csv
+2026-08-01 08:27:53,296 [INFO]   Saved 1 rows -> ml/cricket_odi/features.csv
+2026-08-01 08:27:53,316 [INFO]   Saved 2 rows -> ml/cricket_psl/consensus.csv
+2026-08-01 08:27:53,321 [INFO]   Saved 2 rows -> ml/cricket_psl/features.csv
+2026-08-01 08:27:53,428 [INFO]   Saved 12 rows -> ml/icehockey_ahl/consensus.csv
+2026-08-01 08:27:53,436 [INFO]   Saved 12 rows -> ml/icehockey_ahl/features.csv
+2026-08-01 08:27:53,451 [INFO]   Saved 1 rows -> ml/icehockey_liiga/consensus.csv
+2026-08-01 08:27:53,456 [INFO]   Saved 1 rows -> ml/icehockey_liiga/features.csv
+2026-08-01 08:27:53,535 [INFO]   Saved 12 rows -> ml/icehockey_nhl/consensus.csv
+2026-08-01 08:27:53,543 [INFO]   Saved 12 rows -> ml/icehockey_nhl/features.csv
+2026-08-01 08:27:53,553 [INFO]   Saved 25 rows -> ml/icehockey_nhl/labels.csv
+2026-08-01 08:27:53,555 [INFO]   Saved 0 rows -> ml/icehockey_nhl/ml_ready.csv
+2026-08-01 08:27:53,556 [INFO]   icehockey_nhl: 12 feature rows | 0 labeled
+2026-08-01 08:27:53,575 [INFO]   Saved 1 rows -> ml/icehockey_sweden_allsvenskan/consensus.csv
+2026-08-01 08:27:53,580 [INFO]   Saved 1 rows -> ml/icehockey_sweden_allsvenskan/features.csv
+2026-08-01 08:27:53,583 [INFO]   Saved 1 rows -> ml/icehockey_sweden_allsvenskan/labels.csv
+2026-08-01 08:27:53,586 [INFO]   Saved 0 rows -> ml/icehockey_sweden_allsvenskan/ml_ready.csv
+2026-08-01 08:27:53,586 [INFO]   icehockey_sweden_allsvenskan: 1 feature rows | 0 labeled
+2026-08-01 08:27:53,599 [INFO]   Saved 1 rows -> ml/icehockey_sweden_hockey_league/consensus.csv
+2026-08-01 08:27:53,605 [INFO]   Saved 1 rows -> ml/icehockey_sweden_hockey_league/features.csv
+2026-08-01 08:27:53,673 [INFO]   Saved 11 rows -> ml/lacrosse_ncaa/consensus.csv
+2026-08-01 08:27:53,680 [INFO]   Saved 11 rows -> ml/lacrosse_ncaa/features.csv
+2026-08-01 08:27:54,001 [INFO]   Saved 63 rows -> ml/mma_mixed_martial_arts/consensus.csv
+2026-08-01 08:27:54,019 [INFO]   Saved 63 rows -> ml/mma_mixed_martial_arts/features.csv
+2026-08-01 08:27:54,120 [INFO]   Saved 15 rows -> ml/rugbyleague_nrl/consensus.csv
+2026-08-01 08:27:54,129 [INFO]   Saved 15 rows -> ml/rugbyleague_nrl/features.csv
+2026-08-01 08:27:54,132 [INFO]   Saved 1 rows -> ml/rugbyleague_nrl/labels.csv
+2026-08-01 08:27:54,134 [INFO]   Saved 0 rows -> ml/rugbyleague_nrl/ml_ready.csv
+2026-08-01 08:27:54,134 [INFO]   rugbyleague_nrl: 15 feature rows | 0 labeled
+2026-08-01 08:27:54,147 [INFO]   Saved 1 rows -> ml/rugbyleague_nrl_state_of_origin/consensus.csv
+2026-08-01 08:27:54,152 [INFO]   Saved 1 rows -> ml/rugbyleague_nrl_state_of_origin/features.csv
+2026-08-01 08:27:54,293 [INFO]   Saved 25 rows -> ml/soccer_argentina_primera_division/consensus.csv
+2026-08-01 08:27:54,304 [INFO]   Saved 25 rows -> ml/soccer_argentina_primera_division/features.csv
+2026-08-01 08:27:54,308 [INFO]   Saved 4 rows -> ml/soccer_argentina_primera_division/labels.csv
+2026-08-01 08:27:54,311 [INFO]   Saved 0 rows -> ml/soccer_argentina_primera_division/ml_ready.csv
+2026-08-01 08:27:54,311 [INFO]   soccer_argentina_primera_division: 25 feature rows | 0 labeled
+2026-08-01 08:27:54,356 [INFO]   Saved 6 rows -> ml/soccer_australia_aleague/consensus.csv
+2026-08-01 08:27:54,362 [INFO]   Saved 6 rows -> ml/soccer_australia_aleague/features.csv
+2026-08-01 08:27:54,442 [INFO]   Saved 12 rows -> ml/soccer_austria_bundesliga/consensus.csv
+2026-08-01 08:27:54,449 [INFO]   Saved 12 rows -> ml/soccer_austria_bundesliga/features.csv
+2026-08-01 08:27:54,576 [INFO]   Saved 22 rows -> ml/soccer_belgium_first_div/consensus.csv
+2026-08-01 08:27:54,586 [INFO]   Saved 22 rows -> ml/soccer_belgium_first_div/features.csv
+2026-08-01 08:27:54,679 [INFO]   Saved 14 rows -> ml/soccer_brazil_campeonato/consensus.csv
+2026-08-01 08:27:54,687 [INFO]   Saved 14 rows -> ml/soccer_brazil_campeonato/features.csv
+2026-08-01 08:27:54,755 [INFO]   Saved 10 rows -> ml/soccer_brazil_serie_b/consensus.csv
+2026-08-01 08:27:54,762 [INFO]   Saved 10 rows -> ml/soccer_brazil_serie_b/features.csv
+2026-08-01 08:27:54,820 [INFO]   Saved 8 rows -> ml/soccer_chile_campeonato/consensus.csv
+2026-08-01 08:27:54,827 [INFO]   Saved 8 rows -> ml/soccer_chile_campeonato/features.csv
+2026-08-01 08:27:54,885 [INFO]   Saved 8 rows -> ml/soccer_china_superleague/consensus.csv
+2026-08-01 08:27:54,892 [INFO]   Saved 8 rows -> ml/soccer_china_superleague/features.csv
+2026-08-01 08:27:55,013 [INFO]   Saved 20 rows -> ml/soccer_conmebol_copa_libertadores/consensus.csv
+2026-08-01 08:27:55,023 [INFO]   Saved 20 rows -> ml/soccer_conmebol_copa_libertadores/features.csv
+2026-08-01 08:27:55,143 [INFO]   Saved 21 rows -> ml/soccer_conmebol_copa_sudamericana/consensus.csv
+2026-08-01 08:27:55,153 [INFO]   Saved 21 rows -> ml/soccer_conmebol_copa_sudamericana/features.csv
+2026-08-01 08:27:55,159 [INFO]   Saved 11 rows -> ml/soccer_conmebol_copa_sudamericana/labels.csv
+2026-08-01 08:27:55,162 [INFO]   Saved 0 rows -> ml/soccer_conmebol_copa_sudamericana/ml_ready.csv
+2026-08-01 08:27:55,162 [INFO]   soccer_conmebol_copa_sudamericana: 21 feature rows | 0 labeled
+2026-08-01 08:27:55,263 [INFO]   Saved 17 rows -> ml/soccer_denmark_superliga/consensus.csv
+2026-08-01 08:27:55,272 [INFO]   Saved 17 rows -> ml/soccer_denmark_superliga/features.csv
+2026-08-01 08:27:55,473 [INFO]   Saved 35 rows -> ml/soccer_efl_champ/consensus.csv
+2026-08-01 08:27:55,486 [INFO]   Saved 35 rows -> ml/soccer_efl_champ/features.csv
+2026-08-01 08:27:55,490 [INFO]   Saved 2 rows -> ml/soccer_efl_champ/labels.csv
+2026-08-01 08:27:55,493 [INFO]   Saved 0 rows -> ml/soccer_efl_champ/ml_ready.csv
+2026-08-01 08:27:55,493 [INFO]   soccer_efl_champ: 35 feature rows | 0 labeled
+2026-08-01 08:27:55,609 [INFO]   Saved 19 rows -> ml/soccer_england_league1/consensus.csv
+2026-08-01 08:27:55,618 [INFO]   Saved 19 rows -> ml/soccer_england_league1/features.csv
+2026-08-01 08:27:55,623 [INFO]   Saved 7 rows -> ml/soccer_england_league1/labels.csv
+2026-08-01 08:27:55,626 [INFO]   Saved 0 rows -> ml/soccer_england_league1/ml_ready.csv
+2026-08-01 08:27:55,626 [INFO]   soccer_england_league1: 19 feature rows | 0 labeled
+2026-08-01 08:27:55,711 [INFO]   Saved 13 rows -> ml/soccer_england_league2/consensus.csv
+2026-08-01 08:27:55,720 [INFO]   Saved 13 rows -> ml/soccer_england_league2/features.csv
+2026-08-01 08:27:55,724 [INFO]   Saved 4 rows -> ml/soccer_england_league2/labels.csv
+2026-08-01 08:27:55,726 [INFO]   Saved 0 rows -> ml/soccer_england_league2/ml_ready.csv
+2026-08-01 08:27:55,726 [INFO]   soccer_england_league2: 13 feature rows | 0 labeled
+2026-08-01 08:27:55,853 [INFO]   Saved 20 rows -> ml/soccer_epl/consensus.csv
+2026-08-01 08:27:55,863 [INFO]   Saved 20 rows -> ml/soccer_epl/features.csv
+2026-08-01 08:27:55,891 [INFO]   Saved 2 rows -> ml/soccer_fa_cup/consensus.csv
+2026-08-01 08:27:55,897 [INFO]   Saved 2 rows -> ml/soccer_fa_cup/features.csv
+2026-08-01 08:27:56,061 [INFO]   Saved 27 rows -> ml/soccer_fifa_world_cup/consensus.csv
+2026-08-01 08:27:56,072 [INFO]   Saved 27 rows -> ml/soccer_fifa_world_cup/features.csv
+2026-08-01 08:27:56,127 [INFO]   Saved 6 rows -> ml/soccer_finland_veikkausliiga/consensus.csv
+2026-08-01 08:27:56,133 [INFO]   Saved 6 rows -> ml/soccer_finland_veikkausliiga/features.csv
+2026-08-01 08:27:56,155 [INFO]   Saved 2 rows -> ml/soccer_france_coupe_de_france/consensus.csv
+2026-08-01 08:27:56,161 [INFO]   Saved 2 rows -> ml/soccer_france_coupe_de_france/features.csv
+2026-08-01 08:27:56,281 [INFO]   Saved 19 rows -> ml/soccer_france_ligue_one/consensus.csv
+2026-08-01 08:27:56,291 [INFO]   Saved 19 rows -> ml/soccer_france_ligue_one/features.csv
+2026-08-01 08:27:56,355 [INFO]   Saved 9 rows -> ml/soccer_france_ligue_two/consensus.csv
+2026-08-01 08:27:56,362 [INFO]   Saved 9 rows -> ml/soccer_france_ligue_two/features.csv
+2026-08-01 08:27:56,478 [INFO]   Saved 18 rows -> ml/soccer_germany_bundesliga/consensus.csv
+2026-08-01 08:27:56,487 [INFO]   Saved 18 rows -> ml/soccer_germany_bundesliga/features.csv
+2026-08-01 08:27:56,552 [INFO]   Saved 9 rows -> ml/soccer_germany_bundesliga2/consensus.csv
+2026-08-01 08:27:56,559 [INFO]   Saved 9 rows -> ml/soccer_germany_bundesliga2/features.csv
+2026-08-01 08:27:56,578 [INFO]   Saved 2 rows -> ml/soccer_germany_dfb_pokal/consensus.csv
+2026-08-01 08:27:56,584 [INFO]   Saved 2 rows -> ml/soccer_germany_dfb_pokal/features.csv
+2026-08-01 08:27:56,652 [INFO]   Saved 10 rows -> ml/soccer_germany_liga3/consensus.csv
+2026-08-01 08:27:56,659 [INFO]   Saved 10 rows -> ml/soccer_germany_liga3/features.csv
+2026-08-01 08:27:56,727 [INFO]   Saved 10 rows -> ml/soccer_greece_super_league/consensus.csv
+2026-08-01 08:27:56,734 [INFO]   Saved 10 rows -> ml/soccer_greece_super_league/features.csv
+2026-08-01 08:27:56,757 [INFO]   Saved 2 rows -> ml/soccer_italy_coppa_italia/consensus.csv
+2026-08-01 08:27:56,763 [INFO]   Saved 2 rows -> ml/soccer_italy_coppa_italia/features.csv
+2026-08-01 08:27:56,889 [INFO]   Saved 20 rows -> ml/soccer_italy_serie_a/consensus.csv
+2026-08-01 08:27:56,899 [INFO]   Saved 20 rows -> ml/soccer_italy_serie_a/features.csv
+2026-08-01 08:27:56,967 [INFO]   Saved 10 rows -> ml/soccer_italy_serie_b/consensus.csv
+2026-08-01 08:27:56,975 [INFO]   Saved 10 rows -> ml/soccer_italy_serie_b/features.csv
+2026-08-01 08:27:56,978 [INFO]   Saved 1 rows -> ml/soccer_italy_serie_b/labels.csv
+2026-08-01 08:27:56,980 [INFO]   Saved 0 rows -> ml/soccer_italy_serie_b/ml_ready.csv
+2026-08-01 08:27:56,980 [INFO]   soccer_italy_serie_b: 10 feature rows | 0 labeled
+2026-08-01 08:27:57,032 [INFO]   Saved 8 rows -> ml/soccer_japan_j_league/consensus.csv
+2026-08-01 08:27:57,039 [INFO]   Saved 8 rows -> ml/soccer_japan_j_league/features.csv
+2026-08-01 08:27:57,104 [INFO]   Saved 10 rows -> ml/soccer_korea_kleague1/consensus.csv
+2026-08-01 08:27:57,112 [INFO]   Saved 10 rows -> ml/soccer_korea_kleague1/features.csv
+2026-08-01 08:27:57,115 [INFO]   Saved 1 rows -> ml/soccer_korea_kleague1/labels.csv
+2026-08-01 08:27:57,117 [INFO]   Saved 0 rows -> ml/soccer_korea_kleague1/ml_ready.csv
+2026-08-01 08:27:57,117 [INFO]   soccer_korea_kleague1: 10 feature rows | 0 labeled
+2026-08-01 08:27:57,157 [INFO]   Saved 5 rows -> ml/soccer_league_of_ireland/consensus.csv
+2026-08-01 08:27:57,163 [INFO]   Saved 5 rows -> ml/soccer_league_of_ireland/features.csv
+2026-08-01 08:27:57,310 [INFO]   Saved 25 rows -> ml/soccer_mexico_ligamx/consensus.csv
+2026-08-01 08:27:57,321 [INFO]   Saved 25 rows -> ml/soccer_mexico_ligamx/features.csv
+2026-08-01 08:27:57,384 [INFO]   Saved 9 rows -> ml/soccer_netherlands_eredivisie/consensus.csv
+2026-08-01 08:27:57,391 [INFO]   Saved 9 rows -> ml/soccer_netherlands_eredivisie/features.csv
+2026-08-01 08:27:57,449 [INFO]   Saved 8 rows -> ml/soccer_norway_eliteserien/consensus.csv
+2026-08-01 08:27:57,456 [INFO]   Saved 8 rows -> ml/soccer_norway_eliteserien/features.csv
+2026-08-01 08:27:57,460 [INFO]   Saved 2 rows -> ml/soccer_norway_eliteserien/labels.csv
+2026-08-01 08:27:57,462 [INFO]   Saved 0 rows -> ml/soccer_norway_eliteserien/ml_ready.csv
+2026-08-01 08:27:57,462 [INFO]   soccer_norway_eliteserien: 8 feature rows | 0 labeled
+2026-08-01 08:27:57,526 [INFO]   Saved 9 rows -> ml/soccer_poland_ekstraklasa/consensus.csv
+2026-08-01 08:27:57,534 [INFO]   Saved 9 rows -> ml/soccer_poland_ekstraklasa/features.csv
+2026-08-01 08:27:57,598 [INFO]   Saved 9 rows -> ml/soccer_portugal_primeira_liga/consensus.csv
+2026-08-01 08:27:57,605 [INFO]   Saved 9 rows -> ml/soccer_portugal_primeira_liga/features.csv
+2026-08-01 08:27:57,608 [INFO]   Saved 1 rows -> ml/soccer_portugal_primeira_liga/labels.csv
+2026-08-01 08:27:57,611 [INFO]   Saved 0 rows -> ml/soccer_portugal_primeira_liga/ml_ready.csv
+2026-08-01 08:27:57,611 [INFO]   soccer_portugal_primeira_liga: 9 feature rows | 0 labeled
+2026-08-01 08:27:57,661 [INFO]   Saved 8 rows -> ml/soccer_russia_premier_league/consensus.csv
+2026-08-01 08:27:57,669 [INFO]   Saved 8 rows -> ml/soccer_russia_premier_league/features.csv
+2026-08-01 08:27:57,689 [INFO]   Saved 2 rows -> ml/soccer_saudi_arabia_pro_league/consensus.csv
+2026-08-01 08:27:57,695 [INFO]   Saved 2 rows -> ml/soccer_saudi_arabia_pro_league/features.csv
+2026-08-01 08:27:57,699 [INFO]   Saved 2 rows -> ml/soccer_saudi_arabia_pro_league/labels.csv
+2026-08-01 08:27:57,701 [INFO]   Saved 0 rows -> ml/soccer_saudi_arabia_pro_league/ml_ready.csv
+2026-08-01 08:27:57,701 [INFO]   soccer_saudi_arabia_pro_league: 2 feature rows | 0 labeled
+2026-08-01 08:27:57,715 [INFO]   Saved 1 rows -> ml/soccer_spain_copa_del_rey/consensus.csv
+2026-08-01 08:27:57,721 [INFO]   Saved 1 rows -> ml/soccer_spain_copa_del_rey/features.csv
+2026-08-01 08:27:57,846 [INFO]   Saved 20 rows -> ml/soccer_spain_la_liga/consensus.csv
+2026-08-01 08:27:57,856 [INFO]   Saved 20 rows -> ml/soccer_spain_la_liga/features.csv
+2026-08-01 08:27:57,931 [INFO]   Saved 11 rows -> ml/soccer_spain_segunda_division/consensus.csv
+2026-08-01 08:27:57,938 [INFO]   Saved 11 rows -> ml/soccer_spain_segunda_division/features.csv
+2026-08-01 08:27:57,982 [INFO]   Saved 6 rows -> ml/soccer_spl/consensus.csv
+2026-08-01 08:27:57,988 [INFO]   Saved 6 rows -> ml/soccer_spl/features.csv
+2026-08-01 08:27:58,046 [INFO]   Saved 8 rows -> ml/soccer_sweden_allsvenskan/consensus.csv
+2026-08-01 08:27:58,053 [INFO]   Saved 8 rows -> ml/soccer_sweden_allsvenskan/features.csv
+2026-08-01 08:27:58,114 [INFO]   Saved 9 rows -> ml/soccer_sweden_superettan/consensus.csv
+2026-08-01 08:27:58,121 [INFO]   Saved 9 rows -> ml/soccer_sweden_superettan/features.csv
+2026-08-01 08:27:58,144 [INFO]   Saved 1 rows -> ml/soccer_sweden_superettan/labels.csv
+2026-08-01 08:27:58,147 [INFO]   Saved 0 rows -> ml/soccer_sweden_superettan/ml_ready.csv
+2026-08-01 08:27:58,147 [INFO]   soccer_sweden_superettan: 9 feature rows | 0 labeled
+2026-08-01 08:27:58,195 [INFO]   Saved 7 rows -> ml/soccer_switzerland_superleague/consensus.csv
+2026-08-01 08:27:58,202 [INFO]   Saved 7 rows -> ml/soccer_switzerland_superleague/features.csv
+2026-08-01 08:27:58,266 [INFO]   Saved 9 rows -> ml/soccer_turkey_super_league/consensus.csv
+2026-08-01 08:27:58,274 [INFO]   Saved 9 rows -> ml/soccer_turkey_super_league/features.csv
+2026-08-01 08:27:58,298 [INFO]   Saved 2 rows -> ml/soccer_uefa_champs_league/consensus.csv
+2026-08-01 08:27:58,304 [INFO]   Saved 2 rows -> ml/soccer_uefa_champs_league/features.csv
+2026-08-01 08:27:58,308 [INFO]   Saved 4 rows -> ml/soccer_uefa_champs_league/labels.csv
+2026-08-01 08:27:58,310 [INFO]   Saved 0 rows -> ml/soccer_uefa_champs_league/ml_ready.csv
+2026-08-01 08:27:58,311 [INFO]   soccer_uefa_champs_league: 2 feature rows | 0 labeled
+2026-08-01 08:27:58,338 [INFO]   Saved 3 rows -> ml/soccer_uefa_europa_conference_league/consensus.csv
+2026-08-01 08:27:58,344 [INFO]   Saved 3 rows -> ml/soccer_uefa_europa_conference_league/features.csv
+2026-08-01 08:27:58,348 [INFO]   Saved 1 rows -> ml/soccer_uefa_europa_conference_league/labels.csv
+2026-08-01 08:27:58,350 [INFO]   Saved 0 rows -> ml/soccer_uefa_europa_conference_league/ml_ready.csv
+2026-08-01 08:27:58,350 [INFO]   soccer_uefa_europa_conference_league: 3 feature rows | 0 labeled
+2026-08-01 08:27:58,378 [INFO]   Saved 3 rows -> ml/soccer_uefa_europa_league/consensus.csv
+2026-08-01 08:27:58,384 [INFO]   Saved 3 rows -> ml/soccer_uefa_europa_league/features.csv
+2026-08-01 08:27:58,387 [INFO]   Saved 1 rows -> ml/soccer_uefa_europa_league/labels.csv
+2026-08-01 08:27:58,389 [INFO]   Saved 0 rows -> ml/soccer_uefa_europa_league/ml_ready.csv
+2026-08-01 08:27:58,390 [INFO]   soccer_uefa_europa_league: 3 feature rows | 0 labeled
+2026-08-01 08:27:58,630 [INFO]   Saved 40 rows -> ml/soccer_usa_mls/consensus.csv
+2026-08-01 08:27:58,645 [INFO]   Saved 40 rows -> ml/soccer_usa_mls/features.csv
+2026-08-01 08:27:58,680 [INFO]   Saved 4 rows -> ml/tennis_atp_barcelona_open/consensus.csv
+2026-08-01 08:27:58,686 [INFO]   Saved 4 rows -> ml/tennis_atp_barcelona_open/features.csv
+2026-08-01 08:27:58,721 [INFO]   Saved 4 rows -> ml/tennis_atp_munich/consensus.csv
+2026-08-01 08:27:58,728 [INFO]   Saved 4 rows -> ml/tennis_atp_munich/features.csv
+2026-08-01 08:27:58,756 [INFO]   Saved 3 rows -> ml/tennis_wta_stuttgart_open/consensus.csv
+2026-08-01 08:27:58,762 [INFO]   Saved 3 rows -> ml/tennis_wta_stuttgart_open/features.csv
+2026-08-01 08:27:58,764 [INFO] 
+============================================================
+2026-08-01 08:27:58,764 [INFO] SUMMARY
+2026-08-01 08:27:58,765 [INFO]   Requests          : 1
+2026-08-01 08:27:58,765 [INFO]   Credits used      : None
+2026-08-01 08:27:58,765 [INFO]   Credits remaining : None
+2026-08-01 08:27:58,765 [INFO]   Checkpoint tasks  : 1,438
+2026-08-01 08:27:58,765 [INFO]   Sports with raw   : 89
+2026-08-01 08:27:58,765 [INFO]   Sports with ML    : 79
+2026-08-01 08:27:58,765 [INFO]   Output            : /home/runner/work/odds-api-data/odds-api-data/odds_data
+2026-08-01 08:27:58,765 [INFO] ============================================================
+2026-08-01 08:27:58,765 [INFO] Total time: 0:00:06.704242
